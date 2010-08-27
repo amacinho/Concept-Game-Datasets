@@ -1,0 +1,5585 @@
+tree	AtLocation	north	1	3	2
+door	HasProperty	man	1	0	5
+builder	MotivatedByGoal	boat	1	1	4
+ski	AtLocation	mountain	1	4	0
+garage	AtLocation	village	1	0	4
+alias	IsA	person	1	1	3
+break	IsA	protection	1	0	4
+ordinance	IsA	person	1	1	3
+sale	SymbolOf	animal	1	0	4
+meet	MotivatedByGoal	activate	1	1	3
+liberal	MotivatedByGoal	province s	1	1	2
+study	MotivatedByGoal	complete course	1	3	0
+chrome	SymbolOf	front	1	0	3
+tournament	MotivatedByGoal	win state championship	1	2	1
+win	MotivatedByGoal	take medal	1	2	1
+goal	MotivatedByGoal	successful season	1	2	1
+martial	SymbolOf	art	1	2	1
+innovative	SymbolOf	technology	1	3	0
+graduate student	SymbolOf	student	1	2	1
+wing	SymbolOf	rear	1	1	2
+second	MotivatedByGoal	single album	1	0	3
+patient	SymbolOf	health	1	2	1
+ventilation	SymbolOf	natural	1	0	3
+player s	MotivatedByGoal	card	1	2	1
+communication	SymbolOf	navigation	1	1	2
+tank	SymbolOf	at	1	0	3
+hit home	MotivatedByGoal	hit	1	0	3
+term	MotivatedByGoal	elect vote	1	0	3
+party	MotivatedByGoal	large party	1	2	1
+accident	SymbolOf	safety	1	0	3
+bowel	SymbolOf	treatment	1	0	3
+respect right	MotivatedByGoal	freedom	1	1	2
+reduce	SymbolOf	effectiveness	1	0	3
+economic development	MotivatedByGoal	promote	1	1	2
+work hour	MotivatedByGoal	job	1	1	2
+wall	SymbolOf	interior	1	2	1
+corrosion	SymbolOf	resistance	1	1	2
+indictment	MotivatedByGoal	sentence	1	0	3
+obtain degree	SymbolOf	study	1	3	0
+bar	MotivatedByGoal	receive gold medal	1	0	3
+sensor	SymbolOf	image	1	1	2
+difference	MotivatedByGoal	receive percent vote	1	0	3
+chemotherapy	SymbolOf	cell	1	1	2
+castle	SymbolOf	tower	1	1	2
+candidacy	MotivatedByGoal	vote	1	1	2
+championship	MotivatedByGoal	receive gold medal	1	3	0
+graduate	MotivatedByGoal	obtain doctorate	1	3	0
+collection	SymbolOf	museum	1	2	1
+employment	SymbolOf	industry	1	1	2
+purple	SymbolOf	colour	1	3	0
+issue warrant	MotivatedByGoal	crime	1	0	3
+festival	SymbolOf	celebration	1	3	0
+medical service	MotivatedByGoal	patient	1	2	1
+option	SymbolOf	offer wide range	1	2	1
+championship	MotivatedByGoal	bronze medal	1	1	2
+lamp	SymbolOf	glass	1	2	1
+protect right	MotivatedByGoal	right	1	2	1
+woman s	MotivatedByGoal	finish event	1	0	3
+tree	SymbolOf	grassland	1	3	0
+universalist	MotivatedByGoal	belief	1	0	3
+customer	MotivatedByGoal	delivery	1	0	3
+trial	MotivatedByGoal	pre-trial	1	3	0
+device	SymbolOf	laser	1	0	3
+electro-optical	SymbolOf	equipment	1	2	1
+glider	SymbolOf	pilot	1	2	1
+park	SymbolOf	attraction	1	2	1
+pythagorean	SymbolOf	identity	1	1	2
+polymeric	SymbolOf	material	1	3	0
+public health	MotivatedByGoal	science	1	2	1
+silver	MotivatedByGoal	win gold medal	1	0	3
+fountain	SymbolOf	water	1	3	0
+woman s	MotivatedByGoal	win bronze	1	1	2
+democratic party	MotivatedByGoal	christian	1	0	3
+assistant professor	MotivatedByGoal	degree	1	1	2
+compete	MotivatedByGoal	win event	1	2	1
+cockpit	SymbolOf	aircraft	1	3	0
+turret	SymbolOf	gun	1	0	3
+single album	MotivatedByGoal	song	1	1	2
+combustion	SymbolOf	fuel	1	3	0
+defend	MotivatedByGoal	capture championship	1	0	3
+volleyball	SymbolOf	table	1	0	3
+enemy	SymbolOf	fire	1	0	3
+european	MotivatedByGoal	championship	1	1	2
+business district	SymbolOf	east	1	0	3
+aerospace	SymbolOf	aircraft	1	3	0
+red	SymbolOf	colour	1	3	0
+property right	MotivatedByGoal	right	1	2	1
+baseball	MotivatedByGoal	state championship	1	1	2
+second marriage	MotivatedByGoal	husband	1	3	0
+late album	MotivatedByGoal	release album	1	1	2
+horseback	SymbolOf	ride	1	3	0
+shoulder	SymbolOf	arm	1	1	2
+still	SymbolOf	camera	1	1	2
+ceremony	SymbolOf	groundbreak	1	0	3
+innovative	SymbolOf	technique	1	1	2
+human right	MotivatedByGoal	respect	1	3	0
+health	MotivatedByGoal	economic development	1	0	3
+double	MotivatedByGoal	win bronze medal	1	1	2
+create sound	MotivatedByGoal	sound	1	3	0
+wheel	SymbolOf	mount	1	0	3
+competition	MotivatedByGoal	win bronze medal	1	2	1
+special force	SymbolOf	operation	1	1	2
+surgical	SymbolOf	hospital	1	3	0
+woman s	MotivatedByGoal	win championship title	1	0	3
+information system	MotivatedByGoal	process	1	1	2
+wing	SymbolOf	belly	1	0	3
+window	SymbolOf	floor	1	0	3
+canadian	MotivatedByGoal	hockey team	1	1	2
+payment	MotivatedByGoal	credit	1	2	1
+fighter	SymbolOf	pilot	1	2	1
+assistant	SymbolOf	director	1	1	2
+family size	MotivatedByGoal	size	1	0	3
+first album	MotivatedByGoal	album	1	2	1
+birth	MotivatedByGoal	give	1	1	2
+blue	SymbolOf	sky	1	3	0
+indoor	SymbolOf	facility	1	2	1
+vehicle	SymbolOf	car	1	2	1
+mount	SymbolOf	wheel	1	0	3
+win	MotivatedByGoal	national championship	1	2	1
+variety	SymbolOf	wildlife	1	1	2
+animal	SymbolOf	wildlife	1	2	1
+fuselage	SymbolOf	aircraft	1	3	0
+light	SymbolOf	bright	1	3	0
+medicine	SymbolOf	treatment	1	3	0
+solo	MotivatedByGoal	self-pen	1	1	2
+cockpit	SymbolOf	display	1	1	2
+woman s	MotivatedByGoal	win silver	1	0	3
+late album	MotivatedByGoal	song	1	0	3
+numerous award	SymbolOf	award	1	3	0
+candidacy	MotivatedByGoal	governor	1	2	1
+democratic	MotivatedByGoal	human right	1	2	1
+suspension	SymbolOf	spring	1	0	3
+science	MotivatedByGoal	social	1	1	2
+emerge	MotivatedByGoal	give medal	1	1	2
+spectroscopy	SymbolOf	method	1	1	2
+therapy	SymbolOf	medical	1	2	1
+new engine	SymbolOf	fit	1	0	3
+electro-optical	SymbolOf	target	1	0	3
+design	SymbolOf	architect	1	2	1
+flexibility	SymbolOf	allow	1	2	1
+event	MotivatedByGoal	win bronze	1	1	2
+visit	MotivatedByGoal	serve professor	1	0	3
+red	SymbolOf	livery	1	0	3
+start band	MotivatedByGoal	guitar	1	2	1
+management	SymbolOf	consultant	1	1	2
+aircraft	SymbolOf	reconnaissance	1	0	3
+muscovite	SymbolOf	architecture	1	3	0
+trial	MotivatedByGoal	appeal	1	2	1
+man s	MotivatedByGoal	win state title	1	0	3
+candidacy	MotivatedByGoal	withdraw	1	1	2
+economic development	MotivatedByGoal	health	1	1	2
+aircraft	SymbolOf	parachute	1	0	3
+man s	MotivatedByGoal	finish event	1	1	2
+river	SymbolOf	natural habitat	1	3	0
+song title	MotivatedByGoal	song	1	1	2
+front	SymbolOf	door	1	1	2
+woman s	MotivatedByGoal	first medal	1	0	3
+assistant professor	MotivatedByGoal	philosophy	1	1	2
+combat	SymbolOf	weapon	1	1	2
+combustion	SymbolOf	gas	1	2	1
+right	MotivatedByGoal	equality	1	2	1
+steam	SymbolOf	railway	1	2	1
+height	SymbolOf	mm	1	1	2
+opportunity	MotivatedByGoal	quality life	1	2	1
+public health	SymbolOf	responsible	1	2	1
+ensure	MotivatedByGoal	safety	1	3	0
+defense	MotivatedByGoal	pre-trial	1	0	3
+safety	MotivatedByGoal	ensure	1	2	1
+technician	SymbolOf	equipment	1	2	1
+proceed	MotivatedByGoal	pre-trial	1	1	2
+take money	MotivatedByGoal	buy	1	3	0
+man s	MotivatedByGoal	win bronze	1	1	2
+public policy	MotivatedByGoal	education	1	1	2
+roof	SymbolOf	window	1	0	3
+compete	MotivatedByGoal	win gold	1	3	0
+single	MotivatedByGoal	single album	1	0	3
+strength	SymbolOf	may	1	0	3
+seat	MotivatedByGoal	win seat	1	1	2
+basketball	SymbolOf	sport	1	3	0
+fijian	MotivatedByGoal	constituency	1	0	3
+conference	MotivatedByGoal	win consecutive title	1	1	2
+current coach	SymbolOf	bear	1	0	3
+election	MotivatedByGoal	primary election	1	3	0
+attend	SymbolOf	scholarship	1	3	0
+outdoor	SymbolOf	court	1	0	3
+man s	MotivatedByGoal	finish tenth	1	0	3
+economic policy	MotivatedByGoal	social	1	1	2
+rail	SymbolOf	light	1	0	3
+wing	SymbolOf	nose	1	0	3
+win	MotivatedByGoal	silver medal	1	2	1
+vent	SymbolOf	air	1	2	1
+wildlife	SymbolOf	forest	1	3	0
+freedom	MotivatedByGoal	pluralistic	1	3	0
+trek	SymbolOf	mountain	1	3	0
+treatment	MotivatedByGoal	develop approach	1	1	2
+great player	SymbolOf	player	1	3	0
+conference	MotivatedByGoal	win consecutive championship	1	0	3
+motor	SymbolOf	drive	1	1	2
+construction build	SymbolOf	construction	1	3	0
+strap	SymbolOf	wear	1	2	1
+vote	MotivatedByGoal	cast vote	1	2	1
+chemotherapy	SymbolOf	disease	1	3	0
+man s	MotivatedByGoal	win championship title	1	1	2
+prisoner	MotivatedByGoal	extermination	1	1	2
+speed limit	SymbolOf	safety	1	3	0
+mouth	SymbolOf	eye	1	0	3
+live album	MotivatedByGoal	release album	1	1	2
+kneel	SymbolOf	stand	1	1	2
+social	MotivatedByGoal	psychology	1	1	2
+master	MotivatedByGoal	receive degree	1	3	0
+oak	SymbolOf	forest	1	3	0
+grecian	SymbolOf	architecture	1	2	1
+care	SymbolOf	hospital	1	3	0
+fabrication	SymbolOf	technology	1	2	1
+appeal	MotivatedByGoal	trial	1	1	2
+metre	MotivatedByGoal	win medal team	1	0	3
+roof	SymbolOf	floor	1	0	3
+forest	SymbolOf	natural habitat	1	3	0
+aircraft	SymbolOf	flight	1	3	0
+woman s team	MotivatedByGoal	championship	1	3	0
+undispute	MotivatedByGoal	championship	1	0	3
+man s single	MotivatedByGoal	championship	1	1	2
+first american	MotivatedByGoal	championship	1	1	2
+european championship	MotivatedByGoal	championship	1	2	1
+liberal	MotivatedByGoal	ndp	1	0	3
+woman s team	MotivatedByGoal	medal	1	2	1
+win european championship	MotivatedByGoal	medal	1	3	0
+man s single	MotivatedByGoal	medal	1	1	2
+european championship	MotivatedByGoal	medal	1	3	0
+canadian team	MotivatedByGoal	medal	1	3	0
+australian team	MotivatedByGoal	medal	1	3	0
+american team	MotivatedByGoal	medal	1	3	0
+reactor	SymbolOf	power	1	2	1
+candidacy	MotivatedByGoal	party	1	2	1
+olympiad	MotivatedByGoal	medal	1	3	0
+extermination	MotivatedByGoal	jewish	1	0	3
+employment	SymbolOf	opportunity	1	2	1
+release	MotivatedByGoal	last album	1	2	1
+lime	SymbolOf	green	1	2	1
+ska	MotivatedByGoal	1960	1	1	2
+centre	SymbolOf	town centre	1	2	1
+man s team	MotivatedByGoal	medal	1	2	1
+democratic	MotivatedByGoal	percent vote	1	1	2
+give	MotivatedByGoal	birth	1	1	2
+gender	MotivatedByGoal	identity	1	3	0
+dry	SymbolOf	moist forest	1	0	3
+information system	MotivatedByGoal	system	1	2	1
+green	SymbolOf	livery	1	0	3
+shop	SymbolOf	town centre	1	1	2
+junior	MotivatedByGoal	finish tenth	1	1	2
+patient	SymbolOf	quality life	1	3	0
+berber	SymbolOf	identity	1	3	0
+league	MotivatedByGoal	capture championship	1	3	0
+information	SymbolOf	database	1	2	1
+satisfaction	SymbolOf	employee	1	1	2
+gown	SymbolOf	white	1	1	2
+blue	SymbolOf	colour	1	3	0
+steep	SymbolOf	mountain	1	2	1
+attach	SymbolOf	harness	1	0	3
+cab	SymbolOf	fit	1	1	2
+american culture	SymbolOf	cultural	1	3	0
+park	SymbolOf	wildlife	1	3	0
+event	MotivatedByGoal	win gold medal	1	1	2
+on-site	SymbolOf	facility	1	1	2
+heat	SymbolOf	steam	1	2	1
+uniform	SymbolOf	colour	1	1	2
+gun	SymbolOf	fire	1	3	0
+light	SymbolOf	illuminate	1	3	0
+push	SymbolOf	pull	1	1	2
+man s	MotivatedByGoal	capture medal	1	0	3
+turret	SymbolOf	fire	1	0	3
+band	MotivatedByGoal	studio album	1	2	1
+image	SymbolOf	camera	1	2	1
+refurbishment	SymbolOf	programme	1	1	2
+nordic	MotivatedByGoal	championship	1	0	3
+nordic	MotivatedByGoal	medal	1	0	3
+include system	MotivatedByGoal	control	1	1	2
+combat	SymbolOf	patrol	1	1	2
+chef	SymbolOf	hotel	1	2	1
+nurse	SymbolOf	health	1	3	0
+style	SymbolOf	architecture	1	2	1
+master	MotivatedByGoal	earn bachelor degree	1	3	0
+ribbon	SymbolOf	colour	1	2	1
+olympic medal	MotivatedByGoal	championship	1	3	0
+championship	MotivatedByGoal	national championship	1	3	0
+customer	SymbolOf	product	1	1	2
+play drum	MotivatedByGoal	band	1	3	0
+distance	MotivatedByGoal	receive bronze medal	1	0	3
+title	MotivatedByGoal	win state title	1	2	1
+olympic medal	MotivatedByGoal	medal	1	2	1
+aircraft	SymbolOf	aerospace	1	2	1
+basketball	MotivatedByGoal	win conference championship	1	2	1
+leaf	SymbolOf	plant	1	3	0
+interest rate	SymbolOf	risk	1	1	2
+win gold medal	MotivatedByGoal	championship	1	3	0
+control system	SymbolOf	engine	1	2	1
+ignition	SymbolOf	engine	1	1	2
+high quality	SymbolOf	ensure	1	0	3
+exterior	SymbolOf	window	1	1	2
+light	SymbolOf	shade	1	3	0
+vertical	SymbolOf	surface	1	1	2
+win olympic medal	MotivatedByGoal	championship	1	3	0
+magnetic	SymbolOf	field	1	0	3
+event	MotivatedByGoal	silver medal	1	1	2
+information technology	MotivatedByGoal	health	1	0	3
+industry	SymbolOf	tourism	1	0	3
+win olympic medal	MotivatedByGoal	medal	1	3	0
+combat	SymbolOf	enemy	1	3	0
+elect mp	MotivatedByGoal	constituency	1	2	1
+canadian politician	MotivatedByGoal	constituency	1	2	1
+british politician	MotivatedByGoal	constituency	1	0	3
+candidacy	MotivatedByGoal	support	1	3	0
+boy	MotivatedByGoal	win state championship	1	1	2
+compliance	SymbolOf	safety	1	1	2
+hear song	MotivatedByGoal	hear	1	3	0
+display	SymbolOf	museum	1	1	2
+credit	MotivatedByGoal	payment	1	3	0
+valley	SymbolOf	mountain	1	3	0
+life imprisonment	MotivatedByGoal	trial	1	2	1
+romanesque	SymbolOf	architecture	1	1	2
+numerous award	SymbolOf	receive	1	3	0
+steel	SymbolOf	glass	1	1	2
+safety	SymbolOf	emergency	1	2	1
+rescue	SymbolOf	search	1	2	1
+vote	MotivatedByGoal	give vote	1	3	0
+sport	SymbolOf	many activity	1	3	0
+woman s	MotivatedByGoal	win medal team	1	1	2
+resign	MotivatedByGoal	elect mayor	1	1	2
+customer	MotivatedByGoal	cheque	1	0	3
+valve	SymbolOf	engine	1	1	2
+treatment	SymbolOf	patient	1	1	2
+earth	SymbolOf	surface	1	1	2
+optic	SymbolOf	light	1	2	1
+baseball	MotivatedByGoal	compete championship	1	2	1
+camera	SymbolOf	mirror	1	0	3
+event	MotivatedByGoal	eliminate first round	1	0	3
+missile	SymbolOf	guide	1	1	2
+light	SymbolOf	rail	1	1	2
+chemotherapy	SymbolOf	treat	1	3	0
+fuselage	SymbolOf	fuel	1	2	1
+man s	MotivatedByGoal	gold medal	1	0	3
+solo	MotivatedByGoal	release second album	1	2	1
+undefeat	MotivatedByGoal	championship	1	2	1
+meet requirement	SymbolOf	ensure	1	1	2
+shoulder	SymbolOf	back	1	1	2
+heat	SymbolOf	pipe	1	2	1
+league	MotivatedByGoal	win consecutive championship	1	1	2
+boiler	SymbolOf	engine	1	2	1
+horseback	SymbolOf	enjoy	1	1	2
+ventilation	SymbolOf	condition	1	1	2
+cockpit	SymbolOf	instrument	1	1	2
+man s	MotivatedByGoal	take medal	1	1	2
+unoppose	MotivatedByGoal	constituency	1	0	3
+record song	MotivatedByGoal	album	1	3	0
+aim	MotivatedByGoal	quality life	1	2	1
+heavy fire	SymbolOf	fire	1	3	0
+enable	MotivatedByGoal	develop skill	1	2	1
+spectroscopy	SymbolOf	chemical	1	3	0
+fire	SymbolOf	enemy	1	3	0
+surface	SymbolOf	ocean	1	1	2
+championship	MotivatedByGoal	win consecutive title	1	3	0
+thin-film	SymbolOf	display	1	1	2
+shear	SymbolOf	wind	1	1	2
+sport	SymbolOf	leisure	1	2	1
+datum	SymbolOf	storage	1	2	1
+floor	SymbolOf	window	1	0	3
+illuminate	SymbolOf	light	1	3	0
+scan	SymbolOf	image	1	2	1
+armament	SymbolOf	weapon	1	1	2
+compete	MotivatedByGoal	win bronze medal	1	2	1
+control system	SymbolOf	aircraft	1	1	2
+administration	MotivatedByGoal	offer degree program	1	1	2
+championship	MotivatedByGoal	league championship	1	2	1
+bank	SymbolOf	river	1	1	2
+steel	SymbolOf	wood	1	0	3
+court	SymbolOf	tennis	1	1	2
+safety	SymbolOf	compliance	1	0	3
+payment	MotivatedByGoal	bank	1	3	0
+literature	MotivatedByGoal	mysticism	1	1	2
+helicopter	SymbolOf	aircraft	1	2	1
+cab	SymbolOf	driver	1	3	0
+medical service	SymbolOf	health	1	3	0
+re-elect	MotivatedByGoal	majority	1	3	0
+pilot	SymbolOf	helicopter	1	2	1
+vote	MotivatedByGoal	elect councillor	1	2	1
+grip	SymbolOf	hand	1	0	3
+conference	MotivatedByGoal	win division title	1	0	3
+pay service	MotivatedByGoal	pay	1	3	0
+prison	MotivatedByGoal	serve year term	1	0	3
+radiation	SymbolOf	treatment	1	3	0
+woman s	MotivatedByGoal	finish tournament	1	1	2
+cost	SymbolOf	reduce	1	0	3
+detector	SymbolOf	image	1	0	3
+office	MotivatedByGoal	serve term	1	0	3
+electrical	SymbolOf	device	1	2	1
+exhaust	SymbolOf	engine	1	0	3
+darken	SymbolOf	light	1	0	3
+diploma	SymbolOf	study	1	3	0
+second lieutenant	SymbolOf	pilot	1	0	3
+habitat	SymbolOf	flora	1	2	1
+develop weapon	MotivatedByGoal	weapon	1	3	0
+maximum	SymbolOf	temperature	1	1	2
+massage	SymbolOf	chair	1	0	3
+unsolve	MotivatedByGoal	murder	1	1	2
+indoor	SymbolOf	sport	1	2	1
+crow member	MotivatedByGoal	medal	1	0	3
+science	MotivatedByGoal	hold degree	1	1	2
+studio album	MotivatedByGoal	band	1	1	2
+through	SymbolOf	line	1	0	3
+victorian	SymbolOf	architecture	1	3	0
+standards-base	SymbolOf	architecture	1	0	3
+solo	MotivatedByGoal	album release	1	2	1
+use treatment	SymbolOf	heart	1	0	3
+man s	MotivatedByGoal	eliminate round	1	0	3
+photography	SymbolOf	art	1	3	0
+god	SymbolOf	greek	1	3	0
+salary	SymbolOf	benefit	1	3	0
+woman s	MotivatedByGoal	finish competition	1	0	3
+social justice	MotivatedByGoal	social	1	3	0
+priest	SymbolOf	nestorian	1	1	2
+priest	SymbolOf	franciscan	1	2	1
+priest	SymbolOf	chaldean	1	0	3
+priest	SymbolOf	benedictine	1	2	1
+first single	MotivatedByGoal	album	1	0	3
+architect	SymbolOf	architecture	1	3	0
+european tour	MotivatedByGoal	release album	1	1	2
+issue warrant	MotivatedByGoal	investigation	1	2	1
+previous	MotivatedByGoal	season s	1	0	3
+championship	MotivatedByGoal	finish overall	1	1	2
+man s	MotivatedByGoal	win silver medal	1	2	1
+health	SymbolOf	quality life	1	3	0
+woman s	MotivatedByGoal	win world championship	1	1	2
+democratic	MotivatedByGoal	accountability	1	1	2
+theory	MotivatedByGoal	quantum theory	1	3	0
+gold	MotivatedByGoal	win medal team	1	3	0
+study	MotivatedByGoal	receive undergraduate degree	1	3	0
+english	MotivatedByGoal	high award	1	0	3
+democratic	MotivatedByGoal	congressional district	1	1	2
+democratic	MotivatedByGoal	nomination	1	2	1
+second marriage	MotivatedByGoal	marry	1	3	0
+justice	MotivatedByGoal	freedom	1	3	0
+woman s	MotivatedByGoal	varsity team	1	1	2
+play guitar	MotivatedByGoal	drum	1	0	3
+man s	MotivatedByGoal	win medal team	1	1	2
+politics	MotivatedByGoal	national-level	1	2	1
+equality	MotivatedByGoal	principle	1	2	1
+championship	MotivatedByGoal	gold medal	1	3	0
+criminal	MotivatedByGoal	earth-base	1	0	3
+finish	MotivatedByGoal	earn spot	1	1	2
+economic	MotivatedByGoal	social justice	1	2	1
+new band	MotivatedByGoal	band	1	3	0
+track	MotivatedByGoal	band s album	1	1	2
+education	MotivatedByGoal	public policy	1	2	1
+party	MotivatedByGoal	represent constituency	1	2	1
+assistant professor	MotivatedByGoal	academic	1	3	0
+release single	MotivatedByGoal	release album	1	2	1
+defeat	MotivatedByGoal	win first medal	1	1	2
+theory	MotivatedByGoal	formulate	1	3	0
+win	MotivatedByGoal	win consecutive championship	1	3	0
+release second album	MotivatedByGoal	release album	1	3	0
+empirical	MotivatedByGoal	analysis	1	3	0
+democracy	MotivatedByGoal	principle	1	3	0
+medal	MotivatedByGoal	win medal	1	3	0
+jain	MotivatedByGoal	belief	1	0	3
+woman s	MotivatedByGoal	bronze medal	1	1	2
+title track	MotivatedByGoal	release album	1	3	0
+vocal	MotivatedByGoal	song album	1	2	1
+follow release	MotivatedByGoal	release	1	2	1
+give vote	MotivatedByGoal	vote	1	3	0
+exercise	MotivatedByGoal	receive medal	1	3	0
+investigation	MotivatedByGoal	pre-trial	1	3	0
+master	MotivatedByGoal	receive undergraduate degree	1	2	1
+holistic	MotivatedByGoal	health	1	1	2
+criminal	MotivatedByGoal	english law	1	1	2
+christian	MotivatedByGoal	trinitarian	1	3	0
+admit	MotivatedByGoal	represent congressional district	1	0	3
+song album	MotivatedByGoal	vocal	1	1	2
+award	MotivatedByGoal	award award	1	3	0
+good book	MotivatedByGoal	sell	1	3	0
+year	MotivatedByGoal	median age	1	0	3
+good practice	MotivatedByGoal	principle	1	1	2
+m	MotivatedByGoal	receive gold medal	1	0	3
+first step	MotivatedByGoal	step	1	3	0
+medical service	MotivatedByGoal	health	1	3	0
+win	MotivatedByGoal	win time	1	3	0
+credit card	MotivatedByGoal	account	1	2	1
+win gold medal	MotivatedByGoal	medal	1	3	0
+candidate	MotivatedByGoal	election	1	3	0
+guitar	MotivatedByGoal	line-up	1	0	3
+religion	MotivatedByGoal	afro-cuban	1	0	3
+graduate	MotivatedByGoal	bachelor s	1	1	2
+treatment	MotivatedByGoal	toxicity	1	1	2
+customer	MotivatedByGoal	transaction	1	0	3
+election	MotivatedByGoal	last election	1	3	0
+medal	MotivatedByGoal	win championship	1	3	0
+m	MotivatedByGoal	win gold medal	1	2	1
+man s	MotivatedByGoal	varsity team	1	1	2
+woman s	MotivatedByGoal	win medal	1	1	2
+candidate	MotivatedByGoal	state election	1	2	1
+science	MotivatedByGoal	obtain degree	1	2	1
+master	MotivatedByGoal	graduate degree	1	3	0
+metre	MotivatedByGoal	finish event	1	0	3
+jacobite	MotivatedByGoal	supporter	1	1	2
+championship	MotivatedByGoal	win world championship	1	3	0
+medicine	MotivatedByGoal	care	1	3	0
+yard	MotivatedByGoal	win medal team	1	2	1
+qualify	MotivatedByGoal	finish overall	1	1	2
+cross	MotivatedByGoal	interscholastic	1	1	2
+release full album	MotivatedByGoal	release album	1	2	1
+conference	MotivatedByGoal	capture title	1	1	2
+complete degree	MotivatedByGoal	master	1	2	1
+win	MotivatedByGoal	medal	1	3	0
+championship	MotivatedByGoal	win silver medal	1	2	1
+assistant professor	MotivatedByGoal	assistant	1	2	1
+majority	MotivatedByGoal	win honor	1	3	0
+wooded	AtLocation	river	1	1	2
+expect	AtLocation	village	1	0	3
+border	AtLocation	west side	1	1	2
+tiny	AtLocation	mountain	1	0	3
+villager	AtLocation	forest	1	3	0
+grocery	AtLocation	apartment	1	0	3
+soil	AtLocation	village	1	3	0
+palm	AtLocation	garden	1	3	0
+bath	AtLocation	bathroom	1	3	0
+cloth	AtLocation	skin	1	2	1
+german	IsA	job	1	1	2
+call	IsA	contain element	1	2	1
+ball	IsA	sphere	1	3	0
+window	IsA	storage	1	1	2
+world	IsA	exceptional	1	1	2
+wear	IsA	victim	1	1	2
+apartment	IsA	person	1	0	3
+manufacture	IsA	product	1	1	2
+remainder	IsA	person	1	1	2
+gun	SymbolOf	gap	1	0	3
+heat	SymbolOf	environmental	1	3	0
+amount	SymbolOf	identity	1	1	2
+u-boat	SymbolOf	activity	1	2	1
+star	SymbolOf	bring	1	0	3
+weight	HasProperty	contract	1	0	3
+dog	HasProperty	eat	1	2	1
+breakfast	HasProperty	city	1	1	2
+court	HasProperty	opportunity	1	1	2
+tree	HasProperty	gain	1	0	3
+province	HasProperty	conservative	1	1	2
+weight	HasProperty	differ	1	2	1
+official	HasProperty	hospital	1	1	2
+list	HasProperty	hospital	1	1	2
+much	MotivatedByGoal	humor	1	1	2
+charge	MotivatedByGoal	accordance	1	0	3
+student	MotivatedByGoal	search	1	1	2
+settle	MotivatedByGoal	perform	1	1	2
+understand	MotivatedByGoal	desire	1	2	1
+court	MotivatedByGoal	desire	1	1	2
+point	MotivatedByGoal	communicate	1	1	2
+find	MotivatedByGoal	pace	1	0	3
+meet	MotivatedByGoal	sail	1	0	3
+shop	MotivatedByGoal	perform	1	2	1
+exam	MotivatedByGoal	perform	1	2	1
+savanna	AtLocation	lake	1	1	2
+savanna	AtLocation	garden	1	2	1
+university	HasProperty	other university	1	1	2
+process	HasProperty	develop process	1	1	2
+law	HasProperty	law agency	1	2	1
+administrative centre	AtLocation	town	1	2	1
+savanna	AtLocation	river	1	0	3
+algebra	HasProperty	theory	1	0	3
+law	HasProperty	criminal law	1	1	2
+linguist	HasProperty	language	1	2	1
+farm	AtLocation	farmhouse	1	2	1
+power plant	HasProperty	power	1	3	0
+football team	HasProperty	football	1	2	1
+pastel	HasProperty	colour	1	2	1
+government area	AtLocation	capital	1	2	1
+product	HasProperty	develop product	1	1	2
+talk show	HasProperty	talk	1	3	0
+fund	HasProperty	financial support	1	2	1
+study	HasProperty	study philosophy	1	0	3
+locate centre	AtLocation	city	1	3	0
+school	AtLocation	preparatory school	1	1	2
+savanna	AtLocation	natural	1	0	3
+alloy	HasProperty	material	1	2	1
+power	HasProperty	power plant	1	0	3
+tea	AtLocation	garden	1	3	0
+receive	AtLocation	bachelor degree	1	1	2
+administrative centre	AtLocation	centre	1	1	2
+football	HasProperty	football team	1	3	0
+pluralistic	AtLocation	society	1	0	3
+vehicle	HasProperty	control system	1	2	1
+water supply	AtLocation	lake	1	3	0
+large ship	AtLocation	port	1	3	0
+attend	AtLocation	bachelor degree	1	1	2
+application	HasProperty	support development	1	1	2
+air	AtLocation	air base	1	2	1
+algebra	HasProperty	space	1	0	3
+academic	HasProperty	other university	1	1	2
+baseball	HasProperty	football	1	1	2
+population growth	AtLocation	suburb	1	1	2
+software	AtLocation	personal computer	1	3	0
+sex	HasProperty	transactional	1	0	3
+promote growth	AtLocation	industry	1	3	0
+boat	AtLocation	marina	1	3	0
+presidential election	HasProperty	vote	1	1	2
+strategy	HasProperty	learner	1	0	3
+girl	AtLocation	preparatory school	1	3	0
+project	HasProperty	construction project	1	1	2
+savanna	AtLocation	dry	1	2	1
+science	AtLocation	bachelor degree	1	2	1
+region	HasProperty	other region	1	1	2
+implement	HasProperty	management system	1	1	2
+imagination	AtLocation	dream	1	2	1
+savanna	AtLocation	forest	1	1	2
+first volume	HasProperty	volume	1	1	2
+election campaign	HasProperty	candidate	1	2	1
+education	HasProperty	education system	1	2	1
+football game	HasProperty	football	1	2	1
+spacecraft	HasProperty	mission	1	1	2
+algebra	HasProperty	operator	1	0	3
+skill	HasProperty	focus development	1	2	1
+material	HasProperty	alloy	1	0	3
+obtain	AtLocation	bachelor degree	1	0	3
+courtship	HasProperty	sex	1	0	3
+legal system	AtLocation	legal	1	2	1
+artifact	AtLocation	museum	1	2	1
+wing	SymbolOf	flight	1	2	1
+identify	HasProperty	develop strategy	1	1	2
+colour	HasProperty	flag	1	1	2
+aim	HasProperty	support development	1	1	2
+software	HasProperty	support development	1	1	2
+spacecraft	HasProperty	launch	1	1	2
+woman s	IsA	sport team	1	0	3
+education system	HasProperty	education	1	2	1
+newsletter	HasProperty	membership	1	1	2
+institution	HasProperty	other university	1	1	2
+aircraft	HasProperty	maintenance	1	1	2
+embroidery	IsA	clothe	1	0	3
+bar	AtLocation	boutique	1	1	2
+room	AtLocation	gymnasium	1	1	2
+election	HasProperty	voter	1	1	2
+coast	AtLocation	archipelago	1	0	3
+green	HasProperty	color	1	3	0
+algebra	HasProperty	ring	1	0	3
+school student	HasProperty	secondary	1	0	3
+project	HasProperty	include project	1	1	2
+color	HasProperty	green	1	3	0
+colour	HasProperty	grey	1	1	2
+private	AtLocation	preparatory school	1	0	3
+shoe	HasProperty	wear	1	3	0
+blue	HasProperty	shade	1	2	1
+health	HasProperty	health system	1	2	1
+lose virginity	HasProperty	sex	1	3	0
+natal	HasProperty	sex	1	0	3
+talk show	HasProperty	host	1	1	2
+confide	MotivatedByGoal	friend	1	1	2
+shop	AtLocation	lounge	1	1	2
+restaurant	AtLocation	kitchen	1	1	2
+disease	HasProperty	disorder	1	1	2
+identify	HasProperty	use analysis	1	1	2
+shirt	HasProperty	tie	1	1	2
+peanut	IsA	important	1	2	1
+management	HasProperty	develop plan	1	1	2
+runoff	AtLocation	lake	1	1	2
+man s	IsA	sport team	1	0	3
+theorem	HasProperty	function	1	2	1
+many student	AtLocation	campus	1	2	1
+adopt child	AtLocation	parent	1	2	1
+encourage	HasProperty	support activity	1	1	2
+hair	HasProperty	black	1	3	0
+patent	HasProperty	technology	1	1	2
+quality	HasProperty	produce product	1	1	2
+university	AtLocation	bachelor degree	1	1	2
+team	HasProperty	other team	1	1	2
+board	AtLocation	preparatory school	1	0	3
+method	HasProperty	apply method	1	0	3
+datum	HasProperty	provide tool	1	0	3
+make good use	AtLocation	skill	1	1	2
+computer	HasProperty	develop software	1	3	0
+cocktail	IsA	drug	1	1	2
+ready-to-wear	IsA	clothe	1	2	1
+door	AtLocation	first floor	1	2	1
+flower	AtLocation	garden	1	3	0
+court	HasProperty	criminal law	1	1	2
+industrialization	AtLocation	worker	1	1	2
+sport	HasProperty	hockey	1	1	2
+cancer	HasProperty	geriatric	1	1	2
+sport event	HasProperty	sport	1	2	1
+law	HasProperty	other agency	1	0	3
+first system	HasProperty	system	1	1	2
+state election	HasProperty	party	1	0	3
+tool	HasProperty	provide tool	1	2	1
+decoration	SymbolOf	architecture	1	2	1
+system	HasProperty	first system	1	1	2
+summer	AtLocation	popular destination	1	2	1
+technique	HasProperty	develop technique	1	0	3
+interracial	HasProperty	sex	1	1	2
+baseball	HasProperty	sport	1	3	0
+mathematics	HasProperty	analysis	1	1	2
+senior	HasProperty	junior	1	0	3
+birth	HasProperty	other child	1	0	3
+salmon	AtLocation	lake	1	2	1
+adult	HasProperty	learner	1	0	3
+white	HasProperty	stripe	1	0	3
+trial	HasProperty	clinical trial	1	0	3
+school student	HasProperty	college	1	0	3
+ensure	HasProperty	provide leadership	1	0	3
+state election	HasProperty	candidate	1	3	0
+essay	HasProperty	volume	1	1	2
+presidential election	HasProperty	party	1	1	2
+election	HasProperty	electoral	1	2	1
+industrialization	AtLocation	economy	1	1	2
+cocktail	IsA	bar	1	2	1
+talk show	HasProperty	radio	1	0	3
+health	IsA	medical service	1	2	1
+industrialization	AtLocation	19th	1	2	1
+sex	HasProperty	adolescent	1	1	2
+college	AtLocation	preparatory school	1	1	2
+resource	HasProperty	management system	1	1	2
+orange	HasProperty	green	1	1	2
+color	HasProperty	bright	1	2	1
+wear	HasProperty	boot	1	0	3
+cargo	HasProperty	handle	1	0	3
+hair	HasProperty	eye	1	0	3
+administration	AtLocation	bachelor degree	1	1	2
+water	HasProperty	water supply	1	0	3
+talk show	HasProperty	show	1	2	1
+room	AtLocation	furniture	1	0	3
+administrative centre	AtLocation	commune	1	1	2
+heat	HasProperty	use energy	1	1	2
+algebra	HasProperty	identity	1	0	3
+trouser	HasProperty	white	1	1	2
+blue	HasProperty	uniform	1	0	3
+boot	HasProperty	wear	1	2	1
+aviation	HasProperty	flight	1	1	2
+feminism	HasProperty	sex	1	1	2
+molecular	HasProperty	analysis	1	0	3
+rugby	HasProperty	sport	1	2	1
+post	AtLocation	move office	1	1	2
+teach student	HasProperty	teach	1	0	3
+fern	IsA	garden	1	0	3
+picnic	AtLocation	table	1	1	2
+baseball	HasProperty	league	1	2	1
+management	HasProperty	good practice	1	0	3
+private collection	AtLocation	museum	1	2	1
+education	HasProperty	learner	1	0	3
+system	HasProperty	include system	1	0	3
+school student	HasProperty	school	1	2	1
+small settlement	AtLocation	hill	1	1	2
+well	HasProperty	oil	1	1	2
+savanna	AtLocation	zone	1	2	1
+biotechnology	IsA	application	1	0	3
+facility	AtLocation	marina	1	1	2
+collection short storey	IsA	poetry	1	0	3
+system	HasProperty	management system	1	0	3
+police	HasProperty	police force	1	1	2
+essay	HasProperty	philosophy	1	0	3
+method	HasProperty	analysis	1	1	2
+make life	AtLocation	try	1	0	3
+learn	HasProperty	develop ability	1	2	1
+specie	HasProperty	plant specie	1	1	2
+offer	HasProperty	turn offer	1	0	3
+operation	HasProperty	maintenance	1	1	2
+rugby union	HasProperty	sport	1	1	2
+quantum	HasProperty	energy	1	1	2
+analysis	HasProperty	method	1	2	1
+wool	AtLocation	industry	1	3	0
+administrative centre	AtLocation	municipality	1	1	2
+essay	HasProperty	publish	1	1	2
+analysis	HasProperty	mathematics	1	1	2
+fruit	HasProperty	plant	1	2	1
+rural	AtLocation	garden	1	1	2
+encourage	HasProperty	foster	1	0	3
+savanna	AtLocation	tree	1	1	2
+shirt	HasProperty	black	1	2	1
+consultancy	HasProperty	strategy	1	1	2
+model	HasProperty	kit	1	1	2
+marriage	HasProperty	childbirth	1	1	2
+basketball	HasProperty	sport	1	2	1
+ring	HasProperty	inner	1	0	3
+fish	AtLocation	popular destination	1	1	2
+council	HasProperty	local government	1	1	2
+orbit	HasProperty	space	1	2	1
+fishery	AtLocation	lake	1	2	1
+shop	AtLocation	boutique	1	0	3
+japanese	AtLocation	naval base	1	1	2
+student	HasProperty	other university	1	0	3
+write magazine	IsA	article	1	1	2
+biotechnology	IsA	research	1	2	1
+teacher	HasProperty	learner	1	1	2
+good book	HasProperty	sell	1	2	1
+art	AtLocation	museum	1	3	0
+social change	AtLocation	social	1	1	2
+hotel	AtLocation	marina	1	1	2
+develop	HasProperty	new method	1	1	2
+improve life	AtLocation	aim	1	1	2
+software	HasProperty	large system	1	1	2
+football coach	HasProperty	football	1	0	3
+cancer	HasProperty	charity	1	0	3
+station s	AtLocation	station	1	0	3
+sock	HasProperty	white	1	3	0
+flower	HasProperty	seed	1	3	0
+oil	HasProperty	well	1	0	3
+black	HasProperty	hair	1	2	1
+type	HasProperty	different type	1	1	2
+publish paper	HasProperty	research	1	0	3
+non-alcoholic	IsA	disease	1	0	3
+academic career	IsA	distinguish	1	1	2
+convective	AtLocation	energy	1	0	3
+win election	HasProperty	candidate	1	2	1
+user	AtLocation	personal computer	1	2	1
+contest election	HasProperty	election	1	1	2
+earn	AtLocation	bachelor degree	1	0	3
+grey	HasProperty	colour	1	3	0
+vehicle	HasProperty	use vehicle	1	1	2
+kit	HasProperty	model	1	1	2
+animal	HasProperty	human form	1	0	3
+scientist	HasProperty	research	1	2	1
+diesel engine	HasProperty	power	1	3	0
+window	AtLocation	second floor	1	3	0
+charity	HasProperty	cancer	1	1	2
+supply	AtLocation	aqueduct	1	0	3
+database	HasProperty	management	1	2	1
+collection storey	IsA	poetry	1	1	2
+benefit	HasProperty	stakeholder	1	1	2
+toy	HasProperty	sex	1	0	3
+shade	HasProperty	blue	1	1	2
+glass	AtLocation	door	1	3	0
+abiotic	AtLocation	resource	1	0	3
+trainer	HasProperty	personal	1	1	2
+medical	IsA	medical service	1	2	1
+industrialization	AtLocation	industry	1	1	2
+biotechnology	IsA	scientific	1	2	1
+model year	HasProperty	model	1	2	1
+restaurant	AtLocation	boutique	1	0	3
+xml-base	AtLocation	file	1	2	1
+college	HasProperty	high education	1	2	1
+sport	HasProperty	sport team	1	1	2
+news program	HasProperty	program	1	1	2
+woman s	IsA	underwear	1	0	3
+fashion designer	IsA	clothe	1	1	2
+air	AtLocation	naval base	1	1	2
+mill	AtLocation	worker	1	0	3
+plan	HasProperty	local service	1	0	3
+take lesson	HasProperty	teacher	1	2	1
+chair	AtLocation	furniture	1	1	2
+skill	HasProperty	require skill	1	1	2
+administrative centre	AtLocation	settlement	1	2	1
+wear	HasProperty	shoe	1	2	1
+brown	HasProperty	eye	1	1	2
+widow	HasProperty	wife	1	1	2
+ballot	HasProperty	election	1	2	1
+scientist	HasProperty	scientific research	1	2	1
+vote	MotivatedByGoal	popular vote	1	1	2
+problem	HasProperty	other problem	1	1	2
+eye	HasProperty	skin	1	0	3
+spacecraft	HasProperty	planet	1	0	3
+industrialization	AtLocation	factory	1	3	0
+grade	AtLocation	preparatory school	1	2	1
+girl school	HasProperty	school	1	2	1
+datum	HasProperty	integration	1	1	2
+include specie	HasProperty	specie	1	0	3
+election	HasProperty	political party	1	1	2
+hotel	AtLocation	rooftop	1	0	3
+numismatic	IsA	exhibit	1	0	3
+genetic	HasProperty	analysis	1	1	2
+botanist	HasProperty	plant	1	2	1
+protection	AtLocation	wildlife	1	1	2
+specie	HasProperty	include specie	1	0	3
+educate	AtLocation	preparatory school	1	2	1
+development	HasProperty	consultancy	1	1	2
+shaggy	IsA	clothe	1	0	3
+improve	HasProperty	improve health	1	1	2
+user-define	AtLocation	file	1	1	2
+genus	HasProperty	plant	1	1	2
+tree	AtLocation	garden	1	3	0
+chaos	AtLocation	throw	1	0	3
+solution	HasProperty	solve	1	2	1
+rainfall	AtLocation	summer	1	1	2
+function	HasProperty	x	1	1	2
+haute	IsA	clothe	1	1	2
+biotechnology	IsA	field	1	2	1
+textile	HasProperty	product	1	0	3
+hormone	HasProperty	cell	1	2	1
+new car	HasProperty	vehicle	1	3	0
+private school	HasProperty	school	1	2	1
+lens	SymbolOf	light	1	1	2
+skirt	HasProperty	wear	1	2	1
+legal	HasProperty	international law	1	1	2
+windows-base	AtLocation	file	1	1	2
+application	HasProperty	management system	1	1	2
+extramarital	HasProperty	sex	1	1	2
+method	HasProperty	develop method	1	2	1
+unstructure	AtLocation	file	1	0	3
+addict	HasProperty	sex	1	1	2
+write newspaper	IsA	article	1	1	2
+player s	AtLocation	player	1	0	3
+extinguish	AtLocation	fire	1	0	3
+team	HasProperty	junior team	1	3	0
+product	HasProperty	life cycle	1	1	2
+enable	HasProperty	develop skill	1	2	1
+lovely	AtLocation	garden	1	0	3
+new series	HasProperty	series	1	1	2
+professor	HasProperty	study philosophy	1	1	2
+open source	HasProperty	source	1	2	1
+analysis	HasProperty	genetic	1	0	3
+essay	HasProperty	literature	1	3	0
+purple	HasProperty	color	1	3	0
+bush	AtLocation	garden	1	3	0
+room	AtLocation	library	1	3	0
+civil service	HasProperty	civil	1	2	1
+encourage	HasProperty	encourage development	1	1	2
+general election	HasProperty	party	1	3	0
+skill	HasProperty	make good use	1	1	2
+network	HasProperty	new service	1	1	2
+prosperity	AtLocation	bring	1	0	3
+soccer	HasProperty	football	1	1	2
+equipment	HasProperty	use range	1	0	3
+purple	HasProperty	colour	1	3	0
+research	HasProperty	conduct research	1	3	0
+civil	HasProperty	civil service	1	1	2
+blonde	HasProperty	eye	1	3	0
+ice age	AtLocation	hill	1	0	3
+boyfriend	HasProperty	sex	1	3	0
+hydrological	AtLocation	resource	1	0	3
+build car	HasProperty	car	1	0	3
+cafe	AtLocation	shop	1	1	2
+lab	AtLocation	room	1	2	1
+university	AtLocation	preparatory school	1	0	3
+degree	AtLocation	receive bachelor degree	1	1	2
+product line	HasProperty	market	1	0	3
+hotel	AtLocation	shop	1	0	3
+real world	AtLocation	dream	1	0	3
+product	HasProperty	low price	1	1	2
+soccer	HasProperty	team	1	3	0
+information	IsA	national security	1	0	3
+lurid	IsA	storey	1	0	3
+may	HasProperty	strength	1	0	3
+trade	AtLocation	merchant	1	1	2
+arterial	AtLocation	suburb	1	1	2
+morganatic	HasProperty	marriage	1	1	2
+presenter	HasProperty	programme	1	1	2
+facility	AtLocation	well-equip	1	0	3
+bar	AtLocation	lounge	1	2	1
+deforestation	AtLocation	resource	1	1	2
+lot	AtLocation	park	1	2	1
+algebraic	HasProperty	function	1	3	0
+ensure	HasProperty	stakeholder	1	1	2
+include material	HasProperty	material	1	2	1
+metadatum	AtLocation	file	1	0	3
+pilot	AtLocation	air base	1	3	0
+industrialization	AtLocation	revolution	1	0	3
+herb	HasProperty	plant	1	3	0
+large ship	AtLocation	ship	1	0	3
+bar	AtLocation	include room	1	0	3
+theorem	HasProperty	theory	1	2	1
+woman s	IsA	support right	1	0	3
+consultancy	HasProperty	software	1	0	3
+earth	SymbolOf	constellation	1	0	3
+text-base	AtLocation	file	1	2	1
+forest	SymbolOf	wildlife	1	3	0
+convective	AtLocation	activity	1	0	3
+federal	HasProperty	enforcement	1	0	3
+create environment	AtLocation	encourage	1	0	3
+peptide	HasProperty	protein	1	1	2
+colour	HasProperty	blue	1	3	0
+self-publish	IsA	entitle	1	1	2
+write magazine	IsA	magazine	1	2	1
+analyst	HasProperty	analysis	1	1	2
+suspension	SymbolOf	car	1	0	3
+peanut	IsA	product	1	2	1
+second marriage	MotivatedByGoal	daughter	1	0	3
+application	AtLocation	personal computer	1	1	2
+room	AtLocation	pool	1	0	3
+publish translation	IsA	poet	1	0	3
+carbon	HasProperty	energy	1	3	0
+authore book	IsA	article	1	1	2
+election result	HasProperty	election	1	2	1
+ductile	AtLocation	zone	1	0	3
+man s	IsA	underwear	1	2	1
+product	HasProperty	produce product	1	1	2
+parkland	AtLocation	lake	1	1	2
+monograph	HasProperty	research	1	1	2
+manufacturer	HasProperty	include company	1	1	2
+manufacture	AtLocation	factory	1	2	1
+datum	HasProperty	provide method	1	1	2
+referendum	HasProperty	vote	1	2	1
+print	HasProperty	paper	1	2	1
+restaurant	AtLocation	marina	1	1	2
+pleasure	AtLocation	garden	1	2	1
+industrialization	AtLocation	economic	1	1	2
+antigen	HasProperty	cancer	1	2	1
+green	HasProperty	orange	1	1	2
+lookalike	IsA	clothe	1	1	2
+software	HasProperty	develop software	1	2	1
+evaluation	HasProperty	test	1	2	1
+protection	HasProperty	provide level	1	0	3
+sex	HasProperty	transsexual	1	1	2
+hair	HasProperty	wear	1	2	1
+woman s	MotivatedByGoal	state championship	1	0	3
+analysis	HasProperty	evaluation	1	1	2
+evaporation	AtLocation	lake	1	3	0
+beetle	HasProperty	specie	1	0	3
+solve	HasProperty	solution	1	2	1
+biology	HasProperty	research	1	3	0
+other region	HasProperty	region	1	2	1
+financial support	HasProperty	fund	1	2	1
+edit book	IsA	article	1	0	3
+colour	HasProperty	green	1	3	0
+policy	HasProperty	implement policy	1	1	2
+1980	AtLocation	personal computer	1	0	3
+butterfly	HasProperty	specie	1	2	1
+savanna	AtLocation	climate	1	0	3
+product line	HasProperty	product	1	2	1
+teach	HasProperty	teach student	1	3	0
+cocktail	IsA	party	1	1	2
+blue	HasProperty	pale	1	1	2
+colour	HasProperty	pattern	1	0	3
+composite	HasProperty	material	1	2	1
+real world	AtLocation	world	1	1	2
+breed	HasProperty	cattle	1	1	2
+election campaign	HasProperty	election	1	3	0
+event	MotivatedByGoal	win event	1	1	2
+surgery	HasProperty	injury	1	2	1
+exchange	HasProperty	good practice	1	1	2
+manager	HasProperty	manage team	1	2	1
+software	HasProperty	consultancy	1	0	3
+technology	HasProperty	develop product	1	2	1
+shop	AtLocation	hotel	1	1	2
+scientist	HasProperty	science	1	2	1
+greenhouse	AtLocation	garden	1	2	1
+marriage	HasProperty	abortion	1	1	2
+sail	AtLocation	cargo ship	1	1	2
+force	AtLocation	air base	1	1	2
+specimen	AtLocation	collection	1	0	3
+motel	AtLocation	room	1	1	2
+glass	AtLocation	furniture	1	0	3
+furniture	AtLocation	chair	1	2	1
+pundit	HasProperty	political	1	0	3
+datum	HasProperty	analysis	1	1	2
+cocktail	IsA	restaurant	1	0	3
+varsity team	HasProperty	junior	1	0	3
+worker	AtLocation	mill	1	2	1
+subspecies	HasProperty	specie	1	2	1
+develop process	HasProperty	process	1	3	0
+include piece	HasProperty	piece	1	3	0
+winter	AtLocation	popular destination	1	0	3
+cut hair	IsA	clothe	1	1	2
+law	HasProperty	civil law	1	3	0
+system	HasProperty	current system	1	2	1
+market	HasProperty	develop product	1	3	0
+savanna	SymbolOf	forest	1	0	3
+collar	HasProperty	wear	1	3	0
+industrial	AtLocation	factory	1	1	2
+hair	HasProperty	red	1	2	1
+energy source	AtLocation	power	1	1	2
+railway	HasProperty	rail	1	3	0
+sleeveless	IsA	clothe	1	2	1
+social life	AtLocation	political	1	0	3
+green	HasProperty	stripe	1	0	3
+aviation	HasProperty	airport	1	2	1
+engine	HasProperty	turbine	1	2	1
+test	HasProperty	perform test	1	3	0
+brightness	SymbolOf	light	1	3	0
+band name	HasProperty	band	1	2	1
+science	AtLocation	receive bachelor degree	1	1	2
+sport club	HasProperty	sport	1	2	1
+mentor	HasProperty	teacher	1	3	0
+medical	HasProperty	health care	1	3	0
+provide environment	AtLocation	encourage	1	0	3
+engine	HasProperty	emission	1	3	0
+protein	HasProperty	peptide	1	2	1
+athletics	HasProperty	football	1	1	2
+tyre	HasProperty	wheel	1	2	1
+convective	AtLocation	zone	1	1	2
+lurid	IsA	picture	1	0	3
+mine	HasProperty	mineral	1	3	0
+shoe	AtLocation	factory	1	1	2
+man s	MotivatedByGoal	state championship	1	0	3
+reef	AtLocation	sea	1	1	2
+cell	HasProperty	stimulate	1	1	2
+skill	HasProperty	learner	1	3	0
+newsletter	HasProperty	conference	1	1	2
+pollution	AtLocation	concern	1	0	3
+requirement	HasProperty	procurement	1	0	3
+championship	MotivatedByGoal	state championship	1	1	2
+natural habitat	AtLocation	lake	1	3	0
+epigenetic	AtLocation	memory	1	0	3
+research	HasProperty	biology	1	2	1
+turn	HasProperty	make turn	1	3	0
+build system	AtLocation	rail	1	0	3
+consultancy	IsA	research	1	1	2
+library	AtLocation	archive	1	2	1
+version song	HasProperty	version	1	2	1
+marsh	AtLocation	garden	1	1	2
+organization	HasProperty	humanitarian	1	3	0
+pond	AtLocation	garden	1	3	0
+industry	AtLocation	mine	1	1	2
+football	HasProperty	play sport	1	3	0
+over	HasProperty	target	1	1	2
+production	HasProperty	high cost	1	3	0
+volleyball	IsA	man s	1	1	2
+only team	HasProperty	team	1	2	1
+picnic	AtLocation	park	1	2	1
+hotel	AtLocation	lounge	1	1	2
+high standard	AtLocation	education	1	0	3
+embroidery	IsA	wood	1	0	3
+theory	HasProperty	formulation	1	3	0
+shirt	HasProperty	wear	1	3	0
+restaurant	AtLocation	gallery	1	0	3
+cell	HasProperty	hormone	1	1	2
+protein	HasProperty	structural	1	3	0
+town	HasProperty	other town	1	0	3
+source	HasProperty	renewable	1	3	0
+comet	HasProperty	observe	1	3	0
+wig	IsA	clothe	1	0	3
+computer	HasProperty	calculation	1	3	0
+analysis	HasProperty	functional	1	3	0
+pale	HasProperty	blue	1	1	2
+sport	HasProperty	basketball	1	1	2
+jean	IsA	clothe	1	3	0
+service	HasProperty	emergency service	1	3	0
+school	HasProperty	large school	1	1	2
+criminal	HasProperty	criminal law	1	0	3
+savanna	AtLocation	habitat	1	2	1
+compiler	HasProperty	computer	1	3	0
+law	IsA	enact law	1	1	2
+drought	HasProperty	water	1	1	2
+exchange	HasProperty	facilitate	1	1	2
+use information	HasProperty	determine	1	0	3
+state election	HasProperty	australian	1	0	3
+spectroscopy	SymbolOf	technique	1	1	2
+literary magazine	IsA	fiction	1	1	2
+plant specie	HasProperty	specie	1	1	2
+truck	HasProperty	vehicle	1	3	0
+several book	IsA	article	1	1	2
+party	MotivatedByGoal	popular vote	1	1	2
+clothe	IsA	other equipment	1	1	2
+new party	HasProperty	party	1	2	1
+fish	HasProperty	other animal	1	2	1
+buildup	AtLocation	military	1	1	2
+expand	HasProperty	include team	1	0	3
+linguistics	HasProperty	study	1	3	0
+system	HasProperty	limbic	1	1	2
+souvenir	IsA	clothe	1	1	2
+student newspaper	HasProperty	student	1	1	2
+biotechnology	IsA	development	1	2	1
+tropical	IsA	garden	1	2	1
+shirt	HasProperty	short	1	3	0
+artefact	AtLocation	museum	1	3	0
+underwear	HasProperty	sex	1	2	1
+reduce	HasProperty	lower	1	2	1
+how-to	IsA	garden	1	0	3
+power	HasProperty	generate electricity	1	3	0
+tail	HasProperty	white	1	1	2
+suit	AtLocation	file	1	0	3
+sex	HasProperty	addict	1	1	2
+blue	HasProperty	colour	1	3	0
+baseball	HasProperty	hockey	1	0	3
+civil right	AtLocation	civil	1	1	2
+team	HasProperty	good team	1	3	0
+blue	HasProperty	color	1	3	0
+player	HasProperty	great player	1	2	1
+fit	AtLocation	furniture	1	0	3
+fern	HasProperty	plant	1	2	1
+sport	HasProperty	rugby	1	3	0
+marina	AtLocation	boat	1	1	2
+football league	HasProperty	league	1	3	0
+reduce	HasProperty	improve performance	1	1	2
+parent	HasProperty	give child	1	3	0
+last election	HasProperty	seat	1	2	1
+tennis	HasProperty	sport	1	3	0
+method	IsA	new method	1	0	3
+library	AtLocation	second floor	1	2	1
+red	HasProperty	colour	1	3	0
+management	HasProperty	strategy	1	3	0
+transsexual	HasProperty	sex	1	3	0
+eye	HasProperty	hair	1	0	3
+computer system	AtLocation	file	1	2	1
+science	HasProperty	study philosophy	1	2	1
+foreword	IsA	introduction	1	0	3
+law	IsA	property right	1	2	1
+championship	MotivatedByGoal	win gold medal	1	2	1
+complaint	AtLocation	file	1	0	3
+school student	HasProperty	student	1	3	0
+solar	HasProperty	cell	1	1	2
+old woman	HasProperty	woman	1	3	0
+frog	HasProperty	tree	1	0	3
+metropolis	AtLocation	capital	1	1	2
+program	HasProperty	offer program	1	2	1
+skill	HasProperty	learn skill	1	3	0
+woman s	IsA	defend right	1	1	2
+scandal	HasProperty	sex	1	3	0
+mammal	HasProperty	fish	1	1	2
+energy source	AtLocation	energy	1	1	2
+image	HasProperty	still	1	1	2
+cocktail	IsA	throw	1	0	3
+write magazine	IsA	contribute	1	2	1
+study	HasProperty	include study	1	2	1
+write weekly column	IsA	contribute	1	2	1
+government area	AtLocation	central	1	1	2
+collection	AtLocation	gallery	1	3	0
+museum s	IsA	exhibit	1	2	1
+room	AtLocation	first floor	1	2	1
+enrollment	AtLocation	university	1	2	1
+hotel	AtLocation	boutique	1	1	2
+sponsor team	IsA	man s	1	1	2
+mathematical	HasProperty	analysis	1	3	0
+blue	HasProperty	eye	1	2	1
+single album	HasProperty	release	1	3	0
+military	AtLocation	air base	1	3	0
+single album	HasProperty	single	1	2	1
+pluralistic	AtLocation	freedom	1	1	2
+picnic	AtLocation	area	1	2	1
+trouser	HasProperty	blue	1	3	0
+hand-made	IsA	clothe	1	2	1
+pink	HasProperty	color	1	3	0
+garish	IsA	clothe	1	0	3
+standard	HasProperty	local service	1	1	2
+challenge	IsA	prepare student	1	0	3
+do something	AtLocation	something	1	1	2
+study	HasProperty	interdisciplinary	1	3	0
+federal election	HasProperty	australian	1	1	2
+cichlid	AtLocation	lake	1	0	3
+freedom	IsA	exercise right	1	1	2
+sea	AtLocation	archipelago	1	1	2
+management	HasProperty	logistic	1	1	2
+globalization	AtLocation	trade	1	2	1
+power station	HasProperty	energy	1	2	1
+first volume	HasProperty	series	1	2	1
+resource	HasProperty	management	1	1	2
+business district	SymbolOf	city	1	2	1
+sale	HasProperty	offer product	1	3	0
+room	AtLocation	contain office	1	0	3
+opium	AtLocation	trade	1	2	1
+old school	HasProperty	school	1	2	1
+datum	HasProperty	algorithm	1	1	2
+consultancy	IsA	technology	1	2	1
+plant	AtLocation	garden	1	3	0
+white	HasProperty	trouser	1	1	2
+management	HasProperty	develop strategy	1	2	1
+safety	HasProperty	improve health	1	3	0
+physic	HasProperty	research	1	3	0
+biotic	AtLocation	material	1	0	3
+receive	MotivatedByGoal	doctorate	1	0	3
+expand	HasProperty	include area	1	2	1
+sport	HasProperty	sport club	1	3	0
+promote	HasProperty	support development	1	3	0
+law practice	AtLocation	law	1	3	0
+crustal	AtLocation	block	1	0	3
+twice-weekly	IsA	format	1	0	3
+include project	HasProperty	project	1	3	0
+school student	HasProperty	high school	1	2	1
+free-lance	IsA	journalist	1	3	0
+station	AtLocation	station s	1	0	3
+tacky	IsA	clothe	1	1	2
+door	AtLocation	second floor	1	1	2
+full-page	IsA	picture	1	2	1
+still	HasProperty	paint	1	0	3
+mulberry	IsA	garden	1	1	2
+device	HasProperty	electronic	1	2	1
+colour	HasProperty	stripe	1	0	3
+colour	HasProperty	dark	1	3	0
+pub	AtLocation	bar	1	2	1
+internet	IsA	protect child	1	0	3
+biotic	AtLocation	forest	1	0	3
+fund	HasProperty	development project	1	1	2
+coffee	AtLocation	bar	1	2	1
+management	HasProperty	resource	1	2	1
+globalization	AtLocation	economic	1	3	0
+exchange	HasProperty	trade	1	3	0
+government	HasProperty	private sector	1	0	3
+version song	HasProperty	album	1	2	1
+talk show	HasProperty	night	1	2	1
+shirt	HasProperty	red	1	3	0
+twice-weekly	IsA	news	1	1	2
+master	AtLocation	bachelor degree	1	1	2
+worker	AtLocation	factory	1	3	0
+office	AtLocation	contain office	1	2	1
+captain	HasProperty	over	1	0	3
+black	HasProperty	belt	1	2	1
+motor	HasProperty	fuel	1	3	0
+ship	AtLocation	dock	1	2	1
+barber	IsA	clothe	1	0	3
+societal	AtLocation	society	1	0	3
+phenotypic	HasProperty	sex	1	0	3
+publish year	HasProperty	publish	1	3	0
+sex	HasProperty	phenotypic	1	0	3
+win election	HasProperty	seat	1	1	2
+port	AtLocation	naval base	1	3	0
+project	HasProperty	large project	1	2	1
+personal	HasProperty	trainer	1	2	1
+room	AtLocation	include facility	1	0	3
+offbeat	IsA	sense	1	0	3
+motel	AtLocation	shop	1	0	3
+temperature	HasProperty	measurement	1	2	1
+abortion	HasProperty	marriage	1	0	3
+local election	HasProperty	council	1	1	2
+state	HasProperty	other state	1	1	2
+voter	HasProperty	election	1	3	0
+locomotive	HasProperty	railway	1	2	1
+strategy	HasProperty	consultancy	1	1	2
+president	MotivatedByGoal	popular vote	1	2	1
+industry	HasProperty	manufacture	1	2	1
+eye	HasProperty	brown	1	3	0
+classy	IsA	clothe	1	1	2
+pop group	IsA	swedish	1	0	3
+color	HasProperty	blue	1	3	0
+nickname	IsA	sport team	1	0	3
+hall	AtLocation	second floor	1	2	1
+promote growth	AtLocation	development	1	2	1
+flora	AtLocation	garden	1	3	0
+character s	HasProperty	character	1	2	1
+ceremony	HasProperty	marriage	1	2	1
+write poetry	IsA	poetry	1	0	3
+emblem	HasProperty	wear	1	1	2
+management	HasProperty	waste	1	1	2
+business	HasProperty	business partner	1	3	0
+hydrologic	AtLocation	lake	1	2	1
+management	HasProperty	include system	1	1	2
+artifact	AtLocation	collection	1	2	1
+office	AtLocation	house office	1	1	2
+animal	AtLocation	wildlife	1	3	0
+see world	AtLocation	want	1	1	2
+architect	SymbolOf	architectural	1	1	2
+technique	HasProperty	coercive	1	0	3
+contain school	HasProperty	school	1	2	1
+extract	HasProperty	oil	1	3	0
+series book	HasProperty	author	1	2	1
+economic development	AtLocation	economic	1	2	1
+manage	HasProperty	manage team	1	2	1
+self-publish	IsA	poetry	1	1	2
+believer	AtLocation	firm	1	0	3
+talk show	HasProperty	even	1	1	2
+candidacy	MotivatedByGoal	democratic	1	2	1
+work day	HasProperty	shift	1	1	2
+library	AtLocation	room	1	1	2
+fish	HasProperty	fishery	1	2	1
+shipbuilding	AtLocation	trade	1	2	1
+green	HasProperty	colour	1	3	0
+contract	HasProperty	procurement	1	0	3
+patent	HasProperty	grant	1	1	2
+knowledge	HasProperty	develop skill	1	3	0
+second edition	HasProperty	publish	1	3	0
+player	HasProperty	include player	1	2	1
+nuclear	HasProperty	fuel	1	2	1
+orbit	HasProperty	star	1	3	0
+full album	MotivatedByGoal	release	1	0	3
+science	HasProperty	discipline	1	3	0
+underwear	IsA	clothe	1	3	0
+bone	HasProperty	animal	1	3	0
+waste	HasProperty	management	1	0	3
+dine	AtLocation	bar	1	2	1
+party	HasProperty	candidate	1	3	0
+skill	HasProperty	different level	1	3	0
+red	HasProperty	stripe	1	1	2
+power	HasProperty	energy source	1	3	0
+research	HasProperty	public health	1	0	3
+mountain	AtLocation	popular destination	1	0	3
+develop ability	AtLocation	learn	1	2	1
+fish	HasProperty	mammal	1	0	3
+stone	AtLocation	fireplace	1	1	2
+how-to	IsA	article	1	1	2
+apparel	IsA	equipment	1	2	1
+child	HasProperty	adolescent	1	2	1
+creation	HasProperty	new work	1	2	1
+green	HasProperty	grass	1	2	1
+host talk show	HasProperty	talk	1	3	0
+fern	IsA	plant	1	2	1
+athletic team	HasProperty	school	1	1	2
+student	AtLocation	other university	1	3	0
+ample	AtLocation	room	1	0	3
+management	HasProperty	management system	1	3	0
+woman s	MotivatedByGoal	win event	1	0	3
+council	HasProperty	local authority	1	3	0
+many student	AtLocation	college	1	3	0
+energy	HasProperty	potential	1	3	0
+fuel	HasProperty	nuclear	1	2	1
+management	HasProperty	focus area	1	1	2
+chic	IsA	clothe	1	0	3
+orbit	HasProperty	launch	1	1	2
+embroidery	IsA	technique	1	1	2
+guest	AtLocation	hotel	1	3	0
+sermon	HasProperty	church	1	2	1
+other town	HasProperty	town	1	3	0
+generation	HasProperty	electricity	1	0	3
+hospital	IsA	medical service	1	3	0
+diesel	HasProperty	vehicle	1	3	0
+service	HasProperty	rail service	1	2	1
+inside	AtLocation	door	1	0	3
+conduct research	HasProperty	research	1	3	0
+management	HasProperty	stakeholder	1	0	3
+newspaper	HasProperty	weekly	1	3	0
+maintenance	HasProperty	operation	1	2	1
+biotechnology	IsA	technology	1	2	1
+stair	AtLocation	door	1	0	3
+industrial area	AtLocation	factory	1	3	0
+library	AtLocation	gymnasium	1	1	2
+isomorphic	HasProperty	space	1	2	1
+crustal	AtLocation	material	1	1	2
+maintenance	HasProperty	aircraft	1	0	3
+vote election	HasProperty	vote	1	3	0
+energy	HasProperty	thermal	1	3	0
+pay wage	MotivatedByGoal	pay	1	2	1
+wear costume	IsA	clothe	1	2	1
+glass	SymbolOf	window	1	2	1
+development	HasProperty	biotechnology	1	1	2
+information	HasProperty	provide resource	1	1	2
+author book	HasProperty	article	1	3	0
+restaurant	AtLocation	hotel room	1	0	3
+law	HasProperty	law practice	1	3	0
+sell book	IsA	clothe	1	0	3
+fuel	HasProperty	storage	1	3	0
+school mascot	HasProperty	school	1	3	0
+ready-to-wear	IsA	man s	1	0	3
+climate change	AtLocation	policy	1	0	3
+twice-weekly	IsA	publication	1	1	2
+baggy	IsA	clothe	1	2	1
+numerous article	IsA	book	1	0	3
+color	HasProperty	shade	1	2	1
+hotel	AtLocation	hotel room	1	2	1
+hear	MotivatedByGoal	pre-trial	1	0	3
+quantum	HasProperty	field	1	2	1
+clinical trial	HasProperty	trial	1	3	0
+encourage	HasProperty	promote development	1	2	1
+chide	IsA	respond	1	0	3
+pop group	IsA	1980	1	0	3
+anthology	IsA	edit	1	2	1
+famine	AtLocation	aid	1	2	1
+dynamical	HasProperty	system	1	3	0
+sale	HasProperty	transaction	1	3	0
+source code	HasProperty	software	1	3	0
+salty	AtLocation	lake	1	3	0
+economic development	AtLocation	development	1	2	1
+ready-to-wear	IsA	line	1	0	3
+periodical	IsA	publication	1	2	1
+several album	IsA	1990	1	0	3
+several album	IsA	1980	1	0	3
+several album	IsA	1970	1	0	3
+host own show	IsA	hire	1	1	2
+embroider	IsA	silver	1	0	3
+school	AtLocation	school build	1	2	1
+sociocultural	AtLocation	society	1	1	2
+nymph	SymbolOf	sea	1	0	3
+globalization	AtLocation	culture	1	1	2
+private collection	AtLocation	collection	1	2	1
+crustal	AtLocation	mountain	1	0	3
+peanut	IsA	bar	1	0	3
+convective	AtLocation	air	1	0	3
+first tour	IsA	european	1	0	3
+non-fiction	IsA	publish	1	2	1
+shop	AtLocation	city centre	1	2	1
+floor	AtLocation	second floor	1	3	0
+consultancy	IsA	service	1	3	0
+undermine	AtLocation	accuse	1	1	2
+algal	AtLocation	water	1	2	1
+clothe	IsA	underwear	1	2	1
+room	AtLocation	courtyard	1	0	3
+tobacco	AtLocation	factory	1	2	1
+room	AtLocation	balcony	1	0	3
+container	AtLocation	ship	1	2	1
+dabble	IsA	fee	1	0	3
+host tournament	IsA	man s	1	0	3
+walk	SymbolOf	four	1	0	3
+room	AtLocation	clubhouse	1	2	1
+consultancy	IsA	development	1	0	3
+saffron	IsA	clothe	1	0	3
+economic policy	AtLocation	social	1	3	0
+ready-to-wear	IsA	collection	1	0	3
+decay	AtLocation	urban	1	0	3
+wear suit	IsA	clothe	1	2	1
+boutique	IsA	clothe	1	1	2
+anoxic	AtLocation	sea	1	0	3
+freshwater	AtLocation	garden	1	0	3
+apparel	IsA	clothe	1	3	0
+sponsor team	IsA	cross	1	0	3
+room	AtLocation	attic	1	0	3
+use knowledge	AtLocation	gain	1	1	2
+maintenance	SymbolOf	facility	1	1	2
+business	AtLocation	business school	1	1	2
+wildlife	AtLocation	park	1	0	3
+woman s	IsA	human right	1	0	3
+write magazine	IsA	journal	1	1	2
+secondary	AtLocation	preparatory school	1	1	2
+freedom	IsA	protect right	1	1	2
+service	IsA	medical service	1	0	3
+fluvial	AtLocation	lake	1	1	2
+intergovernmental	AtLocation	sector	1	1	2
+build tower	AtLocation	castle	1	3	0
+wear dress	IsA	clothe	1	2	1
+second marriage	MotivatedByGoal	actress	1	0	3
+ready-to-wear	IsA	label	1	0	3
+room	AtLocation	lab	1	2	1
+university	AtLocation	campus	1	2	1
+event	MotivatedByGoal	win gold	1	0	3
+artefact	AtLocation	display	1	1	2
+embroidery	IsA	machine	1	0	3
+nature	AtLocation	wildlife	1	3	0
+four	SymbolOf	walk	1	0	3
+social change	AtLocation	economic	1	1	2
+trade route	AtLocation	sea	1	3	0
+jewish	MotivatedByGoal	extermination	1	0	3
+unit	AtLocation	house	1	1	2
+lush	AtLocation	garden	1	1	2
+biotic	AtLocation	resource	1	0	3
+christian	MotivatedByGoal	mysticism	1	1	2
+industrialization	AtLocation	20th century	1	3	0
+anthology	IsA	poem	1	1	2
+biotechnology	IsA	environment	1	1	2
+league	MotivatedByGoal	win league	1	1	2
+ayurvedic	IsA	treatment	1	1	2
+human activity	AtLocation	resource	1	1	2
+attend	AtLocation	preparatory school	1	2	1
+elect	MotivatedByGoal	popular vote	1	3	0
+woodland	AtLocation	garden	1	2	1
+teutonic	AtLocation	castle	1	2	1
+corner	AtLocation	south-eastern	1	1	2
+promote education	AtLocation	encourage	1	2	1
+law	IsA	make law	1	1	2
+library	AtLocation	hall	1	1	2
+perfume	IsA	clothe	1	0	3
+silver	IsA	jewellery	1	3	0
+join union	MotivatedByGoal	trade	1	0	3
+rhetoric	AtLocation	professor	1	0	3
+economic growth	AtLocation	economic	1	3	0
+water supply	AtLocation	water	1	3	0
+wiry	IsA	frame	1	0	3
+coral	AtLocation	sea	1	3	0
+landscape	AtLocation	garden	1	3	0
+other ship	AtLocation	port	1	3	0
+erosion	AtLocation	valley	1	3	0
+science	AtLocation	research center	1	3	0
+province	AtLocation	eastern part	1	1	2
+security	AtLocation	personnel	1	2	1
+write introduction	IsA	collection	1	0	3
+science	AtLocation	receive master degree	1	1	2
+medical service	MotivatedByGoal	service	1	2	1
+cultural heritage	AtLocation	cultural	1	1	2
+upheaval	AtLocation	social	1	1	2
+economic policy	AtLocation	policy	1	3	0
+cyclonic	AtLocation	coast	1	2	1
+twice-weekly	IsA	passenger	1	1	2
+volleyball	IsA	table	1	0	3
+fresh water	AtLocation	water	1	2	1
+son s	AtLocation	mother	1	1	2
+control system	AtLocation	equipment	1	2	1
+sponsor team	IsA	baseball	1	1	2
+lilac	IsA	colour	1	3	0
+anthology	IsA	storey	1	0	3
+flood	AtLocation	water	1	3	0
+inhabitant	AtLocation	capital city	1	2	1
+biotechnology	IsA	science	1	3	0
+facility	AtLocation	gymnasium	1	1	2
+wood	AtLocation	furniture	1	2	1
+economic policy	AtLocation	government	1	3	0
+economic policy	AtLocation	foreign	1	1	2
+develop policy	AtLocation	sector	1	1	2
+coincide release	IsA	cd	1	1	2
+publish translation	IsA	edit	1	0	3
+nerdy	IsA	clothe	1	1	2
+percent	MotivatedByGoal	popular vote	1	1	2
+vote	MotivatedByGoal	receive vote	1	2	1
+confide	MotivatedByGoal	fear	1	0	3
+pluralistic	AtLocation	religion	1	2	1
+restaurant	IsA	amenity	1	0	3
+anime series	IsA	japanese	1	2	1
+shipbuilding	AtLocation	port	1	3	0
+cultivation	AtLocation	garden	1	3	0
+run shop	IsA	clothe	1	0	3
+equipment	AtLocation	include room	1	0	3
+collection storey	IsA	fiction	1	0	3
+ready-to-wear	IsA	customer	1	0	3
+industrial area	AtLocation	suburb	1	2	1
+summer	AtLocation	cottage	1	0	3
+volleyball	IsA	court	1	0	3
+full-service	IsA	hotel	1	1	2
+prepare	IsA	prepare student	1	0	3
+large ship	AtLocation	boat	1	2	1
+shop	AtLocation	furniture	1	0	3
+exercise	IsA	perform duty	1	0	3
+haute	IsA	collection	1	0	3
+habitat	AtLocation	wildlife	1	3	0
+self-determination	AtLocation	people	1	2	1
+parachute	SymbolOf	aircraft	1	1	2
+lilac	IsA	tree	1	1	2
+khaki	IsA	clothe	1	1	2
+degree	AtLocation	receive bachelor	1	3	0
+cocktail	IsA	ice	1	0	3
+dream	AtLocation	imagination	1	3	0
+tattoo	IsA	clothe	1	0	3
+produce edition	IsA	edition	1	1	2
+deforestation	AtLocation	specie	1	1	2
+fern	IsA	flower	1	3	0
+raise level	AtLocation	improve	1	2	1
+side road	AtLocation	car	1	1	2
+rich	AtLocation	heritage	1	3	0
+college	AtLocation	new campus	1	3	0
+economic development	AtLocation	education	1	0	3
+woolen	IsA	clothe	1	2	1
+public interest	AtLocation	matter	1	3	0
+orbit	AtLocation	space	1	3	0
+water-power	AtLocation	castle	1	0	3
+vessel	AtLocation	naval base	1	2	1
+may	AtLocation	military	1	1	2
+degree	AtLocation	earn bachelor degree	1	3	0
+room	AtLocation	hall	1	3	0
+mayor	IsA	local level	1	2	1
+college	AtLocation	bachelor degree	1	1	2
+economic growth	AtLocation	development	1	2	1
+animatronic	IsA	exhibit	1	0	3
+right	IsA	include right	1	1	2
+make love	AtLocation	first time	1	0	3
+industrialization	AtLocation	sector	1	2	1
+art	AtLocation	craft	1	3	0
+many book	IsA	subject	1	0	3
+property right	AtLocation	private	1	2	1
+publish storey	IsA	poetry	1	0	3
+construction	AtLocation	new house	1	3	0
+depletion	AtLocation	reserve	1	2	1
+capitalist	AtLocation	society	1	2	1
+piece	MotivatedByGoal	opponent s	1	0	3
+free-lance	IsA	writer	1	3	0
+internet	IsA	improve access	1	1	2
+common law	AtLocation	legal	1	3	0
+boyish	IsA	clothe	1	1	2
+wear cap	IsA	clothe	1	2	1
+specimen	AtLocation	museum	1	3	0
+secrecy	AtLocation	secret	1	3	0
+win	MotivatedByGoal	state championship	1	3	0
+administration	AtLocation	receive bachelor degree	1	2	1
+move	AtLocation	new campus	1	1	2
+strike	AtLocation	launch strike	1	2	1
+fiction	IsA	child s book	1	2	1
+collection short storey	IsA	poem	1	1	2
+jewellery	IsA	silver	1	3	0
+biotechnology	IsA	engineer	1	2	1
+volleyball	IsA	cross	1	0	3
+exploitation	AtLocation	economic	1	2	1
+first marriage	MotivatedByGoal	son	1	2	1
+write several book	IsA	translate	1	0	3
+publish essay	IsA	review	1	3	0
+stove	AtLocation	fire	1	3	0
+fisherman	AtLocation	sea	1	3	0
+base television series	IsA	collect	1	0	3
+right	AtLocation	guarantee right	1	3	0
+base true story	IsA	portray	1	2	1
+university	AtLocation	other university	1	1	2
+shop	AtLocation	car park	1	0	3
+edit magazine	IsA	contribute	1	1	2
+nuclear weapon	AtLocation	nuclear	1	3	0
+floor	AtLocation	first floor	1	3	0
+majority	MotivatedByGoal	popular vote	1	1	2
+write weekly column	IsA	column	1	2	1
+open practice	AtLocation	practice	1	2	1
+law	IsA	civil law	1	3	0
+host own show	IsA	tv	1	1	2
+room	AtLocation	basement	1	0	3
+house	AtLocation	unit	1	1	2
+bibliographical	IsA	literature	1	2	1
+high school	AtLocation	preparatory school	1	3	0
+palm	IsA	plant	1	3	0
+study	AtLocation	earn master degree	1	3	0
+restaurant	AtLocation	hotel	1	3	0
+join union	MotivatedByGoal	union	1	0	3
+succulent	IsA	plant	1	1	2
+collection storey	IsA	book	1	1	2
+edit magazine	IsA	publish	1	3	0
+merchandise	IsA	clothe	1	0	3
+cafe	AtLocation	restaurant	1	3	0
+internet	IsA	offer access	1	0	3
+sediment	AtLocation	sea	1	3	0
+care	MotivatedByGoal	well-being	1	1	2
+hand-written	IsA	letter	1	3	0
+window	SymbolOf	interior	1	1	2
+user	AtLocation	file	1	0	3
+exploitation	AtLocation	resource	1	1	2
+issue note	IsA	issue	1	1	2
+co-edit	IsA	poetry	1	0	3
+snooker	IsA	english	1	0	3
+know truth	AtLocation	tell	1	1	2
+aggression	AtLocation	peace	1	0	3
+crustal	AtLocation	zone	1	2	1
+audition role	IsA	portray	1	0	3
+garish	IsA	suit	1	0	3
+take leave absence	IsA	duty	1	0	3
+conference	MotivatedByGoal	pre-trial	1	1	2
+boy	MotivatedByGoal	state championship	1	0	3
+ethnological	IsA	exhibit	1	0	3
+climate change	AtLocation	energy	1	1	2
+crescent-shape	AtLocation	lake	1	1	2
+security	MotivatedByGoal	pre-trial	1	0	3
+place	AtLocation	take city	1	2	1
+pest	AtLocation	garden	1	1	2
+monograph	IsA	article	1	1	2
+host radio show	IsA	entitle	1	0	3
+ice age	AtLocation	valley	1	1	2
+soybean	IsA	economy	1	0	3
+apply law	AtLocation	law	1	3	0
+collection short storey	IsA	author	1	1	2
+write several book	IsA	article	1	0	3
+garden	AtLocation	rooftop	1	1	2
+altar	SymbolOf	church	1	2	1
+room	AtLocation	include office	1	2	1
+product	AtLocation	offer wide range	1	1	2
+canopy	SymbolOf	tree	1	2	1
+door	AtLocation	inside	1	1	2
+three-volume	IsA	collection	1	2	1
+woman s	IsA	support movement	1	1	2
+predation	AtLocation	avoid	1	0	3
+display	AtLocation	museum	1	2	1
+furniture	AtLocation	shop	1	3	0
+beam	SymbolOf	light	1	2	1
+beer	AtLocation	garden	1	1	2
+room	AtLocation	hotel room	1	3	0
+self-publish	IsA	print	1	2	1
+depletion	AtLocation	global	1	1	2
+immanent	AtLocation	affair	1	0	3
+economic growth	AtLocation	resource	1	1	2
+property	IsA	include right	1	0	3
+energy source	AtLocation	source	1	3	0
+boar	AtLocation	horse	1	0	3
+new party	AtLocation	party	1	3	0
+exploitation	AtLocation	worker	1	1	2
+non-selective	AtLocation	suburb	1	0	3
+kitchen	AtLocation	garden	1	0	3
+philosophy	MotivatedByGoal	doctorate	1	0	3
+vegetation	AtLocation	lake	1	3	0
+gaudy	IsA	clothe	1	0	3
+candy	IsA	hard	1	0	3
+change shape	AtLocation	will	1	2	1
+habitat	AtLocation	lake	1	2	1
+twice-weekly	IsA	column	1	3	0
+publish translation	IsA	poem	1	0	3
+cotton	AtLocation	factory	1	2	1
+property	AtLocation	own property	1	3	0
+picnic	AtLocation	nature	1	3	0
+wing	SymbolOf	aircraft	1	3	0
+corner	AtLocation	second floor	1	1	2
+window	AtLocation	rooftop	1	2	1
+polo	IsA	man s	1	0	3
+rainfall	AtLocation	heavy	1	0	3
+flammable	AtLocation	fire	1	3	0
+memorabile	IsA	exhibit	1	2	1
+starvation	AtLocation	food	1	1	2
+play trumpet	IsA	arrange	1	1	2
+write several book	IsA	poetry	1	0	3
+facility	AtLocation	laboratory	1	3	0
+conservatism	AtLocation	social	1	2	1
+geopolitical	AtLocation	situation	1	2	1
+noodle	IsA	chinese	1	3	0
+facility	AtLocation	accommodation	1	3	0
+unrest	AtLocation	social	1	1	2
+longish	IsA	bill	1	1	2
+shop center	AtLocation	shop	1	3	0
+room	AtLocation	house office	1	2	1
+machinery	AtLocation	machine	1	1	2
+frozen	AtLocation	lake	1	3	0
+convective	AtLocation	transfer	1	1	2
+attend	AtLocation	receive bachelor degree	1	2	1
+political system	AtLocation	party	1	2	1
+downturn	AtLocation	1980	1	1	2
+hotel	AtLocation	guest	1	1	2
+tide	AtLocation	boat	1	1	2
+wear robe	IsA	clothe	1	2	1
+visitor	AtLocation	popular destination	1	2	1
+necklace	IsA	ring	1	1	2
+university	AtLocation	postgraduate	1	2	1
+italian	AtLocation	southeast	1	1	2
+mill	AtLocation	paper	1	1	2
+self-guide	IsA	exhibit	1	0	3
+turbulence	AtLocation	air	1	3	0
+torn	IsA	clothe	1	2	1
+bi-weekly	IsA	column	1	3	0
+facility	AtLocation	hostel	1	1	2
+write short storey	IsA	article	1	2	1
+tv series	IsA	reality	1	1	2
+may	AtLocation	empire	1	0	3
+fiction writer	IsA	russian	1	0	3
+right	IsA	guarantee right	1	2	1
+anthropogenic	AtLocation	change	1	0	3
+planet	SymbolOf	constellation	1	1	2
+geopolitical	AtLocation	importance	1	0	3
+picnic	AtLocation	walk	1	2	1
+food supply	AtLocation	supply	1	3	0
+collection	AtLocation	museum	1	3	0
+intake	SymbolOf	air	1	0	3
+embroidery	IsA	color	1	1	2
+collection storey	IsA	volume	1	1	2
+six-part	IsA	tv	1	0	3
+hire coach	IsA	man s	1	0	3
+window	AtLocation	bedroom	1	2	1
+room	AtLocation	include room	1	1	2
+write age	IsA	poem	1	0	3
+disruption	AtLocation	cause	1	1	2
+twice-weekly	IsA	drama	1	0	3
+publish essay	IsA	translation	1	0	3
+roof	SymbolOf	door	1	0	3
+internet	IsA	defamatory	1	0	3
+wool	AtLocation	trade	1	1	2
+publish memoir	IsA	edit	1	2	1
+promotion	MotivatedByGoal	successful season	1	2	1
+liberal	MotivatedByGoal	popular vote	1	1	2
+write story	IsA	story	1	0	3
+use sense	AtLocation	term	1	1	2
+publish version	IsA	edition	1	2	1
+boutique	IsA	bar	1	0	3
+fishery	AtLocation	fish	1	3	0
+gold	MotivatedByGoal	win event	1	2	1
+political system	AtLocation	political	1	2	1
+non-fiction	IsA	biography	1	2	1
+jewish	IsA	deportation	1	0	3
+identity	AtLocation	secret	1	1	2
+several book	IsA	poetry	1	0	3
+sea	AtLocation	beach	1	3	0
+morale	AtLocation	raise	1	1	2
+hand-made	IsA	paper	1	1	2
+health system	AtLocation	fund	1	1	2
+border	AtLocation	south	1	2	1
+metre	MotivatedByGoal	win gold	1	1	2
+second book	IsA	book	1	1	2
+publish storey	IsA	poem	1	0	3
+boutique	IsA	restaurant	1	0	3
+reserve	SymbolOf	wildlife	1	2	1
+biotechnology	IsA	drug	1	1	2
+touristic	IsA	spot	1	0	3
+land gear	SymbolOf	aircraft	1	0	3
+orthopedic	IsA	treatment	1	2	1
+write several book	IsA	edit	1	2	1
+small settlement	AtLocation	municipality	1	2	1
+corruption	AtLocation	accuse	1	2	1
+picnick	IsA	ride	1	1	2
+twice-weekly	IsA	flight	1	1	2
+heavy rain	AtLocation	river	1	2	1
+two-volume	IsA	biography	1	2	1
+woman s	IsA	clothe	1	1	2
+matter	IsA	take own hand	1	1	2
+jewelry	IsA	ring	1	2	1
+consultancy	IsA	solution	1	1	2
+student	AtLocation	yeshiva	1	1	2
+full-page	IsA	newspaper	1	3	0
+radio personality	IsA	american	1	0	3
+analysis	IsA	new method	1	1	2
+effectiveness	SymbolOf	safety	1	1	2
+jewish	MotivatedByGoal	mysticism	1	0	3
+mostly residential	AtLocation	suburb	1	2	1
+write article	IsA	edit	1	0	3
+beard	IsA	clothe	1	0	3
+publish translation	IsA	volume	1	1	2
+seedy	IsA	hotel	1	1	2
+toilet	AtLocation	room	1	3	0
+free-lance	IsA	editor	1	3	0
+picnic	AtLocation	visitor	1	0	3
+mountain	SymbolOf	forest	1	1	2
+coast	AtLocation	naval base	1	3	0
+raunchy	IsA	rock	1	0	3
+crisis	AtLocation	financial	1	3	0
+technological	AtLocation	technology	1	3	0
+human right	AtLocation	civil	1	3	0
+excerpt	IsA	translation	1	0	3
+write several book	IsA	subject	1	0	3
+appear magazine	IsA	man s	1	0	3
+renaissance	AtLocation	castle	1	3	0
+provide habitat	AtLocation	variety	1	0	3
+nonprofit organization	IsA	exhibit	1	0	3
+work new album	IsA	confirm	1	0	3
+lurid	IsA	sex	1	1	2
+natural resource	AtLocation	economic	1	1	2
+confide	MotivatedByGoal	feel	1	2	1
+glass	SymbolOf	door	1	0	3
+policy	AtLocation	foreign	1	2	1
+work new album	IsA	entitle	1	0	3
+thermodynamics	AtLocation	process	1	2	1
+long hair	IsA	clothe	1	0	3
+facility	AtLocation	purpose-built	1	1	2
+merchant	AtLocation	trade	1	3	0
+pant	IsA	clothe	1	2	1
+fiction writer	IsA	american	1	2	1
+publish poem	IsA	poem	1	2	1
+second marriage	MotivatedByGoal	marriage	1	2	1
+supply	AtLocation	land troop	1	2	1
+view	AtLocation	panoramic	1	3	0
+right	IsA	property right	1	1	2
+twice-weekly	IsA	paper	1	2	1
+adequate	AtLocation	supply	1	0	3
+parlor	IsA	store	1	2	1
+write magazine	IsA	column	1	0	3
+publish poem	IsA	entitle	1	1	2
+co-edit	IsA	fiction	1	0	3
+wear dress	IsA	even	1	0	3
+19th century	AtLocation	18th	1	0	3
+waste	AtLocation	nuclear	1	3	0
+slalom	IsA	man s	1	0	3
+woman s	IsA	civil right	1	1	2
+room	AtLocation	upstairs	1	2	1
+artificial	AtLocation	lake	1	1	2
+wear uniform	IsA	clothe	1	2	1
+inhomogeneous	AtLocation	operator	1	0	3
+wearable	IsA	clothe	1	3	0
+woman s	IsA	right activist	1	1	2
+population growth	AtLocation	resource	1	1	2
+increase production	AtLocation	encourage	1	1	2
+cafe	AtLocation	street	1	2	1
+free-lance	IsA	musician	1	2	1
+country singer	IsA	american	1	0	3
+first book	IsA	book	1	3	0
+open	AtLocation	door	1	2	1
+touristic	IsA	hotel	1	2	1
+economic policy	AtLocation	economy	1	3	0
+use signal	AtLocation	hand	1	1	2
+frost	AtLocation	protect	1	1	2
+economic activity	AtLocation	industry	1	3	0
+cultural	AtLocation	cultural heritage	1	3	0
+business district	SymbolOf	north	1	0	3
+german	IsA	concentration camp	1	0	3
+biotechnology	IsA	sector	1	2	1
+architect	SymbolOf	landscape	1	1	2
+vibrant	AtLocation	culture	1	1	2
+control system	AtLocation	engine	1	3	0
+graphic novel	IsA	fiction	1	3	0
+degradation	AtLocation	participate	1	0	3
+write commentary	IsA	translate	1	0	3
+host championship	IsA	man s	1	0	3
+leach	AtLocation	water	1	1	2
+hotel	AtLocation	waterfront	1	1	2
+chemotherapy	IsA	agent	1	1	2
+spend several month	IsA	arrest	1	0	3
+helmet	SymbolOf	wear	1	2	1
+island	AtLocation	naval base	1	2	1
+wear robe	IsA	portray	1	1	2
+dinner	AtLocation	invite	1	3	0
+zen	IsA	japanese	1	1	2
+kitchen	AtLocation	restaurant	1	3	0
+modern system	AtLocation	system	1	3	0
+facility	AtLocation	provide accommodation	1	2	1
+crystal	AtLocation	glass	1	3	0
+body s	AtLocation	ability	1	1	2
+two-volume	IsA	translation	1	0	3
+freeware	IsA	file	1	1	2
+iridescent	IsA	green	1	1	2
+gp	IsA	assist	1	0	3
+paper	AtLocation	mill	1	1	2
+embroidery	IsA	silver	1	0	3
+edit magazine	IsA	poetry	1	0	3
+music singer	IsA	american	1	2	1
+urban area	AtLocation	suburb	1	2	1
+globalization	AtLocation	global	1	3	0
+write fiction	IsA	fiction	1	1	2
+lake	AtLocation	popular destination	1	2	1
+pool	AtLocation	room	1	1	2
+geopolitical	AtLocation	reality	1	1	2
+hold press conference	IsA	accuse	1	0	3
+flashy	IsA	clothe	1	1	2
+economic crisis	AtLocation	policy	1	1	2
+biotechnology	IsA	chemical	1	2	1
+chemotherapy	SymbolOf	patient	1	1	2
+goth	IsA	king	1	0	3
+bi-weekly	IsA	newspaper	1	3	0
+graphic novel	IsA	book	1	3	0
+office	AtLocation	first floor	1	3	0
+monsoon	AtLocation	summer	1	3	0
+anthologize	IsA	translate	1	1	2
+government area	AtLocation	business	1	1	2
+biotechnology	IsA	food	1	1	2
+private collection	AtLocation	display	1	1	2
+railway	AtLocation	build railway	1	3	0
+safety	SymbolOf	ensure	1	1	2
+strap	SymbolOf	back	1	0	3
+restaurant	AtLocation	bar	1	2	1
+collection short storey	IsA	'the	1	0	3
+flood	AtLocation	river	1	3	0
+country music	IsA	1950	1	0	3
+practice	AtLocation	bar	1	0	3
+yarn	IsA	clothe	1	0	3
+re-elect	MotivatedByGoal	vote	1	1	2
+edit book	IsA	poetry	1	1	2
+foreword	IsA	chapter	1	0	3
+create condition	AtLocation	growth	1	0	3
+fish	AtLocation	fisherman	1	3	0
+civilization	AtLocation	ancient	1	1	2
+privateer	IsA	crow	1	1	2
+embroider	IsA	gold	1	0	3
+law	AtLocation	earn law degree	1	2	1
+hockey team	IsA	canadian	1	3	0
+write volume	IsA	entitle	1	2	1
+internet	IsA	provide access	1	3	0
+edit book	IsA	translate	1	0	3
+parlor	IsA	shop	1	1	2
+harbour	AtLocation	sea	1	3	0
+write magazine	IsA	edit	1	3	0
+win	MotivatedByGoal	popular vote	1	0	3
+zany	IsA	scheme	1	0	3
+bi-annual	IsA	box	1	0	3
+collection short storey	IsA	publish	1	2	1
+book s	IsA	book	1	2	1
+foreword	IsA	collection	1	0	3
+card	MotivatedByGoal	opponent s	1	0	3
+border	AtLocation	smuggle	1	2	1
+hotel	AtLocation	room	1	2	1
+electro-optical	SymbolOf	system	1	0	3
+seat	MotivatedByGoal	win majority	1	0	3
+weedy	AtLocation	lake	1	1	2
+lilac	IsA	spot	1	0	3
+regeneration	AtLocation	centre	1	1	2
+contribute article	IsA	publication	1	3	0
+yogic	IsA	text	1	0	3
+gothic style	AtLocation	castle	1	3	0
+volleyball	IsA	woman s	1	0	3
+edit book	IsA	write	1	2	1
+instability	AtLocation	political	1	2	1
+depletion	AtLocation	stock	1	1	2
+fancy	IsA	clothe	1	0	3
+gp	IsA	note	1	0	3
+lens	SymbolOf	image	1	1	2
+cosmetic	IsA	clothe	1	0	3
+german	IsA	german empire	1	2	1
+lace	IsA	clothe	1	2	1
+degree	AtLocation	earn master degree	1	3	0
+novella	IsA	novel	1	3	0
+numerous article	IsA	write	1	1	2
+host own show	IsA	variety	1	3	0
+publish essay	IsA	poem	1	1	2
+parlor	IsA	hotel	1	1	2
+aircraft	SymbolOf	maintenance	1	0	3
+lounge	AtLocation	floor	1	2	1
+university	AtLocation	new campus	1	3	0
+wiry	IsA	root	1	0	3
+clothe	IsA	wear badge	1	0	3
+semi-detach	AtLocation	garden	1	2	1
+economic development	AtLocation	social	1	2	1
+poetry	IsA	child s book	1	2	1
+eat insect	IsA	fee	1	0	3
+pop group	IsA	british	1	2	1
+publish translation	IsA	text	1	3	0
+woman s	MotivatedByGoal	win gold	1	1	2
+drum machine	IsA	instrument	1	2	1
+publish	IsA	include article	1	2	1
+ska	IsA	metal	1	0	3
+jewelry	IsA	clothe	1	0	3
+supranational	AtLocation	union	1	1	2
+german	IsA	u-boat	1	0	3
+german	IsA	nazism	1	2	1
+cocktail	IsA	glass	1	1	2
+woodland	AtLocation	lake	1	3	0
+visitor	AtLocation	museum	1	3	0
+trendy	IsA	clothe	1	3	0
+court-martial	IsA	accuse	1	2	1
+space	SymbolOf	open space	1	1	2
+monsoon	AtLocation	zone	1	2	1
+german	IsA	gestapo	1	0	3
+periodical	IsA	article	1	3	0
+serve coach	IsA	man s	1	1	2
+leadership	IsA	prepare student	1	0	3
+jazzy	IsA	beat	1	2	1
+science-fiction	IsA	novel	1	3	0
+shop	SymbolOf	new area	1	0	3
+monthly magazine	IsA	article	1	2	1
+publish novel	IsA	novel	1	2	1
+science-fiction	IsA	storey	1	2	1
+door	IsA	driver s	1	0	3
+savanna	SymbolOf	zone	1	0	3
+chestnut	IsA	leg	1	0	3
+non-food	IsA	clothe	1	1	2
+paper	IsA	other material	1	3	0
+hardcover	IsA	collect	1	1	2
+basketball court	IsA	library	1	0	3
+sonnet	IsA	poetry	1	3	0
+volleyball	IsA	ice	1	0	3
+judo	IsA	man s	1	0	3
+invitation-only	IsA	requirement	1	2	1
+treatment	IsA	medical service	1	2	1
+publish translation	IsA	poetry	1	2	1
+science-fiction	IsA	author	1	1	2
+mulberry	IsA	wood	1	0	3
+gold	MotivatedByGoal	win gold	1	1	2
+haired	IsA	eye	1	0	3
+girl	MotivatedByGoal	state championship	1	0	3
+prime-time	IsA	blue	1	1	2
+write volume	IsA	translate	1	1	2
+contribute article	IsA	entitle	1	1	2
+cameraman	IsA	crow	1	1	2
+acoustic guitar	IsA	instrument	1	3	0
+thrash metal band	IsA	1980	1	0	3
+other publication	IsA	publication	1	3	0
+volleyball	IsA	woman	1	0	3
+write magazine	IsA	newspaper	1	3	0
+wear cap	IsA	combination	1	0	3
+editorial	IsA	publication	1	3	0
+co-edit	IsA	collection	1	0	3
+saxophonist	IsA	american	1	1	2
+indie band	IsA	canadian	1	0	3
+indie band	IsA	1990	1	0	3
+consultancy	IsA	management	1	1	2
+conduct orchestra	IsA	arrange	1	0	3
+flower	IsA	fountain	1	0	3
+effeminate	IsA	clothe	1	1	2
+release	MotivatedByGoal	single album	1	2	1
+write poetry	IsA	translate	1	0	3
+tv	IsA	use location	1	0	3
+wear coat	IsA	depict	1	0	3
+literary magazine	IsA	literature	1	3	0
+long hair	IsA	wear	1	0	3
+wreath	IsA	lie	1	1	2
+evangelist	IsA	christian	1	3	0
+art college	IsA	christian	1	0	3
+apparel	IsA	item	1	3	0
+nymph	SymbolOf	greek	1	1	2
+championship	MotivatedByGoal	win state championship	1	2	1
+write short storey	IsA	collection	1	0	3
+class	MotivatedByGoal	win class	1	1	2
+spanish	IsA	land grant	1	0	3
+internet	IsA	establish connection	1	3	0
+four-volume	IsA	collection	1	3	0
+edit magazine	IsA	fiction	1	2	1
+man s	MotivatedByGoal	win gold	1	1	2
+roundtable	IsA	news	1	0	3
+speedway	IsA	polish	1	0	3
+twice-weekly	IsA	newspaper	1	3	0
+make occasional appearance	IsA	guest	1	1	2
+plant	SymbolOf	vegetation	1	3	0
+patient	IsA	medical service	1	2	1
+biotechnology	IsA	manufacture	1	0	3
+book s	IsA	page	1	1	2
+write newspaper	IsA	journal	1	3	0
+software company	IsA	software	1	2	1
+series novel	IsA	novel	1	3	0
+sculpture	SymbolOf	artist	1	2	1
+humid	IsA	environment	1	2	1
+volleyball	IsA	basketball	1	0	3
+fiction	IsA	essay	1	1	2
+comedy series	IsA	british	1	1	2
+copy	MotivatedByGoal	recessive	1	1	2
+bulletproof	IsA	clothe	1	3	0
+monthly magazine	IsA	edit	1	2	1
+open store	IsA	clothe	1	0	3
+court	MotivatedByGoal	pre-trial	1	1	2
+scuba	IsA	sea	1	1	2
+publish essay	IsA	magazine	1	2	1
+consultant	SymbolOf	management	1	1	2
+heavy band	IsA	swedish	1	2	1
+herbal	IsA	treatment	1	3	0
+collection short storey	IsA	writer	1	1	2
+mastermind	IsA	accuse	1	0	3
+co-edit	IsA	volume	1	2	1
+send telegram	IsA	express	1	3	0
+film s	IsA	plot	1	1	2
+unkempt	IsA	clothe	1	0	3
+election	MotivatedByGoal	popular vote	1	1	2
+proceed	IsA	state court	1	0	3
+ska	IsA	1960	1	0	3
+six-part	IsA	documentary	1	1	2
+velvety	IsA	black	1	0	3
+pamphlet	IsA	print	1	2	1
+unabridged	IsA	cd	1	1	2
+goth	IsA	invasion	1	0	3
+armor	SymbolOf	protection	1	2	1
+serve ship	IsA	crow	1	1	2
+journal	IsA	topic	1	1	2
+base television series	IsA	write	1	0	3
+door	SymbolOf	roof	1	0	3
+screen	SymbolOf	display	1	1	2
+publish poem	IsA	storey	1	2	1
+jean	IsA	wear	1	2	1
+organize conference	IsA	press	1	2	1
+wing	SymbolOf	non-breede	1	1	2
+wing	SymbolOf	l-shape	1	2	1
+wing	SymbolOf	ill-define	1	0	3
+wing	SymbolOf	fee insect	1	2	1
+basketball team	IsA	man s	1	3	0
+wear hat	IsA	clothe	1	2	1
+natural	SymbolOf	vegetation	1	2	1
+develop	IsA	new method	1	3	0
+ventilation	SymbolOf	gas	1	0	3
+degree	MotivatedByGoal	doctorate	1	1	2
+electrostatic	SymbolOf	charge	1	2	1
+contribute song	IsA	movie	1	0	3
+ufo	IsA	incident	1	0	3
+maintenance	SymbolOf	operation	1	1	2
+androgynous	IsA	clothe	1	1	2
+two-volume	IsA	collection	1	3	0
+bamboo	IsA	tree	1	3	0
+man s	MotivatedByGoal	win state championship	1	0	3
+introduction	IsA	include introduction	1	2	1
+offer	IsA	prepare student	1	0	3
+haired	IsA	girl	1	3	0
+spectroscopy	SymbolOf	application	1	2	1
+name coach	IsA	man s	1	0	3
+helicopter	SymbolOf	pilot	1	1	2
+burlesque	IsA	opus	1	1	2
+ensure	SymbolOf	safety	1	1	2
+elect	MotivatedByGoal	serve term	1	1	2
+german	IsA	german troop	1	3	0
+hard band	IsA	swedish	1	0	3
+maintenance	SymbolOf	aircraft	1	1	2
+woman s	MotivatedByGoal	win first medal	1	1	2
+property	IsA	property right	1	3	0
+bathe	IsA	clothe	1	1	2
+gp	IsA	loss	1	0	3
+sea	SymbolOf	ocean	1	1	2
+smoke	SymbolOf	fire	1	3	0
+hardcover	IsA	introduction	1	1	2
+other equipment	SymbolOf	safety	1	0	3
+biweekly	IsA	column	1	2	1
+nature	SymbolOf	wildlife	1	2	1
+reprint	IsA	publish	1	3	0
+release collection	IsA	poetry	1	1	2
+ready-to-wear	IsA	suit	1	3	0
+biweekly	IsA	basis	1	1	2
+chemotherapy	IsA	combination	1	1	2
+groovy	IsA	guitar	1	1	2
+silver	MotivatedByGoal	win event	1	0	3
+spend several month	IsA	prison	1	0	3
+german	IsA	german team	1	2	1
+revue	IsA	lyric	1	0	3
+publish pamphlet	IsA	entitle	1	1	2
+lacrosse	IsA	man s	1	1	2
+stocky	IsA	bill	1	0	3
+shave	IsA	clothe	1	1	2
+metre	MotivatedByGoal	win first medal	1	1	2
+techno	IsA	1990	1	2	1
+heat	SymbolOf	cool	1	0	3
+breezy	IsA	lyric	1	0	3
+internet	IsA	use phone	1	0	3
+many book	IsA	article	1	1	2
+cactus	IsA	plant	1	3	0
+graphic novel	IsA	storey	1	1	2
+brief	IsA	underwear	1	0	3
+other publication	IsA	article	1	2	1
+'the	IsA	child s book	1	0	3
+late album	IsA	album	1	3	0
+take ship	IsA	crow	1	0	3
+confide	MotivatedByGoal	secret	1	0	3
+tv movie	IsA	portray	1	0	3
+regard	IsA	issue statement	1	0	3
+hippie	IsA	clothe	1	0	3
+television	IsA	child s	1	0	3
+fundraiser	IsA	democratic	1	1	2
+window	SymbolOf	glass	1	2	1
+sky	SymbolOf	earth	1	2	1
+mountain	SymbolOf	trek	1	2	1
+billionaire	IsA	russian	1	1	2
+various artist	IsA	cd	1	1	2
+publish poem	IsA	translation	1	1	2
+form band	MotivatedByGoal	guitar	1	2	1
+event	MotivatedByGoal	win bronze medal	1	0	3
+location	SymbolOf	proximity	1	1	2
+matter	IsA	make law	1	0	3
+corrosion	SymbolOf	material	1	1	2
+fire	SymbolOf	control system	1	1	2
+medal	MotivatedByGoal	win gold medal	1	0	3
+medical	SymbolOf	care	1	1	2
+savanna	SymbolOf	habitat	1	1	2
+treatment	SymbolOf	clinical	1	2	1
+man s	MotivatedByGoal	win first medal	1	1	2
+wing	SymbolOf	cockpit	1	1	2
+earn	MotivatedByGoal	doctorate	1	2	1
+combustion	SymbolOf	air	1	0	3
+wing	SymbolOf	aircraft s	1	2	1
+method	SymbolOf	detection	1	0	3
+medical service	MotivatedByGoal	provide	1	1	2
+facility	SymbolOf	maintenance	1	0	3
+championship	MotivatedByGoal	successful season	1	3	0
+astronaut	SymbolOf	mission	1	2	1
+receive vote	MotivatedByGoal	vote	1	1	2
+first marriage	MotivatedByGoal	actress	1	0	3
+sit	MotivatedByGoal	elect mayor	1	0	3
+glass	SymbolOf	roof	1	0	3
+full album	MotivatedByGoal	length	1	0	3
+indictment	MotivatedByGoal	trial	1	0	3
+earth	SymbolOf	ocean	1	1	2
+election	MotivatedByGoal	election result	1	1	2
+tower	SymbolOf	castle	1	3	0
+water	SymbolOf	ocean	1	2	1
+buy home	SymbolOf	price	1	0	3
+basketball	MotivatedByGoal	win state championship	1	3	0
+cause	MotivatedByGoal	miscarry	1	0	3
+chef	SymbolOf	food	1	3	0
+transport	SymbolOf	hydrological	1	0	3
+silver	MotivatedByGoal	win gold	1	0	3
+aircraft	SymbolOf	pilot	1	1	2
+sport	MotivatedByGoal	state championship	1	1	2
+nymph	SymbolOf	beautiful	1	2	1
+visitor	SymbolOf	tourism	1	1	2
+forest	SymbolOf	mountain	1	0	3
+heat	SymbolOf	energy	1	1	2
+seek treatment	SymbolOf	treatment	1	0	3
+savanna	SymbolOf	garden	1	0	3
+philosophy	MotivatedByGoal	mysticism	1	2	1
+lens	SymbolOf	eye	1	1	2
+curtain	SymbolOf	wall	1	1	2
+candidacy	MotivatedByGoal	declare	1	0	3
+laser	SymbolOf	device	1	1	2
+ignition	SymbolOf	system	1	0	3
+enable	SymbolOf	easy access	1	2	1
+camera	SymbolOf	still	1	0	3
+vote	MotivatedByGoal	win majority	1	3	0
+evidence	MotivatedByGoal	pre-trial	1	0	3
+medal	MotivatedByGoal	win gold	1	2	1
+exercise	MotivatedByGoal	receive gold medal	1	2	1
+blue	SymbolOf	livery	1	1	2
+woman s	MotivatedByGoal	win conference championship	1	0	3
+vote	MotivatedByGoal	re-elect	1	3	0
+wing	SymbolOf	jet-power	1	1	2
+metre	MotivatedByGoal	win gold medal	1	0	3
+tournament	MotivatedByGoal	state championship	1	2	1
+aluminium	SymbolOf	material	1	3	0
+m	MotivatedByGoal	win bronze medal	1	0	3
+finish	MotivatedByGoal	win event	1	3	0
+conference	MotivatedByGoal	capture championship	1	0	3
+armour	SymbolOf	protection	1	3	0
+care	MotivatedByGoal	quality life	1	3	0
+surgeon	SymbolOf	medical	1	3	0
+m	MotivatedByGoal	win gold	1	0	3
+laser	SymbolOf	weapon	1	0	3
+volleyball	SymbolOf	field	1	0	3
+pattern	MotivatedByGoal	recessive	1	0	3
+well-being	MotivatedByGoal	care	1	1	2
+fuselage	SymbolOf	engine	1	2	1
+heat	SymbolOf	waste	1	0	3
+care	MotivatedByGoal	holistic	1	0	3
+use aircraft	SymbolOf	fly	1	1	2
+door	SymbolOf	glass	1	0	3
+player	MotivatedByGoal	player s	1	0	3
+business district	SymbolOf	mile	1	0	3
+football	MotivatedByGoal	state championship	1	2	1
+court	SymbolOf	outdoor	1	1	2
+garden	SymbolOf	open space	1	2	1
+swim	SymbolOf	sport	1	2	1
+fog	SymbolOf	light	1	1	2
+battery	SymbolOf	fire	1	0	3
+championship	MotivatedByGoal	win medal event	1	3	0
+full album	MotivatedByGoal	solo	1	1	2
+obtain	MotivatedByGoal	doctorate	1	0	3
+heavy fire	SymbolOf	safety	1	0	3
+win	MotivatedByGoal	bronze medal	1	2	1
+metre	MotivatedByGoal	win bronze medal	1	0	3
+drug	MotivatedByGoal	efficacy	1	0	3
+man s	MotivatedByGoal	win conference championship	1	0	3
+insulation	SymbolOf	wall	1	0	3
+wing	SymbolOf	low-wing	1	0	3
+light	SymbolOf	optic	1	2	1
+lens	SymbolOf	focus	1	0	3
+championship	MotivatedByGoal	win first medal	1	3	0
+motion	MotivatedByGoal	pre-trial	1	0	3
+flame	SymbolOf	fire	1	3	0
+event	MotivatedByGoal	bronze medal	1	1	2
+artist	SymbolOf	show work	1	0	3
+rear	SymbolOf	front	1	0	3
+roof	SymbolOf	tower	1	0	3
+product	SymbolOf	offer wide range	1	1	2
+park	SymbolOf	visitor	1	1	2
+helmet	SymbolOf	suit	1	1	2
+phase	MotivatedByGoal	pre-trial	1	0	3
+control system	SymbolOf	fire	1	0	3
+hotel	SymbolOf	tourism	1	2	1
+candidacy	MotivatedByGoal	mayor	1	1	2
+habitat	SymbolOf	wildlife	1	3	0
+aircraft	SymbolOf	land gear	1	0	3
+flat	SymbolOf	surface	1	0	3
+mount gun	SymbolOf	fire	1	1	2
+earth	SymbolOf	sky	1	0	3
+man s	MotivatedByGoal	win consecutive title	1	0	3
+technology	SymbolOf	innovative	1	2	1
+savanna	SymbolOf	lake	1	1	2
+gold	MotivatedByGoal	win first medal	1	1	2
+customer	MotivatedByGoal	payment	1	2	1
+management	SymbolOf	wildlife	1	0	3
+stock	SymbolOf	livery	1	0	3
+woman s	MotivatedByGoal	win medal event	1	0	3
+rod	SymbolOf	connect	1	0	3
+roof	SymbolOf	glass	1	0	3
+technique	SymbolOf	innovative	1	0	3
+weapon	SymbolOf	laser	1	1	2
+pay expense	MotivatedByGoal	pay	1	0	3
+reduce	SymbolOf	cost	1	2	1
+enjoy	MotivatedByGoal	successful season	1	2	1
+championship	MotivatedByGoal	win championship	1	2	1
+emergency	SymbolOf	safety	1	1	2
+brightness	SymbolOf	image	1	1	2
+police officer	SymbolOf	police	1	3	0
+radar	SymbolOf	target	1	2	1
+display	SymbolOf	screen	1	2	1
+quality	MotivatedByGoal	provide care	1	1	2
+man	MotivatedByGoal	win medal event	1	0	3
+garden	SymbolOf	landscape	1	1	2
+last album	MotivatedByGoal	release	1	1	2
+aircraft	SymbolOf	control system	1	1	2
+compete	MotivatedByGoal	receive gold medal	1	1	2
+resource	SymbolOf	wildlife	1	0	3
+team	MotivatedByGoal	boy team	1	0	3
+fluorescent	SymbolOf	light	1	2	1
+man s	MotivatedByGoal	capture championship	1	0	3
+money	MotivatedByGoal	payment	1	1	2
+adjustable	SymbolOf	seat	1	1	2
+assistant professor	MotivatedByGoal	appoint	1	0	3
+win	MotivatedByGoal	win silver	1	0	3
+light	SymbolOf	lens	1	2	1
+enforcement	SymbolOf	safety	1	2	1
+surgical	SymbolOf	treatment	1	2	1
+opponent	MotivatedByGoal	give game	1	0	3
+championship	MotivatedByGoal	receive bronze medal	1	2	1
+chemotherapy	SymbolOf	cancer	1	1	2
+rear	SymbolOf	window	1	1	2
+wing	SymbolOf	underpart	1	0	3
+exhibition	SymbolOf	show work	1	1	2
+wheel	SymbolOf	car	1	2	1
+body part	SymbolOf	body	1	1	2
+first marriage	MotivatedByGoal	survive	1	0	3
+fail	MotivatedByGoal	win majority	1	0	3
+chrome	SymbolOf	door	1	1	2
+equipment	SymbolOf	laboratory	1	1	2
+user	MotivatedByGoal	password	1	2	1
+visitor	SymbolOf	park	1	1	2
+exhibit	SymbolOf	gallery	1	2	1
+provider	SymbolOf	care	1	0	3
+sculpture	SymbolOf	paint	1	0	3
+effectiveness	SymbolOf	improve	1	1	2
+mirror	SymbolOf	camera	1	0	3
+new band	MotivatedByGoal	guitar	1	0	3
+therapist	SymbolOf	treatment	1	2	1
+instructor	SymbolOf	pilot	1	0	3
+friend s	MotivatedByGoal	friend	1	0	3
+social	MotivatedByGoal	social change	1	1	2
+patient	SymbolOf	care	1	1	2
+issue warrant	MotivatedByGoal	accuse	1	0	3
+light	SymbolOf	brightness	1	3	0
+play game	MotivatedByGoal	help team	1	1	2
+basis	MotivatedByGoal	serve term	1	1	2
+use camera	SymbolOf	picture	1	2	1
+care	SymbolOf	medical	1	3	0
+operation	SymbolOf	maintenance	1	2	1
+squadron	SymbolOf	mission	1	2	1
+play gig	MotivatedByGoal	release album	1	3	0
+woman s	MotivatedByGoal	win national championship	1	0	3
+vote	MotivatedByGoal	win re-election	1	2	1
+study	MotivatedByGoal	doctorate	1	2	1
+window	SymbolOf	wall	1	1	2
+wing	SymbolOf	wade bird	1	2	1
+championship	MotivatedByGoal	win bronze medal	1	2	1
+lamp	SymbolOf	oil	1	0	3
+event	MotivatedByGoal	win medal	1	1	2
+use light	SymbolOf	generate	1	0	3
+candidacy	MotivatedByGoal	election	1	3	0
+wall	SymbolOf	window	1	0	3
+championship	MotivatedByGoal	win medal	1	3	0
+night	SymbolOf	darkness	1	3	0
+last album	MotivatedByGoal	release album	1	2	1
+bank	MotivatedByGoal	payment	1	2	1
+civil right	MotivatedByGoal	freedom	1	2	1
+championship	MotivatedByGoal	compete championship	1	1	2
+championship	MotivatedByGoal	win league championship	1	2	1
+woman s	MotivatedByGoal	win gold medal	1	0	3
+competition	MotivatedByGoal	win gold medal	1	3	0
+effectiveness	SymbolOf	reduce	1	0	3
+assistant professor	MotivatedByGoal	science	1	2	1
+medal	MotivatedByGoal	win medal event	1	1	2
+medal	MotivatedByGoal	win bronze	1	1	2
+holistic	MotivatedByGoal	care	1	0	3
+alloy	SymbolOf	wheel	1	0	3
+glass	SymbolOf	mirror	1	2	1
+ball	MotivatedByGoal	score run	1	1	2
+championship	MotivatedByGoal	win consecutive championship	1	1	2
+social justice	MotivatedByGoal	economic	1	0	3
+insulation	SymbolOf	material	1	0	3
+full album	MotivatedByGoal	band	1	3	0
+buy home	SymbolOf	suburb	1	0	3
+generator	SymbolOf	equipment	1	0	3
+state election	MotivatedByGoal	election	1	1	2
+door	SymbolOf	front	1	1	2
+fire	SymbolOf	smoke	1	3	0
+savanna	SymbolOf	natural	1	3	0
+vitro	SymbolOf	technique	1	0	3
+rifle	SymbolOf	fire	1	2	1
+engine	SymbolOf	control system	1	0	3
+human right	MotivatedByGoal	democratic	1	2	1
+maneuver	SymbolOf	enemy	1	1	2
+conference	MotivatedByGoal	win conference championship	1	0	3
+artist	SymbolOf	sculpture	1	2	1
+deck	SymbolOf	bridge	1	0	3
+social change	MotivatedByGoal	social	1	1	2
+corrosion	SymbolOf	protection	1	0	3
+election	MotivatedByGoal	win vote	1	3	0
+business district	SymbolOf	locate	1	0	3
+woman s	MotivatedByGoal	win bronze medal	1	0	3
+inspector	SymbolOf	safety	1	0	3
+tower	SymbolOf	roof	1	0	3
+neon	SymbolOf	light	1	2	1
+vote	MotivatedByGoal	win vote	1	3	0
+mountain	SymbolOf	valley	1	1	2
+chassis	SymbolOf	body	1	2	1
+opponent s	MotivatedByGoal	piece	1	0	3
+man s	MotivatedByGoal	win national championship	1	0	3
+european	MotivatedByGoal	proportional representation	1	0	3
+champion	MotivatedByGoal	win consecutive championship	1	1	2
+social life	SymbolOf	aspect	1	0	3
+camera	SymbolOf	image	1	3	0
+woman s	MotivatedByGoal	national championship	1	0	3
+release first album	MotivatedByGoal	release album	1	2	1
+boiler	SymbolOf	water	1	2	1
+control	MotivatedByGoal	include system	1	0	3
+paint	SymbolOf	sculpture	1	0	3
+manufacture	SymbolOf	equipment	1	0	3
+gun	SymbolOf	machine	1	2	1
+wave	SymbolOf	space-base	1	1	2
+pilot	SymbolOf	aircraft	1	3	0
+beat	MotivatedByGoal	reach semifinal	1	3	0
+sister s	SymbolOf	brother	1	2	1
+philosophy	MotivatedByGoal	receive doctorate	1	2	1
+horseback	SymbolOf	activity	1	1	2
+wing	SymbolOf	land gear	1	0	3
+full album	MotivatedByGoal	fifth	1	0	3
+sail	SymbolOf	port	1	1	2
+transaction	MotivatedByGoal	customer	1	1	2
+exhibit	SymbolOf	museum	1	2	1
+state election	MotivatedByGoal	australian	1	0	3
+missile	SymbolOf	aircraft	1	1	2
+business district	SymbolOf	km	1	0	3
+field	SymbolOf	at	1	0	3
+protective	SymbolOf	equipment	1	0	3
+detection	SymbolOf	method	1	0	3
+wing	SymbolOf	anglo-catholic	1	0	3
+grip	SymbolOf	handle	1	2	1
+include song	MotivatedByGoal	sing	1	1	2
+nymph	SymbolOf	wood	1	2	1
+technology	SymbolOf	state-of-the-art	1	0	3
+payment	MotivatedByGoal	money	1	2	1
+fingerprint	SymbolOf	identity	1	3	0
+first marriage	MotivatedByGoal	marriage	1	2	1
+growth rate	SymbolOf	sector	1	1	2
+liquid	SymbolOf	surface	1	0	3
+climate	SymbolOf	ocean	1	0	3
+championship	MotivatedByGoal	win league	1	1	2
+safety	SymbolOf	effectiveness	1	1	2
+join union	MotivatedByGoal	permit	1	0	3
+indictment	MotivatedByGoal	witness	1	0	3
+nature	SymbolOf	conservation	1	0	3
+motion	SymbolOf	still	1	0	3
+make payment	MotivatedByGoal	pay	1	3	0
+theory	MotivatedByGoal	psychology	1	1	2
+form band	MotivatedByGoal	rock	1	2	1
+medicine	SymbolOf	patient	1	2	1
+mayor	MotivatedByGoal	serve term	1	1	2
+durability	SymbolOf	resistance	1	2	1
+reflector	SymbolOf	light	1	2	1
+darkness	SymbolOf	night	1	3	0
+business district	SymbolOf	shop	1	0	3
+social	MotivatedByGoal	science	1	1	2
+antenna	SymbolOf	radio	1	3	0
+team	MotivatedByGoal	gold medal	1	1	2
+free-market	MotivatedByGoal	freedom	1	1	2
+degree	MotivatedByGoal	receive degree	1	2	1
+business district	SymbolOf	airport	1	0	3
+health	MotivatedByGoal	holistic	1	0	3
+metre	MotivatedByGoal	win medal event	1	0	3
+man s	MotivatedByGoal	win bronze medal	1	0	3
+equipment	SymbolOf	communication	1	0	3
+cockpit	SymbolOf	pilot	1	2	1
+election	MotivatedByGoal	state election	1	2	1
+cylinder	SymbolOf	gas	1	0	3
+painter	SymbolOf	artist	1	2	1
+issue warrant	MotivatedByGoal	murder	1	2	1
+complete degree	MotivatedByGoal	study	1	3	0
+ceremony	SymbolOf	well-attend	1	2	1
+ceremony	SymbolOf	ground-break	1	0	3
+canoe	SymbolOf	river	1	2	1
+camera	SymbolOf	video	1	2	1
+man s	MotivatedByGoal	national championship	1	0	3
+social justice	MotivatedByGoal	promote	1	2	1
+class	MotivatedByGoal	receive gold medal	1	0	3
+distance	MotivatedByGoal	receive gold medal	1	0	3
+brother	SymbolOf	sister s	1	1	2
+assistant professor	MotivatedByGoal	fellow	1	2	1
+promote	MotivatedByGoal	economic development	1	2	1
+at	SymbolOf	field	1	1	2
+liberal	MotivatedByGoal	ccf	1	0	3
+reduce	SymbolOf	noise	1	1	2
+conservative	MotivatedByGoal	popular vote	1	0	3
+rear	SymbolOf	door	1	0	3
+business district	SymbolOf	suburb	1	1	2
+cast vote	MotivatedByGoal	vote	1	0	3
+size	MotivatedByGoal	family size	1	1	2
+light	SymbolOf	fog	1	0	3
+doctor	SymbolOf	patient	1	1	2
+medical service	MotivatedByGoal	treatment	1	3	0
+port	SymbolOf	maritime	1	2	1
+precision	SymbolOf	target	1	1	2
+prison	MotivatedByGoal	serve term	1	1	2
+intensity	SymbolOf	light	1	0	3
+leather	SymbolOf	black	1	0	3
+give notice	MotivatedByGoal	require	1	0	3
+in-service	SymbolOf	programme	1	1	2
+solo	MotivatedByGoal	release album	1	0	3
+climate	SymbolOf	flora	1	0	3
+reconnaissance	SymbolOf	aircraft	1	0	3
+debut	SymbolOf	music artist	1	2	1
+swedish	MotivatedByGoal	team event	1	0	3
+wing	SymbolOf	grey	1	0	3
+trailer	SymbolOf	park	1	1	2
+hospital	SymbolOf	care	1	3	0
+opponent s	MotivatedByGoal	card	1	0	3
+care	SymbolOf	patient	1	2	1
+resistant	SymbolOf	resistance	1	2	1
+electro-optical	SymbolOf	camera	1	3	0
+sport	SymbolOf	offer facility	1	1	2
+gas	SymbolOf	ideal	1	0	3
+savanna	SymbolOf	dry	1	1	2
+jet	SymbolOf	flight	1	3	0
+armour	SymbolOf	heavy	1	2	1
+numerous award	SymbolOf	contribution	1	1	1
+card	MotivatedByGoal	player s	1	1	1
+savanna	SymbolOf	climate	1	1	1
+tree	SymbolOf	canopy	1	0	2
+deck	SymbolOf	ship	1	2	0
+mount	SymbolOf	gun	1	0	2
+hose	SymbolOf	fire	1	0	2
+engineer	SymbolOf	software	1	2	0
+trainee	SymbolOf	train	1	0	2
+thin-film	SymbolOf	technology	1	1	1
+liberal	MotivatedByGoal	british politician	1	2	0
+forest	SymbolOf	grassland	1	1	1
+exhibit	SymbolOf	hands-on	1	1	1
+gold	MotivatedByGoal	win medal	1	1	1
+wing	SymbolOf	radiator	1	0	2
+expansion	SymbolOf	new area	1	2	0
+include unit	SymbolOf	unit	1	1	1
+freedom	MotivatedByGoal	fundamental	1	2	0
+forest	SymbolOf	vegetation	1	2	0
+woman s	MotivatedByGoal	earn finish	1	0	2
+fuel tank	SymbolOf	range	1	0	2
+delivery	MotivatedByGoal	customer	1	1	1
+solo	MotivatedByGoal	grammy-nominate	1	1	1
+image	SymbolOf	still	1	1	1
+principle	MotivatedByGoal	good practice	1	1	1
+administration	MotivatedByGoal	earn bachelor degree	1	1	1
+projector	SymbolOf	image	1	2	0
+chrome	SymbolOf	black	1	0	2
+medal	MotivatedByGoal	win first medal	1	2	0
+religion	MotivatedByGoal	faith	1	2	0
+customer	SymbolOf	offer wide range	1	0	2
+technology	SymbolOf	connectivity	1	1	1
+reduce	SymbolOf	risk	1	2	0
+shade	SymbolOf	light	1	0	2
+resistance	SymbolOf	resistant	1	2	0
+combat	SymbolOf	mission	1	0	2
+naval	SymbolOf	commander	1	0	2
+woman s	MotivatedByGoal	take medal	1	0	2
+man s	MotivatedByGoal	earn finish	1	0	2
+song title	MotivatedByGoal	album	1	1	1
+hood	SymbolOf	front	1	1	1
+win european championship	MotivatedByGoal	championship	1	2	0
+canadian team	MotivatedByGoal	championship	1	1	1
+first american	MotivatedByGoal	medal	1	1	1
+mirror	SymbolOf	glass	1	2	0
+man s	MotivatedByGoal	win silver	1	0	2
+credit card	MotivatedByGoal	card	1	1	1
+clasp	SymbolOf	hand	1	0	2
+reveal	SymbolOf	identity	1	0	2
+wireless	SymbolOf	network	1	1	1
+attack enemy	SymbolOf	attack	1	2	0
+sky	SymbolOf	blue	1	2	0
+man s	MotivatedByGoal	first medal	1	0	2
+reliability	SymbolOf	safety	1	1	1
+woman s	MotivatedByGoal	win silver medal	1	0	2
+high quality	SymbolOf	quality	1	2	0
+ventilation	SymbolOf	window	1	0	2
+glass	SymbolOf	3	1	0	2
+exercise	MotivatedByGoal	receive silver medal	1	2	0
+sing vocal	MotivatedByGoal	track	1	1	1
+religion	MotivatedByGoal	pluralistic	1	0	2
+health	MotivatedByGoal	non-metropolitan	1	0	2
+high school	SymbolOf	public	1	1	1
+subsonic	SymbolOf	aircraft	1	1	1
+priest	SymbolOf	tridentine	1	0	2
+georgian	SymbolOf	architecture	1	1	1
+launch	SymbolOf	satellite	1	1	1
+navy	SymbolOf	ship	1	2	0
+sharp	SymbolOf	edge	1	2	0
+station	SymbolOf	railway	1	2	0
+spacecraft	SymbolOf	mission	1	2	0
+service-orient	SymbolOf	architecture	1	0	2
+jeffersonian	SymbolOf	architecture	1	1	1
+gothic style	SymbolOf	architecture	1	2	0
+early english	SymbolOf	architecture	1	1	1
+priest	SymbolOf	zoroastrian	1	0	2
+priest	SymbolOf	vatican	1	1	1
+priest	SymbolOf	ruthenian	1	1	1
+priest	SymbolOf	jesuit	1	1	1
+priest	SymbolOf	israelite	1	1	1
+priest	SymbolOf	dominican	1	1	1
+priest	SymbolOf	catholicism	1	2	0
+priest	SymbolOf	carmelite	1	0	2
+priest	SymbolOf	augustinian	1	2	0
+wireless	SymbolOf	communication	1	1	1
+individual s	MotivatedByGoal	belief	1	1	1
+facility	SymbolOf	world-class	1	0	2
+management	SymbolOf	biodiversity	1	0	2
+friend	MotivatedByGoal	friend s	1	2	0
+provide set	MotivatedByGoal	datum	1	0	2
+sculptor	SymbolOf	italian	1	1	1
+conservation	SymbolOf	nature	1	0	2
+fuel tank	SymbolOf	fit	1	1	1
+improve	SymbolOf	visibility	1	0	2
+plate	SymbolOf	metal	1	1	1
+chemotherapy	SymbolOf	agent	1	1	1
+height	SymbolOf	cm	1	1	1
+answer	MotivatedByGoal	answer question	1	2	0
+navigation	SymbolOf	communication	1	1	1
+range	SymbolOf	mountain	1	1	1
+wing	SymbolOf	fabric	1	0	2
+battery	SymbolOf	charge	1	2	0
+olympian	MotivatedByGoal	medal	1	2	0
+season-end	MotivatedByGoal	championship	1	0	2
+martial	SymbolOf	skill	1	1	1
+health	MotivatedByGoal	well-being	1	2	0
+hit grind	MotivatedByGoal	ball	1	0	2
+graduate	MotivatedByGoal	earn bachelor degree	1	2	0
+championship	MotivatedByGoal	win conference championship	1	2	0
+mvp	MotivatedByGoal	championship	1	0	2
+make sound	MotivatedByGoal	sound	1	2	0
+vote election	MotivatedByGoal	election	1	2	0
+championship	MotivatedByGoal	win national championship	1	2	0
+genovese	MotivatedByGoal	murder	1	1	1
+ensure	MotivatedByGoal	achieve objective	1	2	0
+quaker	MotivatedByGoal	belief	1	1	1
+compete	MotivatedByGoal	finish overall	1	1	1
+philosophy	MotivatedByGoal	obtain doctorate	1	2	0
+process	MotivatedByGoal	information system	1	1	1
+elect	MotivatedByGoal	elect mayor	1	2	0
+vote	MotivatedByGoal	election win	1	2	0
+record band	MotivatedByGoal	release album	1	1	1
+medal	MotivatedByGoal	win silver medal	1	2	0
+password	MotivatedByGoal	user	1	1	1
+contribution	MotivatedByGoal	receive honorary doctorate	1	1	1
+consumer	MotivatedByGoal	price	1	1	1
+policy	MotivatedByGoal	extermination	1	0	2
+basketball	MotivatedByGoal	capture championship	1	1	1
+improve	MotivatedByGoal	season s	1	0	2
+peronist	MotivatedByGoal	supporter	1	1	1
+hill	MotivatedByGoal	earn finish	1	0	2
+pluralistic	MotivatedByGoal	freedom	1	1	1
+slovakian	MotivatedByGoal	champion	1	1	1
+man s single	MotivatedByGoal	champion	1	1	1
+candidate	MotivatedByGoal	win vote	1	1	1
+candidacy	MotivatedByGoal	leadership	1	2	0
+1990	MotivatedByGoal	inter-county	1	0	2
+1970	MotivatedByGoal	inter-county	1	1	1
+1960	MotivatedByGoal	inter-county	1	0	2
+finish	MotivatedByGoal	receive percent vote	1	0	2
+album	MotivatedByGoal	record song	1	2	0
+information system	MotivatedByGoal	datum	1	0	2
+energy	AtLocation	gap	1	0	2
+service	AtLocation	yard	1	0	2
+river	AtLocation	group	1	0	2
+clerk	AtLocation	shop	1	1	1
+bed	AtLocation	blanket	1	2	0
+river	AtLocation	wooded	1	0	2
+child	AtLocation	anger	1	0	2
+light	AtLocation	sky	1	2	0
+family	AtLocation	eleven	1	0	2
+tree	AtLocation	grid	1	0	2
+brake	AtLocation	seat	1	1	1
+typical	AtLocation	window	1	0	2
+lead	AtLocation	mountain	1	0	2
+map	AtLocation	bay	1	0	2
+branch	AtLocation	west	1	0	2
+offense	AtLocation	class	1	0	2
+wooden	AtLocation	shore	1	0	2
+manager	AtLocation	table	1	0	2
+build	AtLocation	dock	1	0	2
+old man	AtLocation	day	1	0	2
+sign	AtLocation	village	1	0	2
+accord	AtLocation	garden	1	0	2
+contamination	AtLocation	river	1	1	1
+ancestral	AtLocation	village	1	0	2
+storage	AtLocation	window	1	0	2
+climate	AtLocation	sea	1	1	1
+oak	AtLocation	acre	1	1	1
+left	AtLocation	village	1	0	2
+building	AtLocation	watch	1	0	2
+tree	AtLocation	vast	1	1	1
+comment	IsA	meaning	1	0	2
+cause	IsA	skill	1	0	2
+song	IsA	authentic	1	0	2
+helmet	IsA	character	1	1	1
+oil	IsA	buy	1	0	2
+fashion	IsA	element	1	0	2
+economics	IsA	organization	1	0	2
+hammer	IsA	know	1	2	0
+cathedral	IsA	principal	1	0	2
+motor	IsA	business	1	0	2
+abandonment	IsA	result	1	0	2
+heavy	IsA	organization	1	0	2
+window	IsA	major	1	0	2
+research	IsA	propagation	1	0	2
+bear	IsA	detail	1	0	2
+metal	IsA	discharge	1	0	2
+dish	IsA	common	1	0	2
+ride	IsA	ride	1	0	2
+clock	IsA	tree	1	0	2
+youth	IsA	factor	1	0	2
+rubber	IsA	clothing	1	0	2
+assessment	IsA	condition	1	0	2
+chocolate	IsA	filling	1	0	2
+detector	IsA	product	1	1	1
+metal	IsA	technical	1	1	1
+reaction	IsA	factor	1	1	1
+basketball	IsA	action	1	0	2
+force	IsA	person	1	0	2
+rival	SymbolOf	student	1	0	2
+god	SymbolOf	fight	1	0	2
+love	SymbolOf	fear	1	0	2
+act	SymbolOf	management	1	0	2
+violinist	SymbolOf	daughter	1	0	2
+car	SymbolOf	blood	1	0	2
+accept	SymbolOf	treatment	1	0	2
+hotel	SymbolOf	student	1	0	2
+japanese	SymbolOf	responsibility	1	0	2
+incandescent	SymbolOf	light	1	0	2
+exhibit	SymbolOf	addition	1	0	2
+fire	SymbolOf	dispatch	1	0	2
+bridge	SymbolOf	need	1	1	1
+wind	SymbolOf	risk	1	0	2
+ceremony	SymbolOf	requirement	1	0	2
+zoo	SymbolOf	research	1	0	2
+fail	SymbolOf	identity	1	1	1
+mother	SymbolOf	identity	1	0	2
+sky	SymbolOf	light	1	2	0
+barrel	SymbolOf	water	1	1	1
+fire	SymbolOf	information	1	1	1
+volcanic	SymbolOf	water	1	1	1
+increase	SymbolOf	research	1	0	2
+equipment	SymbolOf	treatment	1	0	2
+wave	SymbolOf	technology	1	0	2
+sale	SymbolOf	publish	1	0	2
+signal	SymbolOf	central	1	1	1
+wing	SymbolOf	broad	1	1	1
+wing	SymbolOf	maintain	1	0	2
+wing	SymbolOf	proposal	1	1	1
+girlfriend	SymbolOf	identity	1	1	1
+island	HasProperty	mysterious	1	0	2
+exchange	HasProperty	ask	1	1	1
+show	HasProperty	other people	1	1	1
+festival	HasProperty	place	1	2	0
+event	HasProperty	officer	1	0	2
+invade	HasProperty	city	1	0	2
+happen	HasProperty	energy	1	0	2
+christian	HasProperty	attack	1	0	2
+wood	HasProperty	hang	1	1	1
+tree	HasProperty	clock	1	0	2
+course	HasProperty	temperature	1	0	2
+course	HasProperty	close	1	0	2
+image	HasProperty	contribute	1	1	1
+talk	HasProperty	represent	1	0	2
+dog	HasProperty	think	1	0	2
+run	HasProperty	tend	1	1	1
+author	HasProperty	military	1	0	2
+talk	HasProperty	meaning	1	1	1
+set	HasProperty	draw	1	0	2
+production	HasProperty	hospital	1	0	2
+blue	HasProperty	light	1	0	2
+water	HasProperty	learn	1	0	2
+course	HasProperty	average	1	1	1
+course	HasProperty	reveal	1	0	2
+something	HasProperty	hospital	1	0	2
+sun	HasProperty	man	1	0	2
+account	HasProperty	hospital	1	0	2
+love	HasProperty	interest	1	2	0
+tree	HasProperty	north	1	1	1
+many	HasProperty	speech	1	0	2
+tree	HasProperty	vast	1	1	1
+camel	HasProperty	desert	1	1	1
+grape	HasProperty	large	1	1	1
+talk	HasProperty	water	1	0	2
+mention	HasProperty	number	1	0	2
+weight	HasProperty	patient	1	1	1
+election	HasProperty	conservative	1	2	0
+chapter	HasProperty	seem	1	1	1
+stock	MotivatedByGoal	quality	1	1	1
+conceive	MotivatedByGoal	refer	1	1	1
+painting	MotivatedByGoal	capture	1	0	2
+charge	MotivatedByGoal	speech	1	0	2
+deal	MotivatedByGoal	total	1	0	2
+examine	MotivatedByGoal	evaluate	1	0	2
+socialize	MotivatedByGoal	meet	1	2	0
+aid	MotivatedByGoal	task	1	0	2
+land	MotivatedByGoal	search	1	0	2
+employment	MotivatedByGoal	graduate	1	0	2
+articulate	MotivatedByGoal	think	1	0	2
+election	MotivatedByGoal	supply	1	0	2
+win	MotivatedByGoal	pilot	1	1	1
+marry	MotivatedByGoal	foot	1	0	2
+explain	MotivatedByGoal	popularity	1	0	2
+find	MotivatedByGoal	fighting	1	0	2
+contract	MotivatedByGoal	coast	1	1	1
+write	MotivatedByGoal	defeat	1	0	2
+sale	MotivatedByGoal	location	1	0	2
+type	MotivatedByGoal	vertex	1	1	1
+porn	MotivatedByGoal	perform	1	0	2
+contend	MotivatedByGoal	explain	1	1	1
+type	MotivatedByGoal	sanskrit	1	0	2
+type	MotivatedByGoal	research	1	1	1
+deal	MotivatedByGoal	ability	1	1	1
+court	MotivatedByGoal	past	1	0	2
+solution	MotivatedByGoal	search	1	1	1
+meet	MotivatedByGoal	release album	1	1	1
+win	MotivatedByGoal	gold medal	1	2	0
+picnic	AtLocation	garden	1	1	1
+school student	HasProperty	public	1	1	1
+algal	AtLocation	lake	1	1	1
+locate centre	AtLocation	shop	1	2	0
+test	HasProperty	evaluation	1	1	1
+room	AtLocation	second floor	1	2	0
+hockey	HasProperty	sport	1	2	0
+model	HasProperty	include model	1	0	2
+team	HasProperty	only team	1	0	2
+small settlement	AtLocation	region	1	1	1
+portfolio	HasProperty	strategy	1	0	2
+source	HasProperty	open source	1	1	1
+legal system	AtLocation	law	1	2	0
+industrialization	AtLocation	19th century	1	1	1
+aviation	HasProperty	safety	1	1	1
+economic development	AtLocation	promote	1	0	2
+organisation	HasProperty	provide advice	1	1	1
+see threat	AtLocation	threat	1	1	1
+scientific	HasProperty	scientific research	1	0	2
+determine	HasProperty	use information	1	0	2
+biotechnology	IsA	health	1	0	2
+bright	HasProperty	color	1	1	1
+state election	HasProperty	vote	1	2	0
+cancer	HasProperty	prophylactic	1	0	2
+symposium	HasProperty	research	1	0	2
+graduate	AtLocation	bachelor degree	1	1	1
+industrial area	AtLocation	industrial	1	0	2
+cattle	HasProperty	breed	1	0	2
+industrialization	AtLocation	policy	1	0	2
+price	HasProperty	offer product	1	1	1
+subgroup	HasProperty	group	1	1	1
+paint	HasProperty	still	1	1	1
+hydrological	AtLocation	lake	1	1	1
+ice age	AtLocation	lake	1	0	2
+cataclysmic	AtLocation	event	1	1	1
+model	HasProperty	develop model	1	1	1
+school	AtLocation	gymnasium	1	1	1
+plant	HasProperty	fruit	1	1	1
+product	HasProperty	offer product	1	1	1
+marriage	HasProperty	convenience	1	1	1
+learn	HasProperty	learner	1	2	0
+consultancy	HasProperty	development	1	1	1
+presidential election	HasProperty	candidate	1	1	1
+study	HasProperty	offer area	1	0	2
+subspecies	HasProperty	species	1	2	0
+journal	HasProperty	topic	1	1	1
+produce edition	IsA	text	1	0	2
+promote growth	AtLocation	encourage	1	0	2
+cause flood	AtLocation	river	1	0	2
+energy	HasProperty	gas	1	1	1
+parkland	AtLocation	garden	1	1	1
+monograph	HasProperty	paper	1	2	0
+intertidal	AtLocation	coast	1	0	2
+consultancy	IsA	software	1	0	2
+embroider	IsA	clothe	1	0	2
+management	HasProperty	provide product	1	1	1
+language	HasProperty	linguist	1	1	1
+headmaster	HasProperty	school	1	2	0
+lurid	IsA	content	1	0	2
+stripe	HasProperty	white	1	2	0
+formal	AtLocation	garden	1	0	2
+party	HasProperty	lead party	1	1	1
+algorithm	HasProperty	datum	1	2	0
+woman s	IsA	include right	1	0	2
+help	HasProperty	develop strategy	1	1	1
+health	HasProperty	rehabilitation	1	2	0
+science	MotivatedByGoal	doctorate	1	1	1
+strategy	HasProperty	portfolio	1	0	2
+mathematician	HasProperty	theory	1	2	0
+window	AtLocation	first floor	1	1	1
+turbine	HasProperty	engine	1	2	0
+algebra	HasProperty	element	1	2	0
+racer	HasProperty	race	1	2	0
+federal election	HasProperty	canadian	1	0	2
+song	MotivatedByGoal	single album	1	0	2
+product	HasProperty	market product	1	2	0
+medical	HasProperty	medical service	1	2	0
+childbirth	HasProperty	marriage	1	0	2
+management	HasProperty	information technology	1	1	1
+wind	HasProperty	energy source	1	2	0
+handwritten	IsA	copy	1	1	1
+analysis	HasProperty	tool	1	0	2
+competition	HasProperty	competitor	1	2	0
+therapist	HasProperty	sex	1	1	1
+polymer	HasProperty	material	1	2	0
+include program	HasProperty	program	1	2	0
+morning	HasProperty	news	1	0	2
+frictional	AtLocation	direction	1	0	2
+majority	MotivatedByGoal	win majority	1	1	1
+news	HasProperty	morning	1	2	0
+city	AtLocation	city hall	1	0	2
+meat	HasProperty	animal	1	2	0
+analysis	HasProperty	datum	1	0	2
+collection storey	HasProperty	book	1	2	0
+vote	HasProperty	other party	1	0	2
+energy	HasProperty	carbon	1	1	1
+achieve	HasProperty	good result	1	2	0
+private collection	AtLocation	art	1	1	1
+lacrosse	HasProperty	team	1	1	1
+mummify	IsA	exhibit	1	1	1
+tv series	IsA	fictional	1	2	0
+service	HasProperty	consultancy	1	1	1
+algebraic	HasProperty	theory	1	2	0
+get in way	AtLocation	let	1	0	2
+analysis	HasProperty	molecular	1	2	0
+council	HasProperty	council area	1	2	0
+research	HasProperty	clinical trial	1	1	1
+eye	HasProperty	blue	1	2	0
+teacher	HasProperty	mentor	1	2	0
+project	HasProperty	open source	1	1	1
+monopoly	AtLocation	grant	1	0	2
+wheel	HasProperty	tyre	1	1	1
+quality	HasProperty	good practice	1	2	0
+combustible	AtLocation	fire	1	1	1
+tail	HasProperty	wing	1	0	2
+sport	HasProperty	tennis	1	2	0
+pay	HasProperty	pay price	1	2	0
+management	HasProperty	inventory	1	1	1
+requirement	HasProperty	meet requirement	1	2	0
+aircraft	HasProperty	handle passenger	1	2	0
+cell	HasProperty	cancer	1	1	1
+file	HasProperty	support system	1	2	0
+compiler	HasProperty	language	1	1	1
+chemotherapy	IsA	treatment	1	2	0
+man s	MotivatedByGoal	win event	1	0	2
+ty	AtLocation	cultural	1	0	2
+fish	AtLocation	boat	1	0	2
+medal	MotivatedByGoal	win event	1	2	0
+lounge	AtLocation	shop	1	1	1
+see man	AtLocation	walk	1	0	2
+offer	AtLocation	many activity	1	0	2
+tourism	IsA	industry	1	2	0
+museum	AtLocation	second floor	1	0	2
+car	AtLocation	car park	1	2	0
+constitutional	AtLocation	law	1	2	0
+rosy	AtLocation	picture	1	0	2
+fitness	AtLocation	room	1	0	2
+visitor	AtLocation	park	1	2	0
+mine	AtLocation	industry	1	1	1
+american	SymbolOf	music artist	1	0	2
+few decade	AtLocation	last	1	1	1
+wear coat	IsA	clothe	1	1	1
+write weekly column	IsA	opinion	1	1	1
+fiction	IsA	author s	1	0	2
+biotechnology	IsA	company	1	0	2
+globalization	AtLocation	economy	1	1	1
+economic policy	AtLocation	opposition	1	1	1
+lounge	AtLocation	bar	1	1	1
+student	AtLocation	campus	1	2	0
+paper	AtLocation	bag	1	0	2
+produce edition	IsA	translation	1	0	2
+bag	AtLocation	paper	1	1	1
+anthropogenic	AtLocation	impact	1	0	2
+philosophy	AtLocation	professor	1	1	1
+professor	MotivatedByGoal	doctorate	1	1	1
+scientist	AtLocation	laboratory	1	2	0
+pirate	AtLocation	ship	1	2	0
+drought	AtLocation	water	1	2	0
+season	MotivatedByGoal	successful season	1	1	1
+supercritical	AtLocation	water	1	0	2
+write weekly column	IsA	entitle	1	0	2
+capitalist	AtLocation	worker	1	0	2
+downturn	AtLocation	1990	1	0	2
+stylish	IsA	clothe	1	1	1
+industrialization	AtLocation	expansion	1	2	0
+buy	AtLocation	build home	1	2	0
+foster	AtLocation	promote	1	1	1
+facility	AtLocation	state-of-the-art	1	0	2
+obtain	AtLocation	permission	1	1	1
+toy	AtLocation	item	1	2	0
+low temperature	AtLocation	pressure	1	1	1
+wear shoe	IsA	clothe	1	1	1
+find water	AtLocation	sea	1	2	0
+office	AtLocation	law firm	1	2	0
+installation	SymbolOf	equipment	1	1	1
+economic crisis	AtLocation	economic	1	2	0
+longish	IsA	foot	1	1	1
+green	SymbolOf	open space	1	1	1
+epigenetic	AtLocation	code	1	2	0
+feature article	IsA	column	1	1	1
+ductile	AtLocation	load	1	0	2
+logistical	AtLocation	support	1	1	1
+increase awareness	AtLocation	encourage	1	2	0
+internet	IsA	include ability	1	0	2
+pamphlet	IsA	publication	1	2	0
+raunchy	IsA	lyric	1	1	1
+military	AtLocation	may	1	0	2
+economic development	AtLocation	cultural	1	2	0
+boutique	IsA	street	1	0	2
+deterioration	AtLocation	further	1	0	2
+master	MotivatedByGoal	doctorate	1	2	0
+publish translation	IsA	edition	1	2	0
+embroidery	IsA	gold	1	0	2
+plane	AtLocation	train pilot	1	1	1
+relic	AtLocation	museum	1	2	0
+publish storey	IsA	collect	1	0	2
+non-commissioned	IsA	crow	1	0	2
+italianate	AtLocation	garden	1	1	1
+team	MotivatedByGoal	state championship	1	0	2
+modernization	AtLocation	sector	1	1	1
+park	AtLocation	popular destination	1	1	1
+find language	AtLocation	language	1	1	1
+lab	AtLocation	facility	1	2	0
+restaurant	AtLocation	antique	1	0	2
+metre	MotivatedByGoal	win event	1	0	2
+livonian	AtLocation	castle	1	1	1
+office	AtLocation	include office	1	1	1
+authore book	IsA	edit	1	1	1
+academic	AtLocation	other university	1	2	0
+motel	AtLocation	park	1	2	0
+quality	MotivatedByGoal	quality life	1	1	1
+education system	AtLocation	education	1	2	0
+zen	IsA	teacher	1	0	2
+government area	AtLocation	local	1	1	1
+fragrance	IsA	clothe	1	1	1
+restaurant	AtLocation	them	1	1	1
+sell copy	IsA	copy	1	1	1
+share kiss	IsA	admit	1	0	2
+non-fiction	IsA	book	1	2	0
+swede	IsA	king	1	1	1
+busk	IsA	corner	1	0	2
+boy team	IsA	team	1	2	0
+sock	IsA	clothe	1	2	0
+regard	IsA	make statement	1	1	1
+write storey	IsA	storey	1	1	1
+matter	IsA	criminal law	1	0	2
+dabble	IsA	poetry	1	1	1
+ayurvedic	IsA	hospital	1	2	0
+football season	IsA	swedish	1	1	1
+sponsor team	IsA	woman s	1	1	1
+wash hand	IsA	clothe	1	1	1
+crunchy	IsA	vocal	1	0	2
+write weekly column	IsA	magazine	1	1	1
+manga series	IsA	japanese	1	2	0
+ivory	IsA	metal	1	1	1
+fiction writer	IsA	storey	1	1	1
+architect	SymbolOf	design	1	2	0
+volleyball	IsA	sponsor	1	0	2
+gp	IsA	minute	1	0	2
+orchid	IsA	tree	1	1	1
+publish essay	IsA	newspaper	1	2	0
+equipment	SymbolOf	installation	1	0	2
+internet	IsA	allow user	1	1	1
+singer-songwriter	IsA	canadian	1	1	1
+lurid	IsA	murder	1	1	1
+non-fiction	IsA	storey	1	1	1
+several song	IsA	cd	1	1	1
+ready-to-wear	IsA	department	1	0	2
+semi-precious	IsA	silver	1	1	1
+music	IsA	include music	1	1	1
+opus	IsA	other role	1	1	1
+association	IsA	violate right	1	1	1
+form tag team	IsA	occasion	1	1	1
+cover news	IsA	politics	1	1	1
+underwear	IsA	man s	1	2	0
+trouser	IsA	clothe	1	2	0
+mount gun	SymbolOf	gun	1	0	2
+bibliographical	IsA	entry	1	1	1
+publication	IsA	other publication	1	2	0
+article	IsA	write newspaper	1	2	0
+shrub	IsA	garden	1	2	0
+collection short storey	IsA	fiction	1	1	1
+play soccer	IsA	draft	1	0	2
+girl s	IsA	clothe	1	0	2
+write several book	IsA	biography	1	1	1
+collection storey	IsA	'the	1	0	2
+basketball game	IsA	man s	1	1	1
+thrifty	IsA	clothe	1	0	2
+publish memoir	IsA	entitle	1	2	0
+law	IsA	criminal law	1	2	0
+information system	IsA	analysis	1	1	1
+'2006	IsA	none	1	0	2
+swede	IsA	swedish	1	2	0
+consultancy	IsA	company	1	0	2
+sleeveless	IsA	tank	1	0	2
+second marriage	MotivatedByGoal	child	1	0	2
+solution	MotivatedByGoal	extermination	1	1	1
+find love	MotivatedByGoal	love	1	0	2
+equality	MotivatedByGoal	right	1	1	1
+solo	MotivatedByGoal	song album	1	0	2
+m	MotivatedByGoal	win first medal	1	0	2
+medal	MotivatedByGoal	win bronze medal	1	1	1
+witness	MotivatedByGoal	pre-trial	1	0	2
+paint	SymbolOf	landscape	1	0	2
+seat	MotivatedByGoal	popular vote	1	0	2
+serve	MotivatedByGoal	elect mayor	1	0	2
+man s	MotivatedByGoal	win medal event	1	0	2
+australian	MotivatedByGoal	state election	1	0	2
+championship	MotivatedByGoal	finish championship	1	1	1
+valve	SymbolOf	flow	1	0	2
+first marriage	MotivatedByGoal	daughter	1	0	2
+technology	MotivatedByGoal	social science	1	0	2
+bolt	SymbolOf	fire	1	0	2
+payment	MotivatedByGoal	customer	1	1	1
+analysis	MotivatedByGoal	empirical	1	2	0
+glass	SymbolOf	panel	1	0	2
+man s	MotivatedByGoal	win gold medal	1	0	2
+proximity	SymbolOf	location	1	2	0
+glass	SymbolOf	can	1	0	2
+bright	SymbolOf	light	1	2	0
+cheque	MotivatedByGoal	customer	1	1	1
+fly combat mission	SymbolOf	aircraft	1	1	1
+cylinder	SymbolOf	engine	1	2	0
+panel	SymbolOf	glass	1	0	2
+thousand	MotivatedByGoal	extermination	1	0	2
+bulb	SymbolOf	light	1	1	0
+man s team	MotivatedByGoal	championship	1	0	1
+event	MotivatedByGoal	win silver medal	1	1	0
+solo	MotivatedByGoal	album	1	1	0
+collection	MotivatedByGoal	non-metropolitan	1	0	1
+helicopter	SymbolOf	fly	1	1	0
+passenger	SymbolOf	train	1	1	0
+quality	SymbolOf	high quality	1	1	0
+brake	SymbolOf	vehicle	1	1	0
+deck	SymbolOf	flight	1	0	1
+priest	SymbolOf	parish	1	1	0
+solar	SymbolOf	system	1	1	0
+greenhouse	SymbolOf	plant	1	1	0
+health	SymbolOf	patient	1	0	1
+airborne	SymbolOf	aircraft	1	0	1
+product	SymbolOf	customer	1	1	0
+canopy	SymbolOf	forest	1	0	1
+mission	SymbolOf	surveillance	1	1	0
+cockpit	SymbolOf	seat	1	1	0
+safety	SymbolOf	accident	1	0	1
+safety	SymbolOf	prevention	1	1	0
+forest	SymbolOf	moist forest	1	1	0
+wing	SymbolOf	laminar	1	0	1
+tower	SymbolOf	station s	1	0	1
+bicycle	SymbolOf	ride	1	1	0
+natural	SymbolOf	moist forest	1	1	0
+rail	SymbolOf	line	1	1	0
+floor	SymbolOf	ocean	1	0	1
+brick	SymbolOf	tower	1	1	0
+visit	MotivatedByGoal	make visit	1	1	0
+physician	SymbolOf	health	1	1	0
+grip	SymbolOf	frame	1	0	1
+valve	SymbolOf	pressure	1	1	0
+chrome	SymbolOf	model	1	1	0
+flight	SymbolOf	aircraft	1	1	0
+cockpit	SymbolOf	flight	1	1	0
+care	SymbolOf	provider	1	0	1
+flat-top	SymbolOf	mountain	1	1	0
+guitar	SymbolOf	percussion	1	0	1
+visitor	SymbolOf	attraction	1	1	0
+door	SymbolOf	open	1	0	1
+slope	SymbolOf	mountain	1	1	0
+priest	SymbolOf	samaritan	1	1	0
+storage	SymbolOf	datum	1	1	0
+driver	SymbolOf	car	1	0	1
+pump	SymbolOf	pressure	1	0	1
+wing	SymbolOf	butterfly	1	1	0
+biplane	SymbolOf	engine	1	0	1
+fire weapon	SymbolOf	weapon	1	1	0
+habitat	SymbolOf	moist forest	1	1	0
+treatment	SymbolOf	holistic	1	0	1
+high standard	SymbolOf	safety	1	1	0
+wheel	SymbolOf	front	1	0	1
+priest	SymbolOf	eucharist	1	0	1
+gallantry	SymbolOf	high	1	0	1
+junior	SymbolOf	win european championship	1	0	1
+junior	SymbolOf	european championship	1	1	0
+junior	SymbolOf	canadian team	1	1	0
+astronaut	SymbolOf	experiment	1	1	0
+rail	SymbolOf	network	1	0	1
+shear	SymbolOf	tropical	1	0	1
+visibility	SymbolOf	improve	1	1	0
+heat	SymbolOf	infra-r	1	0	1
+armament	SymbolOf	aircraft	1	1	0
+wing	SymbolOf	arcuate	1	0	1
+altar	SymbolOf	wall	1	1	0
+ion	SymbolOf	charge	1	1	0
+induce	SymbolOf	cell	1	0	1
+safety	SymbolOf	other equipment	1	0	1
+renovation	SymbolOf	extensive	1	0	1
+air-to-ground	SymbolOf	aircraft	1	1	0
+restaurant	SymbolOf	hospitality	1	1	0
+vehicle	SymbolOf	livery	1	0	1
+still	SymbolOf	image	1	1	0
+reactor	SymbolOf	safety	1	0	1
+medical	SymbolOf	healthcare	1	1	0
+wing	SymbolOf	tip	1	0	1
+brake	SymbolOf	engine	1	1	0
+scrub	SymbolOf	habitat	1	0	1
+colour	SymbolOf	red	1	0	1
+ceremony	SymbolOf	marriage	1	1	0
+treatment	SymbolOf	radiation	1	0	1
+high speed	SymbolOf	speed	1	1	0
+dental	SymbolOf	treatment	1	1	0
+surgical	SymbolOf	patient	1	1	0
+motorcycle	SymbolOf	ride	1	1	0
+line	SymbolOf	through	1	1	0
+air-to-ground	SymbolOf	mission	1	1	0
+postgraduate	SymbolOf	programme	1	0	1
+endoscopic	SymbolOf	treatment	1	1	0
+surgery	SymbolOf	treatment	1	1	0
+bronze	SymbolOf	gold	1	0	1
+cadet	SymbolOf	officer	1	0	1
+tennis	SymbolOf	sport	1	1	0
+helicopter	SymbolOf	transport	1	1	0
+installation	SymbolOf	exhibition	1	0	1
+magistrate	SymbolOf	court	1	1	0
+flame	SymbolOf	gas	1	1	0
+spacecraft	SymbolOf	launch	1	1	0
+cell	SymbolOf	virus	1	0	1
+emergency	SymbolOf	care	1	0	1
+glass	SymbolOf	steel	1	0	1
+undercarriage	SymbolOf	design	1	0	1
+restaurant	SymbolOf	include course	1	1	0
+business district	SymbolOf	public	1	1	0
+aircraft	SymbolOf	missile	1	1	0
+gothic	SymbolOf	architecture	1	1	0
+habitat	SymbolOf	fauna	1	1	0
+customer	SymbolOf	retail	1	1	0
+alloy	SymbolOf	material	1	1	0
+pump	SymbolOf	engine	1	1	0
+color	SymbolOf	graphics	1	0	1
+weapon system	SymbolOf	target	1	0	1
+walk	SymbolOf	trail	1	0	1
+metal	SymbolOf	plate	1	0	1
+hockey	SymbolOf	player	1	1	0
+civil service	SymbolOf	civil	1	1	0
+include course	SymbolOf	restaurant	1	0	1
+volleyball	SymbolOf	football	1	0	1
+wing	SymbolOf	feather	1	0	1
+spine	SymbolOf	back	1	1	0
+savanna	SymbolOf	tree	1	1	0
+disposal	SymbolOf	standard	1	0	1
+particle	SymbolOf	charge	1	1	0
+painter	SymbolOf	paint	1	1	0
+efficiency	SymbolOf	cost	1	0	1
+spacecraft	SymbolOf	planet	1	0	1
+patient	SymbolOf	medicine	1	1	0
+river	SymbolOf	navigation	1	1	0
+improve standard	SymbolOf	safety	1	1	0
+medical	SymbolOf	treatment	1	0	1
+velocity	SymbolOf	flow	1	0	1
+safety	SymbolOf	high standard	1	0	1
+bridge	SymbolOf	cross	1	1	0
+sword	SymbolOf	weapon	1	1	0
+boat	SymbolOf	shore	1	1	0
+energy	SymbolOf	potential	1	0	1
+patient	SymbolOf	treatment	1	0	1
+defender	SymbolOf	bear	1	0	1
+patient	MotivatedByGoal	provide care	1	1	0
+hull	SymbolOf	ship	1	0	1
+overall	SymbolOf	select	1	0	1
+interest rate	SymbolOf	economy	1	1	0
+weapon system	SymbolOf	vehicle	1	0	1
+radar	SymbolOf	aircraft	1	0	1
+equipment	SymbolOf	state-of-the-art	1	0	1
+swim	SymbolOf	facility	1	1	0
+metre	MotivatedByGoal	gold medal	1	0	1
+front	SymbolOf	rear	1	0	1
+tank	SymbolOf	vehicle	1	1	0
+spectroscopy	SymbolOf	image	1	0	1
+yellow	SymbolOf	colour	1	1	0
+cool	SymbolOf	heat	1	0	1
+restaurant	SymbolOf	retail	1	0	1
+bus	SymbolOf	provide service	1	1	0
+treatment	SymbolOf	medicine	1	1	0
+target	SymbolOf	radar	1	1	0
+song album	MotivatedByGoal	solo	1	1	0
+moisture	SymbolOf	air	1	1	0
+electron	SymbolOf	sample	1	0	1
+promote	MotivatedByGoal	social justice	1	1	0
+lens	SymbolOf	contact	1	1	0
+hang	SymbolOf	wall	1	0	1
+human right	MotivatedByGoal	protection	1	1	0
+adviser	SymbolOf	policy	1	1	0
+dry	SymbolOf	forest	1	0	1
+undispute	MotivatedByGoal	champion	1	1	0
+council	SymbolOf	leisure	1	0	1
+lady	SymbolOf	beautiful	1	1	0
+unseed	MotivatedByGoal	champion	1	0	1
+harbour	SymbolOf	sea	1	1	0
+competition	MotivatedByGoal	win silver medal	1	1	0
+1980	MotivatedByGoal	inter-county	1	0	1
+1950	MotivatedByGoal	inter-county	1	0	1
+metre	MotivatedByGoal	bronze medal	1	0	1
+ignition	SymbolOf	fuel	1	1	0
+religion	MotivatedByGoal	gallo-roman	1	0	1
+ability	SymbolOf	skill	1	1	0
+identity	MotivatedByGoal	gender	1	1	0
+unspoil	SymbolOf	forest	1	0	1
+maintenance	SymbolOf	responsibility	1	0	1
+thuringian	SymbolOf	forest	1	1	0
+guinean	SymbolOf	forest	1	1	0
+carolinian	SymbolOf	forest	1	0	1
+purpose	SymbolOf	use variety	1	0	1
+orange	SymbolOf	green	1	0	1
+artist	SymbolOf	gallery	1	1	0
+trial	MotivatedByGoal	give evidence	1	1	0
+gym	SymbolOf	sport	1	1	0
+wing	SymbolOf	nocturnal	1	0	1
+machine	SymbolOf	gun	1	0	1
+theory	MotivatedByGoal	research interest	1	1	0
+panel	SymbolOf	window	1	1	0
+install	SymbolOf	design system	1	1	0
+printer	SymbolOf	print	1	1	0
+hose	SymbolOf	gas	1	0	1
+member state	MotivatedByGoal	convention	1	0	1
+democratic	MotivatedByGoal	democratic nomination	1	1	0
+bass	SymbolOf	percussion	1	1	0
+punk	MotivatedByGoal	1980	1	1	0
+doric	SymbolOf	architecture	1	1	0
+majority	MotivatedByGoal	win seat	1	1	0
+6-speed	SymbolOf	drive	1	1	0
+surveillance	SymbolOf	mission	1	1	0
+cylinder	SymbolOf	frame	1	0	1
+anabaptist	MotivatedByGoal	belief	1	1	0
+wing	SymbolOf	sexually dimorphic	1	0	1
+degree	MotivatedByGoal	earn bachelor degree	1	1	0
+air	SymbolOf	intake	1	0	1
+wing	SymbolOf	rufous	1	0	1
+album	MotivatedByGoal	release single	1	1	0
+republican candidate	MotivatedByGoal	debate	1	1	0
+m	MotivatedByGoal	earn finish	1	1	0
+sentence	MotivatedByGoal	pre-trial	1	1	0
+state-of-the-art	SymbolOf	technology	1	0	1
+electro-optical	SymbolOf	weapon	1	0	1
+band album	MotivatedByGoal	album	1	1	0
+economic development	MotivatedByGoal	growth	1	1	0
+surface	SymbolOf	flat	1	1	0
+bridge	SymbolOf	traffic	1	1	0
+society s	MotivatedByGoal	membership	1	1	0
+centre	SymbolOf	leisure	1	0	1
+jaina	SymbolOf	architecture	1	0	1
+democratic	MotivatedByGoal	lieutenant governor	1	1	0
+architect	SymbolOf	cto	1	0	1
+australian	MotivatedByGoal	rugby	1	1	0
+priest	SymbolOf	hussite	1	0	1
+championship	MotivatedByGoal	win state title	1	1	0
+vocal	MotivatedByGoal	band s album	1	1	0
+man s	MotivatedByGoal	bronze medal	1	1	0
+dravidian	SymbolOf	architecture	1	1	0
+platform	MotivatedByGoal	eliminate first round	1	0	1
+hill	SymbolOf	mountain	1	1	0
+window	SymbolOf	rear	1	0	1
+doctor	SymbolOf	hospital	1	0	1
+release second single	MotivatedByGoal	album	1	1	0
+projection	SymbolOf	image	1	1	0
+armour	SymbolOf	gun	1	0	1
+album track	MotivatedByGoal	album	1	1	0
+play gig	MotivatedByGoal	band	1	1	0
+religion	MotivatedByGoal	morality	1	1	0
+project	SymbolOf	footpath	1	1	0
+park	SymbolOf	natural beauty	1	1	0
+horse	SymbolOf	ride	1	1	0
+leisure	SymbolOf	sport	1	1	0
+assistant professor	MotivatedByGoal	associate	1	1	0
+damage	SymbolOf	sustain	1	1	0
+search	SymbolOf	database	1	1	0
+activity	SymbolOf	include activity	1	1	0
+religion	MotivatedByGoal	buddhist	1	1	0
+sun	SymbolOf	earth	1	1	0
+top-rank	MotivatedByGoal	championship	1	1	0
+gas	SymbolOf	ventilation	1	0	1
+personnel	SymbolOf	military	1	1	0
+neotropical	SymbolOf	forest	1	1	0
+electro-optical	SymbolOf	fire	1	0	1
+door	SymbolOf	bedroom	1	1	0
+civil	SymbolOf	english county	1	1	0
+bomb	SymbolOf	bay	1	0	1
+undisturb	SymbolOf	forest	1	1	0
+competition	MotivatedByGoal	win medal	1	1	0
+fish	SymbolOf	wildlife	1	1	0
+architectural	SymbolOf	architect	1	1	0
+non-departmental	SymbolOf	responsibility	1	0	1
+include development	SymbolOf	development	1	1	0
+full album	MotivatedByGoal	'the	1	0	1
+play guitar	MotivatedByGoal	vocal	1	1	0
+ideal	SymbolOf	gas	1	0	1
+find solution	MotivatedByGoal	problem	1	0	1
+medical	MotivatedByGoal	health care	1	1	0
+qualify	MotivatedByGoal	compete championship	1	1	0
+include video	MotivatedByGoal	video	1	1	0
+candidate	MotivatedByGoal	nomination	1	1	0
+man s	MotivatedByGoal	school team	1	1	0
+learn	MotivatedByGoal	develop ability	1	1	0
+km	MotivatedByGoal	earn finish	1	0	1
+answer question	MotivatedByGoal	answer	1	1	0
+science	MotivatedByGoal	public health	1	1	0
+release	MotivatedByGoal	follow release	1	1	0
+water	SymbolOf	fountain	1	0	1
+woman s	MotivatedByGoal	silver medal	1	1	0
+love	MotivatedByGoal	happiness	1	1	0
+fuselage	SymbolOf	section	1	0	1
+prevention	SymbolOf	safety	1	1	0
+quality life	MotivatedByGoal	quality	1	1	0
+ensure	SymbolOf	high quality	1	1	0
+electro-optical	SymbolOf	image	1	1	0
+health service	MotivatedByGoal	quality	1	1	0
+sdp	MotivatedByGoal	constituency	1	0	1
+wing	SymbolOf	permeable	1	1	0
+use camera	SymbolOf	image	1	1	0
+camera	SymbolOf	photo	1	1	0
+woman s	MotivatedByGoal	win total	1	1	0
+seed-eat	SymbolOf	bird	1	0	1
+non-breede	SymbolOf	bird	1	0	1
+micronesian	SymbolOf	bird	1	1	0
+fee insect	SymbolOf	bird	1	0	1
+abyssinian	SymbolOf	bird	1	1	0
+religion	MotivatedByGoal	earth-base	1	0	1
+glass window	SymbolOf	window	1	0	1
+colour	SymbolOf	livery	1	0	1
+green	SymbolOf	colour	1	1	0
+ensure	MotivatedByGoal	receive service	1	1	0
+graduate	MotivatedByGoal	receive degree	1	1	0
+event	MotivatedByGoal	team event	1	0	1
+melody	MotivatedByGoal	sound	1	1	0
+fire weapon	SymbolOf	fire	1	1	0
+curtain	SymbolOf	door	1	0	1
+step	MotivatedByGoal	first step	1	1	0
+qualify	MotivatedByGoal	reach quarter-final	1	1	0
+sail	SymbolOf	ship	1	1	0
+graduate	MotivatedByGoal	receive p	1	1	0
+sender	MotivatedByGoal	message	1	1	0
+track	MotivatedByGoal	interscholastic	1	0	1
+rubber	SymbolOf	wheel	1	1	0
+sensor	SymbolOf	device	1	1	0
+include activity	SymbolOf	activity	1	1	0
+cell	SymbolOf	muscle	1	0	1
+kit	SymbolOf	model	1	0	1
+approach	MotivatedByGoal	pluralistic	1	1	0
+receive	MotivatedByGoal	nomination	1	1	0
+nuclear	MotivatedByGoal	nuclear weapon	1	1	0
+christian	MotivatedByGoal	morality	1	1	0
+door	SymbolOf	rear	1	0	1
+canvas	SymbolOf	artist	1	1	0
+album	MotivatedByGoal	first album	1	1	0
+ball	SymbolOf	through	1	0	1
+second marriage	MotivatedByGoal	wife	1	1	0
+graduate	MotivatedByGoal	receive undergraduate degree	1	1	0
+valve	SymbolOf	heart	1	1	0
+officer	SymbolOf	gestapo	1	0	1
+compete	MotivatedByGoal	receive bronze medal	1	1	0
+release new album	MotivatedByGoal	release album	1	1	0
+test	SymbolOf	evaluation	1	1	0
+calvinist	MotivatedByGoal	belief	1	1	0
+professor	MotivatedByGoal	receive doctorate	1	1	0
+equipment	SymbolOf	include room	1	0	1
+liberal	MotivatedByGoal	mp	1	1	0
+professor	MotivatedByGoal	serve professor	1	1	0
+resurrection	MotivatedByGoal	belief	1	1	0
+third	MotivatedByGoal	band s album	1	1	0
+grassland	SymbolOf	forest	1	0	1
+president	MotivatedByGoal	college s	1	1	0
+candidacy	MotivatedByGoal	president	1	1	0
+library	MotivatedByGoal	college s	1	0	1
+beat	MotivatedByGoal	capture championship	1	0	1
+peak	SymbolOf	mountain	1	1	0
+heat	SymbolOf	cold	1	0	1
+religion	MotivatedByGoal	calvinist	1	1	0
+man s	MotivatedByGoal	win medal	1	1	0
+improvement	SymbolOf	quality	1	1	0
+surface	SymbolOf	earth	1	1	0
+image	SymbolOf	3	1	0	1
+nuclear weapon	MotivatedByGoal	nuclear	1	1	0
+sense	MotivatedByGoal	morality	1	1	0
+undefeat	MotivatedByGoal	champion	1	1	0
+part	MotivatedByGoal	elect system	1	1	0
+quality	SymbolOf	quality life	1	1	0
+solo album	MotivatedByGoal	release album	1	1	0
+engineer	SymbolOf	structural	1	1	0
+reach	MotivatedByGoal	compete championship	1	1	0
+wing	SymbolOf	squadron	1	1	0
+architect	SymbolOf	viennese	1	0	1
+woman s	MotivatedByGoal	national champion	1	1	0
+electrical	SymbolOf	equipment	1	1	0
+woman s	MotivatedByGoal	compete sport	1	1	0
+overall	MotivatedByGoal	win class	1	0	1
+human right	MotivatedByGoal	basic	1	0	1
+economic development	MotivatedByGoal	cultural	1	1	0
+album track	MotivatedByGoal	song	1	1	0
+football midfielder	SymbolOf	italian	1	0	1
+pilot	SymbolOf	down	1	0	1
+eastender	MotivatedByGoal	play role	1	0	1
+sense	MotivatedByGoal	compassion	1	0	1
+add value	MotivatedByGoal	value	1	1	0
+priest	SymbolOf	eucharistic	1	1	0
+noise	SymbolOf	reduce	1	0	1
+priest	SymbolOf	arian	1	0	1
+metre	MotivatedByGoal	win silver	1	0	1
+reign	MotivatedByGoal	beat champion	1	1	0
+championship	MotivatedByGoal	inaugural season	1	0	1
+courtier	SymbolOf	background	1	1	0
+wheel	SymbolOf	steel	1	1	0
+park	SymbolOf	recreation	1	1	0
+neotropical	SymbolOf	bird	1	1	0
+ignition	SymbolOf	key	1	1	0
+telescope	SymbolOf	instrument	1	0	1
+graduate degree	MotivatedByGoal	degree	1	1	0
+authentication	MotivatedByGoal	identity	1	1	0
+sound	MotivatedByGoal	create sound	1	1	0
+complete degree	MotivatedByGoal	degree	1	1	0
+graduate	MotivatedByGoal	degree	1	1	0
+athletics	SymbolOf	sport	1	1	0
+health	MotivatedByGoal	information technology	1	0	1
+treatment	SymbolOf	medical	1	0	1
+mountain	SymbolOf	hill	1	1	0
+graduate	MotivatedByGoal	represent congressional district	1	0	1
+ignition	SymbolOf	source	1	0	1
+officer	SymbolOf	noncommission	1	0	1
+officer	SymbolOf	napoleonic war	1	1	0
+officer	SymbolOf	french army	1	0	1
+officer	SymbolOf	british officer	1	1	0
+award	MotivatedByGoal	year award	1	1	0
+republican candidate	MotivatedByGoal	democratic	1	0	1
+third album	MotivatedByGoal	release	1	1	0
+pan-american	MotivatedByGoal	championship	1	1	0
+gender	SymbolOf	sexual	1	1	0
+weight	MotivatedByGoal	win class	1	1	0
+celebrate	MotivatedByGoal	hold party	1	1	0
+religion	MotivatedByGoal	judaic	1	1	0
+machine gun	SymbolOf	fire	1	1	0
+pan-american	MotivatedByGoal	medal	1	1	0
+racial	MotivatedByGoal	makeup county	1	0	1
+sing	MotivatedByGoal	include song	1	1	0
+reconnaissance	SymbolOf	mission	1	1	0
+election	MotivatedByGoal	provincial election	1	1	0
+candidate	MotivatedByGoal	receive vote	1	1	0
+ceiling	SymbolOf	door	1	0	1
+game	MotivatedByGoal	game series	1	1	0
+studio	MotivatedByGoal	album band	1	1	0
+bicycle	SymbolOf	road	1	0	1
+competition	MotivatedByGoal	hold competition	1	1	0
+democratic party	MotivatedByGoal	switch	1	1	0
+assistant professor	MotivatedByGoal	department	1	0	1
+headlight	SymbolOf	light	1	1	0
+safety	SymbolOf	health	1	1	0
+play game	MotivatedByGoal	give game	1	1	0
+qualify	MotivatedByGoal	fifa	1	1	0
+make visit	MotivatedByGoal	visit	1	1	0
+jacobean	SymbolOf	architecture	1	1	0
+woman s	MotivatedByGoal	host championship	1	1	0
+audit	MotivatedByGoal	report	1	1	0
+museum	SymbolOf	collection	1	1	0
+system	MotivatedByGoal	information system	1	1	0
+philosophy	MotivatedByGoal	serve professor	1	1	0
+moorish	SymbolOf	architecture	1	1	0
+religion	MotivatedByGoal	zoroastrian	1	1	0
+religion	MotivatedByGoal	qur 'anic	1	1	0
+religion	MotivatedByGoal	protestantism	1	1	0
+religion	MotivatedByGoal	judaism	1	1	0
+religion	MotivatedByGoal	indic	1	1	0
+religion	MotivatedByGoal	indian subcontinent	1	1	0
+religion	MotivatedByGoal	hinduism	1	1	0
+religion	MotivatedByGoal	christianity	1	1	0
+religion	MotivatedByGoal	christian faith	1	1	0
+religion	MotivatedByGoal	christian church	1	1	0
+religion	MotivatedByGoal	christian	1	1	0
+religion	MotivatedByGoal	catholicism	1	1	0
+religion	MotivatedByGoal	buddhism	1	1	0
+championship	MotivatedByGoal	win bronze	1	1	0
+sickness	SymbolOf	health	1	0	1
+religion	MotivatedByGoal	hindu	1	1	0
+medal	MotivatedByGoal	win medal team	1	1	0
+play game	MotivatedByGoal	play minute	1	0	1
+religion	MotivatedByGoal	anthropology	1	1	0
+vote	MotivatedByGoal	election	1	1	0
+spirit	MotivatedByGoal	mysticism	1	1	0
+first marriage	MotivatedByGoal	wife	1	1	0
+sector	MotivatedByGoal	develop policy	1	0	1
+y	MotivatedByGoal	congressional district	1	0	1
+degree	MotivatedByGoal	graduate degree	1	1	0
+educate	MotivatedByGoal	obtain degree	1	1	0
+championship	MotivatedByGoal	capture championship	1	1	0
+religion	MotivatedByGoal	jewish people	1	1	0
+master	MotivatedByGoal	hold degree	1	1	0
+health	MotivatedByGoal	quality life	1	1	0
+trial	MotivatedByGoal	finish event	1	0	1
+engineer	MotivatedByGoal	offer degree program	1	1	0
+man s	MotivatedByGoal	win championship	1	1	0
+election	MotivatedByGoal	receive percent vote	1	1	0
+religion	MotivatedByGoal	indo-iranian	1	1	0
+candidacy	MotivatedByGoal	opposition	1	1	0
+occasion	MotivatedByGoal	win league	1	0	1
+method	MotivatedByGoal	apply method	1	1	0
+qur 'anic	MotivatedByGoal	belief	1	1	0
+mormon	MotivatedByGoal	belief	1	1	0
+long-hold	MotivatedByGoal	belief	1	1	0
+judaism	MotivatedByGoal	belief	1	1	0
+hinduism	MotivatedByGoal	belief	1	1	0
+christian	MotivatedByGoal	belief	1	1	0
+christianity	MotivatedByGoal	belief	1	1	0
+christian faith	MotivatedByGoal	belief	1	1	0
+catholicism	MotivatedByGoal	belief	1	1	0
+buddhism	MotivatedByGoal	belief	1	1	0
+arminian	MotivatedByGoal	belief	1	1	0
+all-encompasse	MotivatedByGoal	belief	1	1	0
+vote	MotivatedByGoal	transferable	1	0	1
+science	MotivatedByGoal	social science	1	1	0
+ministry	MotivatedByGoal	christian	1	1	0
+championship	MotivatedByGoal	win class	1	1	0
+slav	MotivatedByGoal	ethnic	1	1	0
+hear	MotivatedByGoal	hear song	1	1	0
+democratic	MotivatedByGoal	democratic candidate	1	1	0
+religion	MotivatedByGoal	rastafarian	1	1	0
+religion	MotivatedByGoal	predominantly muslim	1	1	0
+recognize right	MotivatedByGoal	right	1	1	0
+coach	MotivatedByGoal	state championship	1	1	0
+philosophy	MotivatedByGoal	ethic	1	1	0
+competition	MotivatedByGoal	first medal	1	1	0
+whig	MotivatedByGoal	supporter	1	0	1
+tax	MotivatedByGoal	budget	1	1	0
+democracy	MotivatedByGoal	peace	1	1	0
+bc	MotivatedByGoal	championship	1	1	0
+man s	MotivatedByGoal	silver medal	1	1	0
+role	MotivatedByGoal	create role	1	1	0
+metre	MotivatedByGoal	win bronze	1	1	0
+email	MotivatedByGoal	message	1	1	0
+philosophy	MotivatedByGoal	obtain degree	1	0	1
+ccf	MotivatedByGoal	election	1	0	1
+albanian	MotivatedByGoal	ethnic	1	1	0
+olympian	MotivatedByGoal	champion	1	1	0
+woman s	MotivatedByGoal	athletics	1	1	0
+issue warrant	MotivatedByGoal	connection	1	0	1
+silver	MotivatedByGoal	win bronze medal	1	1	0
+irish	MotivatedByGoal	self-government	1	1	0
+value	MotivatedByGoal	add value	1	1	0
+undetermine	MotivatedByGoal	belief	1	0	1
+taoist	MotivatedByGoal	belief	1	1	0
+growth	MotivatedByGoal	economic development	1	1	0
+withdraw	MotivatedByGoal	receive percent vote	1	0	1
+new album	MotivatedByGoal	release album	1	1	0
+improve access	MotivatedByGoal	care	1	1	0
+master	MotivatedByGoal	earn master degree	1	1	0
+conservative politician	MotivatedByGoal	constituency	1	1	0
+knesset	MotivatedByGoal	elect	1	1	0
+elect mp	MotivatedByGoal	elect	1	1	0
+start band	MotivatedByGoal	call	1	1	0
+band album	MotivatedByGoal	single	1	1	0
+nicene	MotivatedByGoal	belief	1	1	0
+metre	MotivatedByGoal	finish championship	1	1	0
+racial	MotivatedByGoal	makeup town	1	1	0
+mass	MotivatedByGoal	extermination	1	0	1
+album	MotivatedByGoal	second single	1	1	0
+social	MotivatedByGoal	economic policy	1	1	0
+international law	MotivatedByGoal	international	1	1	0
+winner	MotivatedByGoal	capture medal	1	1	0
+partner	MotivatedByGoal	national champion	1	1	0
+audio	MotivatedByGoal	sample	1	1	0
+macedonian	MotivatedByGoal	ethnic	1	1	0
+deliver service	MotivatedByGoal	quality	1	1	0
+play festival	MotivatedByGoal	v	1	1	0
+solo	MotivatedByGoal	full-length album	1	1	0
+perform vocal	MotivatedByGoal	release album	1	1	0
+post-punk	MotivatedByGoal	1980	1	1	0
+post-punk	MotivatedByGoal	1970	1	1	0
+reject	MotivatedByGoal	favour	1	0	1
+player	MotivatedByGoal	good player	1	1	0
+warrant	MotivatedByGoal	search	1	1	0
+man s	MotivatedByGoal	national champion	1	1	0
+council	MotivatedByGoal	plenary	1	1	0
+man s	MotivatedByGoal	compete sport	1	1	0
+master	MotivatedByGoal	receive bachelor degree	1	1	0
+assistant professor	MotivatedByGoal	professor	1	1	0
+individual s	MotivatedByGoal	freedom	1	1	0
+everything	MotivatedByGoal	nothing	1	0	1
+italian	MotivatedByGoal	unification	1	1	0
+m	MotivatedByGoal	win silver medal	1	1	0
+follow	MotivatedByGoal	consist municipality	1	0	1
+principle	MotivatedByGoal	self-government	1	1	0
+release several album	MotivatedByGoal	release album	1	1	0
+week	MotivatedByGoal	album s release	1	1	0
+competition	MotivatedByGoal	gold medal	1	1	0
+ep	MotivatedByGoal	release album	1	1	0
+win european championship	MotivatedByGoal	junior	1	1	0
+european championship	MotivatedByGoal	junior	1	0	1
+canadian team	MotivatedByGoal	junior	1	1	0
+care	MotivatedByGoal	improve health	1	1	0
+protect right	MotivatedByGoal	freedom	1	1	0
+christian	MotivatedByGoal	democrat	1	1	0
+american group	MotivatedByGoal	ethnic	1	1	0
+malay	MotivatedByGoal	ethnic	1	1	0
+jewish people	MotivatedByGoal	belief	1	1	0
+liberal	MotivatedByGoal	democracy	1	1	0
+woman s	MotivatedByGoal	earn medal	1	1	0
+candidacy	MotivatedByGoal	campaign	1	1	0
+metre	MotivatedByGoal	finish tenth	1	0	1
+agreement	MotivatedByGoal	co-operation	1	1	0
+emergency service	MotivatedByGoal	health	1	1	0
+respect	MotivatedByGoal	human right	1	1	0
+unjustify	MotivatedByGoal	belief	1	1	0
+release single	MotivatedByGoal	album	1	1	0
+woman s	MotivatedByGoal	win team	1	1	0
+ussr	MotivatedByGoal	medal	1	1	0
+swedish	MotivatedByGoal	handball	1	1	0
+health	MotivatedByGoal	environmental	1	0	1
+economic	MotivatedByGoal	quality life	1	1	0
+individual s	MotivatedByGoal	identity	1	1	0
+teach	MotivatedByGoal	earn doctorate	1	1	0
+governor	MotivatedByGoal	serve term	1	1	0
+drug	MotivatedByGoal	anti-cancer	1	0	1
+album	MotivatedByGoal	release debut	1	1	0
+faith	MotivatedByGoal	religion	1	1	0
+medal	MotivatedByGoal	win silver	1	1	0
+provide education	MotivatedByGoal	education	1	1	0
+champion	MotivatedByGoal	season s	1	1	0
+buy home	MotivatedByGoal	price	1	1	0
+score run	MotivatedByGoal	ball	1	0	1
+m	MotivatedByGoal	4x100	1	1	0
+release studio album	MotivatedByGoal	release album	1	1	0
+religion	MotivatedByGoal	hardboil	1	0	1
+complete degree	MotivatedByGoal	attend	1	1	0
+release compilation	MotivatedByGoal	release album	1	1	0
+qualify	MotivatedByGoal	earn place	1	1	0
+adventist	MotivatedByGoal	belief	1	1	0
+computer	MotivatedByGoal	password	1	1	0
+arian	MotivatedByGoal	belief	1	1	0
+graduate	MotivatedByGoal	bachelor s degree	1	1	0
+principle	MotivatedByGoal	democracy	1	1	0
+graduate	MotivatedByGoal	receive master s degree	1	0	1
+graduate	MotivatedByGoal	receive bachelor s degree	1	1	0
+graduate	MotivatedByGoal	master s degree	1	0	1
+graduate	MotivatedByGoal	earn master s degree	1	0	1
+graduate	MotivatedByGoal	earn bachelor s degree	1	1	0
+ndp	MotivatedByGoal	supporter	1	1	0
+improve health	MotivatedByGoal	care	1	1	0
+assistant	MotivatedByGoal	zoology	1	0	1
+pay money	MotivatedByGoal	pay	1	1	0
+racial	MotivatedByGoal	makeup city	1	0	1
+tournament	MotivatedByGoal	overall record	1	1	0
+woman s	MotivatedByGoal	win world title	1	1	0
+democratic	MotivatedByGoal	american politician	1	1	0
+m	MotivatedByGoal	win medal	1	1	0
+unsuccessful candidate	MotivatedByGoal	democratic	1	1	0
+solo	MotivatedByGoal	record solo album	1	1	0
+election	MotivatedByGoal	presidential election	1	1	0
+faith-base	MotivatedByGoal	belief	1	1	0
+cultural	MotivatedByGoal	economic development	1	1	0
+coach	MotivatedByGoal	win state championship	1	1	0
+pair	MotivatedByGoal	finish event	1	0	1
+other state	MotivatedByGoal	state	1	1	0
+teach	MotivatedByGoal	obtain doctorate	1	1	0
+report	MotivatedByGoal	audit	1	1	0
+administration	MotivatedByGoal	earn master degree	1	0	1
+champion	MotivatedByGoal	state championship	1	1	0
+email	MotivatedByGoal	user	1	1	0
+man s	MotivatedByGoal	athletics	1	1	0
+woman s	MotivatedByGoal	medalist	1	1	0
+body	AtLocation	rear	1	0	1
+bell	AtLocation	locate	1	0	1
+animal	AtLocation	importance	1	0	1
+raise money	AtLocation	church	1	0	1
+dock	AtLocation	pier	1	0	1
+fleet	AtLocation	small	1	0	1
+next door	AtLocation	church	1	0	1
+road	AtLocation	national park	1	1	0
+refuge	AtLocation	fishing	1	0	1
+northwestern	AtLocation	slope	1	0	1
+creature	AtLocation	write	1	0	1
+find	AtLocation	small island	1	0	1
+open	AtLocation	lab	1	0	1
+photograph	AtLocation	pair	1	0	1
+disease	AtLocation	cold	1	0	1
+owner	AtLocation	cargo	1	0	1
+jaw	AtLocation	wide	1	0	1
+rest	AtLocation	energy	1	0	1
+bone	AtLocation	uncover	1	0	1
+application	AtLocation	degree	1	0	1
+tail	AtLocation	helicopter	1	1	0
+man	AtLocation	23rd	1	0	1
+many	AtLocation	tower	1	0	1
+land area	AtLocation	town	1	1	0
+money	AtLocation	bridge	1	0	1
+young man	AtLocation	great	1	0	1
+left	AtLocation	room	1	0	1
+many people	AtLocation	name	1	0	1
+building	AtLocation	baptist	1	0	1
+aquarium	AtLocation	saltwater	1	1	0
+low	AtLocation	bed	1	0	1
+match	AtLocation	varsity	1	0	1
+mechanical	AtLocation	pipe	1	0	1
+consist	AtLocation	barracks	1	0	1
+tributary	AtLocation	basin	1	1	0
+greet	AtLocation	door	1	1	0
+play	AtLocation	bed	1	1	0
+issue	AtLocation	forest	1	1	0
+water supply	AtLocation	island	1	1	0
+city	AtLocation	20th	1	1	0
+mother	AtLocation	bank	1	1	0
+gas	AtLocation	plumbing	1	1	0
+tv	AtLocation	afternoon	1	1	0
+particle	AtLocation	tube	1	1	0
+sound	AtLocation	location	1	1	0
+seed	AtLocation	only	1	1	0
+band	AtLocation	next day	1	1	0
+name	AtLocation	camp	1	1	0
+affordable	AtLocation	space	1	1	0
+folding	AtLocation	seat	1	1	0
+living	AtLocation	period	1	1	0
+rest	AtLocation	forty	1	1	0
+pasture	AtLocation	plant	1	0	1
+suitable	AtLocation	venue	1	1	0
+copy	AtLocation	shelf	1	1	0
+site	AtLocation	bridge	1	1	0
+equipment	AtLocation	aid	1	1	0
+food	AtLocation	ample	1	1	0
+extra	AtLocation	house	1	1	0
+lab	AtLocation	open	1	0	1
+child	AtLocation	lord	1	0	1
+special	AtLocation	building	1	0	1
+blood	AtLocation	car	1	0	1
+child	AtLocation	excellent	1	0	1
+kid	AtLocation	store	1	0	1
+disease	AtLocation	town	1	0	1
+drought	AtLocation	heat	1	1	0
+life	AtLocation	surface	1	1	0
+size	AtLocation	bar	1	0	1
+wall	AtLocation	century	1	0	1
+gunpowder	AtLocation	building	1	1	0
+craft	AtLocation	exhibition	1	0	1
+polluted	AtLocation	city	1	0	1
+bottom	AtLocation	river	1	0	1
+essential	AtLocation	school	1	0	1
+start	AtLocation	bridge	1	0	1
+layer	AtLocation	floor	1	0	1
+build	AtLocation	pier	1	0	1
+ranch	AtLocation	surround	1	0	1
+light	AtLocation	afternoon	1	0	1
+family	AtLocation	parish church	1	0	1
+supply	AtLocation	power station	1	1	0
+single	AtLocation	band	1	0	1
+bombing	AtLocation	day	1	0	1
+snow	AtLocation	house	1	0	1
+application	AtLocation	list	1	0	1
+destruction	AtLocation	bridge	1	0	1
+cafe	AtLocation	gallery	1	1	0
+city	AtLocation	breakfast	1	0	1
+receive	AtLocation	south	1	0	1
+collar	AtLocation	side	1	0	1
+steam	AtLocation	chamber	1	1	0
+mountain	AtLocation	river valley	1	1	0
+knowledge	AtLocation	close	1	0	1
+student	AtLocation	archives	1	0	1
+border	AtLocation	shopping	1	0	1
+brake	AtLocation	right	1	1	0
+coral	AtLocation	coral	1	0	1
+room	AtLocation	left	1	0	1
+path	AtLocation	coast	1	0	1
+need	AtLocation	bridge	1	0	1
+tribe	AtLocation	west	1	1	0
+art	AtLocation	lake	1	0	1
+combination	AtLocation	forest	1	0	1
+supply	AtLocation	help	1	0	1
+friend	AtLocation	minute	1	0	1
+post	AtLocation	coast	1	0	1
+border	AtLocation	southern	1	0	1
+training	AtLocation	table	1	0	1
+roof	AtLocation	gate	1	0	1
+post	AtLocation	river	1	0	1
+cricket team	AtLocation	class	1	0	1
+population density	AtLocation	community	1	1	0
+child	AtLocation	american	1	0	1
+view	AtLocation	forest	1	0	1
+wheel	AtLocation	mountain	1	0	1
+bar	AtLocation	village	1	0	1
+sight	AtLocation	river	1	0	1
+child	AtLocation	week	1	0	1
+satellite	AtLocation	light	1	0	1
+private school	AtLocation	class	1	0	1
+lattice	AtLocation	class	1	0	1
+marry	AtLocation	watch	1	0	1
+roll	AtLocation	watch	1	0	1
+happen	AtLocation	table	1	0	1
+blanket	AtLocation	bed	1	1	0
+ground	AtLocation	bedroom	1	0	1
+part	AtLocation	table	1	0	1
+roof	AtLocation	climb	1	0	1
+person	AtLocation	apartment	1	1	0
+room	AtLocation	lounge	1	0	1
+belt	AtLocation	village	1	0	1
+force	AtLocation	class	1	0	1
+past	AtLocation	river	1	0	1
+food	AtLocation	sea	1	0	1
+build	AtLocation	forest	1	0	1
+room	AtLocation	mountain	1	0	1
+cloth	AtLocation	air	1	0	1
+body of water	AtLocation	ocean	1	1	0
+child	AtLocation	church	1	1	0
+plantation	AtLocation	mountain	1	0	1
+child	AtLocation	laboratory	1	1	0
+satellite	AtLocation	south	1	1	0
+consist	IsA	accompaniment	1	0	1
+pilot	IsA	mean	1	0	1
+t	IsA	reference	1	0	1
+operation	IsA	fee	1	0	1
+healing	IsA	purpose	1	0	1
+concern	IsA	circumstance	1	0	1
+god	IsA	being	1	0	1
+conflict	IsA	possession	1	0	1
+exchange	IsA	product	1	0	1
+guard	IsA	step	1	0	1
+coil	IsA	wind	1	0	1
+grant	IsA	device	1	0	1
+battle	IsA	witness	1	0	1
+transaction	IsA	obligation	1	0	1
+half	IsA	principal	1	0	1
+woman 's	IsA	action	1	0	1
+estate	IsA	reason	1	0	1
+literature	IsA	humanity	1	0	1
+head	IsA	organ	1	1	0
+church	IsA	accompaniment	1	0	1
+finish	IsA	relate	1	0	1
+synod	IsA	elect	1	0	1
+jet	IsA	range	1	1	0
+advance	IsA	choose	1	1	0
+custom	IsA	weight	1	1	0
+dust	IsA	material	1	1	0
+purchase	IsA	feel	1	1	0
+racing	IsA	country	1	0	1
+former	IsA	concern	1	1	0
+quarry	IsA	business	1	0	1
+interstate	IsA	representative	1	1	0
+family business	IsA	business	1	1	0
+rocket	IsA	machine	1	1	0
+portrait	IsA	date	1	1	0
+infant	IsA	program	1	1	0
+subject	IsA	number of book	1	1	0
+wisdom	IsA	poetry	1	1	0
+choir	IsA	instrument	1	0	1
+product	IsA	victim	1	0	1
+magic	IsA	hand	1	1	0
+lift	IsA	hand	1	1	0
+anthropology	IsA	problem	1	1	0
+expression	IsA	type	1	1	0
+housing	IsA	amenity	1	1	0
+ride	IsA	remain	1	0	1
+first	IsA	martyrdom	1	0	1
+ball	IsA	following	1	1	0
+city	IsA	exist	1	1	0
+fund	IsA	cause	1	1	0
+tea	IsA	place	1	1	0
+bulk	IsA	property	1	0	1
+zinc	IsA	industry	1	1	0
+momentum	IsA	principle	1	1	0
+think	IsA	respect	1	0	1
+band	IsA	very	1	0	1
+supporter	IsA	expense	1	0	1
+gradient	IsA	condition	1	0	1
+dream	IsA	existence	1	0	1
+liberal	IsA	condition	1	0	1
+force	IsA	p	1	0	1
+fantasy	IsA	environment	1	0	1
+judge	IsA	question	1	0	1
+contest	IsA	industry	1	0	1
+folk	IsA	note	1	0	1
+follow	IsA	give overview	1	0	1
+guard	IsA	commit	1	0	1
+wave	IsA	blue	1	0	1
+initial	IsA	concern	1	0	1
+freedom	IsA	allege	1	0	1
+bond	IsA	characteristic	1	0	1
+orange	IsA	vary	1	0	1
+method	IsA	proceeding	1	0	1
+alumnus	IsA	grow	1	0	1
+break	IsA	evidence	1	0	1
+small company	IsA	local	1	0	1
+letter	IsA	o	1	0	1
+fork	IsA	small	1	0	1
+sale	IsA	instrument	1	0	1
+metal	IsA	electric guitar	1	0	1
+drama	IsA	worker	1	0	1
+t-shirt	IsA	shop	1	0	1
+spice	IsA	most	1	0	1
+city	IsA	unique	1	0	1
+tail	IsA	note	1	0	1
+design	IsA	other type	1	0	1
+rim	IsA	formation	1	0	1
+break	IsA	violate	1	0	1
+death	IsA	ignorance	1	0	1
+evade	IsA	protection	1	0	1
+weekend	IsA	result	1	0	1
+latin	IsA	territory	1	0	1
+fantasy	IsA	style	1	0	1
+marriage	IsA	royal family	1	0	1
+last	IsA	check	1	0	1
+pilot	IsA	configuration	1	0	1
+clothes	IsA	occasion	1	0	1
+schooling	IsA	formal	1	0	1
+bring	IsA	designate	1	0	1
+metal	IsA	song	1	0	1
+treason	IsA	prosecution	1	0	1
+protector	IsA	right	1	0	1
+pass	IsA	sue	1	0	1
+coat	IsA	hand	1	0	1
+regional	IsA	response	1	0	1
+war	IsA	document	1	0	1
+metal	IsA	movement	1	0	1
+ceremony	IsA	departure	1	0	1
+break	IsA	report	1	0	1
+ceremony	IsA	highlight	1	0	1
+world	IsA	modification	1	0	1
+policy	IsA	product	1	0	1
+capital	IsA	formal	1	0	1
+county	IsA	warrant	1	0	1
+vote	IsA	person	1	0	1
+wear	IsA	range	1	0	1
+collar	IsA	side	1	0	1
+sound	IsA	context	1	0	1
+crown	IsA	family	1	1	0
+flag	IsA	phrase	1	0	1
+call	IsA	motif	1	0	1
+research	IsA	type	1	0	1
+struggle	IsA	aspect	1	0	1
+noise	IsA	response	1	0	1
+pass	IsA	pursue	1	0	1
+last	IsA	protection	1	0	1
+synthesis	IsA	factor	1	0	1
+pie	IsA	filling	1	0	1
+instrument	IsA	protection	1	0	1
+union	IsA	aspect	1	0	1
+bear	IsA	appreciate	1	0	1
+v	IsA	person	1	0	1
+bear	IsA	arranger	1	0	1
+investment	IsA	assistance	1	0	1
+ball	IsA	circumstance	1	0	1
+leader	IsA	factor	1	0	1
+letter	IsA	tree	1	0	1
+woman 's	IsA	situation	1	0	1
+bell	IsA	red	1	0	1
+porcelain	IsA	doll	1	0	1
+survival	IsA	person	1	1	0
+mountain	IsA	skill	1	0	1
+retirement	IsA	person	1	0	1
+persona	IsA	person	1	1	0
+steam	SymbolOf	important	1	0	1
+hair	SymbolOf	art	1	0	1
+storm	SymbolOf	coastal	1	0	1
+jet	SymbolOf	regional	1	0	1
+design	SymbolOf	conservation	1	0	1
+damage	SymbolOf	safety	1	0	1
+gas	SymbolOf	same time	1	0	1
+album	SymbolOf	feedback	1	0	1
+gas	SymbolOf	primary	1	0	1
+u-boat	SymbolOf	fleet	1	0	1
+tiny	SymbolOf	mountain	1	0	1
+scene	SymbolOf	vision	1	0	1
+exceed	SymbolOf	system	1	0	1
+craft	SymbolOf	exhibition	1	0	1
+freezing	SymbolOf	condition	1	0	1
+love	SymbolOf	difference	1	0	1
+generation	SymbolOf	rich	1	0	1
+window	SymbolOf	wide	1	0	1
+high speed	SymbolOf	vehicle	1	0	1
+battle	SymbolOf	emotion	1	0	1
+point	SymbolOf	risk	1	0	1
+victory	SymbolOf	measure	1	0	1
+screen	SymbolOf	solution	1	0	1
+occasional	SymbolOf	report	1	0	1
+heroism	SymbolOf	honor	1	0	1
+physician	SymbolOf	infection	1	0	1
+event	SymbolOf	care	1	0	1
+dark	SymbolOf	role	1	0	1
+ground	SymbolOf	understanding	1	0	1
+task	SymbolOf	investigation	1	0	1
+ceremony	SymbolOf	departure	1	0	1
+bird	SymbolOf	mythology	1	0	1
+rifle	SymbolOf	mine	1	1	0
+castle	SymbolOf	disrepair	1	1	0
+room	SymbolOf	mountain	1	1	0
+altitude	SymbolOf	report	1	1	0
+ceremony	SymbolOf	stand	1	1	0
+metal	SymbolOf	discharge	1	1	0
+preacher	SymbolOf	preaching	1	1	0
+tank	SymbolOf	extend	1	1	0
+ceremony	SymbolOf	assembly	1	0	1
+moon	SymbolOf	woman	1	1	0
+speed	SymbolOf	definition	1	1	0
+test	SymbolOf	protection	1	1	0
+star	SymbolOf	produce	1	1	0
+wife	SymbolOf	literature	1	1	0
+depend	SymbolOf	risk	1	1	0
+medal	SymbolOf	publish	1	1	0
+ceiling	SymbolOf	large	1	1	0
+diploma	SymbolOf	pursue	1	1	0
+harvest	SymbolOf	animal	1	1	0
+comprise	SymbolOf	water	1	0	1
+threat	SymbolOf	communication	1	1	0
+depletion	SymbolOf	water	1	1	0
+scene	SymbolOf	practice	1	1	0
+creature	SymbolOf	human	1	1	0
+sale	SymbolOf	location	1	1	0
+moment	SymbolOf	poetry	1	1	0
+heart	SymbolOf	publish	1	1	0
+cloud	SymbolOf	molecular	1	0	1
+bolt	SymbolOf	cause	1	1	0
+move	SymbolOf	light	1	0	1
+ice	SymbolOf	system	1	0	1
+flight	SymbolOf	land	1	0	1
+gunnery	SymbolOf	duty	1	0	1
+star	SymbolOf	sing	1	0	1
+light	SymbolOf	sky	1	0	1
+swimming	SymbolOf	staff	1	0	1
+detector	SymbolOf	physics	1	0	1
+pocket	SymbolOf	publish	1	0	1
+album	SymbolOf	recognize	1	0	1
+infantry	SymbolOf	enemy 's	1	0	1
+electron	SymbolOf	species	1	0	1
+product line	SymbolOf	management	1	0	1
+comment	SymbolOf	research	1	0	1
+voltage	SymbolOf	normal	1	0	1
+electric	SymbolOf	fleet	1	0	1
+installation	SymbolOf	technical	1	0	1
+frequency	SymbolOf	demonstrate	1	0	1
+bridge	SymbolOf	money	1	0	1
+indicator	SymbolOf	activity	1	0	1
+file	SymbolOf	integrity	1	0	1
+indicate	SymbolOf	violence	1	0	1
+interior	SymbolOf	art	1	0	1
+restaurant	SymbolOf	share	1	0	1
+chef	SymbolOf	cook	1	0	1
+bond	SymbolOf	mutual	1	0	1
+star	SymbolOf	crew	1	0	1
+neutron	SymbolOf	provide	1	0	1
+victory	SymbolOf	safety	1	0	1
+literary	SymbolOf	crime	1	1	0
+motor	SymbolOf	business	1	0	1
+signal	SymbolOf	failure	1	0	1
+rise	SymbolOf	space	1	0	1
+attention	SymbolOf	crime	1	0	1
+helicopter	SymbolOf	surveillance	1	0	1
+helmet	SymbolOf	body	1	0	1
+intelligence	SymbolOf	crime	1	1	0
+bridge	SymbolOf	aim	1	0	1
+barrel	SymbolOf	way	1	0	1
+file	SymbolOf	aspect	1	0	1
+vary	SymbolOf	treatment	1	0	1
+man	SymbolOf	therapy	1	0	1
+habitat	SymbolOf	reserve	1	0	1
+terrain	SymbolOf	nature	1	1	0
+restaurant	SymbolOf	world 's	1	0	1
+band	SymbolOf	passion	1	0	1
+speed	SymbolOf	observe	1	0	1
+prophecy	SymbolOf	spirit	1	0	1
+career	SymbolOf	activity	1	0	1
+square	SymbolOf	student	1	0	1
+tree	SymbolOf	nature	1	1	0
+airfield	SymbolOf	private	1	0	1
+1990s	SymbolOf	cultural	1	0	1
+camera	SymbolOf	light	1	0	1
+fire	SymbolOf	organization	1	0	1
+require	SymbolOf	identity	1	0	1
+wave	SymbolOf	defense	1	0	1
+ceremony	SymbolOf	trial	1	0	1
+ceremony	SymbolOf	ordination	1	0	1
+girl	SymbolOf	belief	1	0	1
+sea	SymbolOf	climate	1	1	0
+universe	SymbolOf	belief	1	1	0
+iron	SymbolOf	animal	1	0	1
+scale	SymbolOf	proposal	1	0	1
+exhibit	SymbolOf	become	1	0	1
+star	SymbolOf	body	1	0	1
+discharge	SymbolOf	water	1	1	0
+wing	SymbolOf	white	1	0	1
+piston	SymbolOf	spring	1	0	1
+solar	SymbolOf	activity	1	0	1
+aircraft	SymbolOf	central	1	0	1
+income	SymbolOf	research	1	1	0
+wing	SymbolOf	vehicle	1	0	1
+wing	SymbolOf	phase	1	0	1
+fire	SymbolOf	space	1	0	1
+visit	HasProperty	observe	1	0	1
+food	HasProperty	clothes	1	0	1
+law	HasProperty	patent	1	0	1
+pay	HasProperty	place	1	0	1
+nation	HasProperty	lack	1	0	1
+battle	HasProperty	tell	1	0	1
+hat	HasProperty	white	1	1	0
+storey	HasProperty	court	1	0	1
+charge	HasProperty	speech	1	0	1
+vowel	HasProperty	realize	1	0	1
+name	HasProperty	aid	1	0	1
+name	HasProperty	prove	1	0	1
+hold	HasProperty	winter	1	0	1
+town	HasProperty	land area	1	0	1
+center	HasProperty	act	1	0	1
+continue	HasProperty	influence	1	0	1
+empire	HasProperty	interest	1	0	1
+area	HasProperty	black	1	0	1
+drop	HasProperty	clear	1	0	1
+refer	HasProperty	condition	1	0	1
+tie	HasProperty	give	1	0	1
+let	HasProperty	state	1	0	1
+hold	HasProperty	window	1	0	1
+form	HasProperty	leave	1	0	1
+old school	HasProperty	open	1	0	1
+use name	HasProperty	open	1	0	1
+tv	HasProperty	need	1	0	1
+ward	HasProperty	conservative	1	0	1
+season	HasProperty	blow	1	0	1
+paper	HasProperty	participation	1	0	1
+document	HasProperty	own	1	0	1
+begin	HasProperty	community	1	0	1
+quarter	HasProperty	high	1	0	1
+set	HasProperty	allow	1	0	1
+flower	HasProperty	buy	1	1	0
+spring	HasProperty	carry	1	0	1
+land	HasProperty	member of family	1	0	1
+route	HasProperty	come	1	1	0
+art	HasProperty	divide	1	1	0
+manga	HasProperty	draw	1	1	0
+writer	HasProperty	learn	1	1	0
+unable	HasProperty	lack	1	1	0
+side	HasProperty	study	1	0	1
+official	HasProperty	sport	1	1	0
+piano	HasProperty	ask	1	1	0
+hill	HasProperty	high ground	1	1	0
+small	HasProperty	presence	1	1	0
+plate	HasProperty	block	1	1	0
+sum	HasProperty	individual	1	1	0
+bar	HasProperty	idea	1	1	0
+story	HasProperty	self	1	1	0
+pay	HasProperty	health	1	0	1
+record	HasProperty	young	1	1	0
+heat	HasProperty	mean	1	1	0
+land	HasProperty	suit	1	1	0
+dry	HasProperty	hand	1	1	0
+change	HasProperty	severe	1	1	0
+message	HasProperty	suicide	1	1	0
+name	HasProperty	count	1	1	0
+house	HasProperty	problem	1	0	1
+name	HasProperty	attribute	1	1	0
+mark	HasProperty	religion	1	1	0
+white	HasProperty	high	1	1	0
+series	HasProperty	realistic	1	0	1
+run	HasProperty	disability	1	1	0
+small	HasProperty	distance	1	1	0
+format	HasProperty	mean	1	1	0
+tour	HasProperty	sex	1	0	1
+memory	HasProperty	experience	1	1	0
+play	HasProperty	take time	1	1	0
+worship	HasProperty	mean	1	1	0
+colour	HasProperty	seat	1	1	0
+appear	HasProperty	problem	1	1	0
+island	HasProperty	spend	1	1	0
+court	HasProperty	base	1	0	1
+return	HasProperty	mean	1	0	1
+right	HasProperty	sex	1	0	1
+art	HasProperty	grow	1	0	1
+movement	HasProperty	young	1	0	1
+few	HasProperty	importance	1	0	1
+message	HasProperty	let	1	0	1
+world	HasProperty	pursue	1	0	1
+place	HasProperty	recognize	1	0	1
+operate	HasProperty	seem	1	0	1
+tree	HasProperty	letter	1	0	1
+mountain	HasProperty	wheel	1	0	1
+man	HasProperty	sun	1	0	1
+victim	HasProperty	violence	1	0	1
+datum	HasProperty	structure	1	0	1
+golden	HasProperty	place	1	0	1
+install	HasProperty	seem	1	0	1
+cake	HasProperty	part	1	1	0
+publication	HasProperty	chapter	1	0	1
+county	HasProperty	mean	1	0	1
+north	HasProperty	grow	1	0	1
+course	HasProperty	portray	1	0	1
+talk	HasProperty	troop	1	0	1
+football	HasProperty	man	1	0	1
+sing song	HasProperty	want	1	0	1
+follow	HasProperty	self	1	0	1
+weight	HasProperty	science	1	0	1
+mention	HasProperty	parish	1	0	1
+bus	HasProperty	attack	1	0	1
+run	HasProperty	influence	1	0	1
+sky	HasProperty	light	1	1	0
+human	HasProperty	military	1	0	1
+draw	HasProperty	concern	1	0	1
+back	HasProperty	grey	1	0	1
+court	HasProperty	colonial	1	0	1
+place	HasProperty	wheel	1	0	1
+course	HasProperty	requirement	1	0	1
+annual	HasProperty	executive	1	0	1
+novel	HasProperty	less	1	0	1
+author	HasProperty	own	1	0	1
+game	HasProperty	black	1	0	1
+century	HasProperty	effective	1	0	1
+review	HasProperty	city	1	0	1
+place	HasProperty	protest	1	0	1
+apply	HasProperty	different way	1	0	1
+document	HasProperty	war	1	0	1
+table	HasProperty	part	1	0	1
+know	HasProperty	wake	1	0	1
+count	HasProperty	life	1	0	1
+course	HasProperty	start	1	0	1
+add	HasProperty	progress	1	0	1
+land	HasProperty	beautiful	1	1	0
+thing	HasProperty	emotional	1	1	0
+resort	HasProperty	island	1	0	1
+half	HasProperty	difficult	1	0	1
+village	HasProperty	soil	1	0	1
+land	HasProperty	flight	1	0	1
+example	HasProperty	individual	1	0	1
+column	HasProperty	divide	1	1	0
+period	HasProperty	draw	1	0	1
+shirt	HasProperty	city	1	0	1
+text	HasProperty	place	1	0	1
+english	HasProperty	executive	1	0	1
+weight	HasProperty	region	1	0	1
+love	HasProperty	fear	1	0	1
+witness	HasProperty	seem	1	1	0
+column	HasProperty	find	1	0	1
+language	HasProperty	individual	1	0	1
+coat of arm	HasProperty	shield	1	1	0
+20th	HasProperty	city	1	0	1
+art	HasProperty	political	1	0	1
+character	HasProperty	energy	1	1	0
+course	HasProperty	handle	1	0	1
+strip	HasProperty	only	1	0	1
+war	HasProperty	mind	1	0	1
+weight	HasProperty	seed	1	0	1
+battle	HasProperty	seem	1	0	1
+player	HasProperty	city	1	0	1
+private school	HasProperty	call	1	0	1
+world	HasProperty	minority	1	0	1
+double	HasProperty	force	1	0	1
+weight	HasProperty	custom	1	0	1
+publish	HasProperty	man 's	1	0	1
+text	HasProperty	technical	1	1	0
+diabetes	HasProperty	hospital	1	0	1
+tree	HasProperty	feature	1	0	1
+colour	HasProperty	wear	1	0	1
+tree	HasProperty	nature	1	1	0
+story	HasProperty	hospital	1	0	1
+alternative	MotivatedByGoal	event	1	0	1
+invent	MotivatedByGoal	relate	1	0	1
+require	MotivatedByGoal	identity	1	0	1
+demand	MotivatedByGoal	demonstrate	1	0	1
+thousand	MotivatedByGoal	skill	1	0	1
+provide	MotivatedByGoal	realism	1	0	1
+event	MotivatedByGoal	persecution	1	0	1
+change	MotivatedByGoal	precipitation	1	0	1
+try	MotivatedByGoal	technique	1	0	1
+murder	MotivatedByGoal	desire	1	0	1
+study	MotivatedByGoal	major work	1	1	0
+experience	MotivatedByGoal	therapist	1	0	1
+amend	MotivatedByGoal	serve	1	0	1
+vote	MotivatedByGoal	certify	1	0	1
+information	MotivatedByGoal	multimedia	1	0	1
+finish	MotivatedByGoal	represent native country	1	0	1
+rest	MotivatedByGoal	energy	1	0	1
+conservative	MotivatedByGoal	election	1	0	1
+computer	MotivatedByGoal	intelligent	1	0	1
+illustrate	MotivatedByGoal	life	1	0	1
+considerable	MotivatedByGoal	material	1	0	1
+ice	MotivatedByGoal	other event	1	0	1
+discuss	MotivatedByGoal	president	1	0	1
+argue	MotivatedByGoal	outcome	1	1	0
+patent	MotivatedByGoal	allow	1	1	0
+criticism	MotivatedByGoal	fiction	1	1	0
+problem	MotivatedByGoal	poverty	1	1	0
+push	MotivatedByGoal	bring	1	1	0
+convey	MotivatedByGoal	feeling	1	1	0
+killing	MotivatedByGoal	discover	1	1	0
+radioactive	MotivatedByGoal	accident	1	1	0
+food	MotivatedByGoal	sea	1	0	1
+marriage	MotivatedByGoal	publication	1	1	0
+man	MotivatedByGoal	skiing	1	1	0
+marry	MotivatedByGoal	break	1	1	0
+suit	MotivatedByGoal	connection	1	1	0
+first work	MotivatedByGoal	music	1	0	1
+investigate	MotivatedByGoal	demonstrate	1	0	1
+find	MotivatedByGoal	small island	1	0	1
+argue	MotivatedByGoal	possession	1	0	1
+essay	MotivatedByGoal	main	1	0	1
+loudspeaker	MotivatedByGoal	recording	1	0	1
+recognize	MotivatedByGoal	medal	1	0	1
+movie	MotivatedByGoal	challenge	1	0	1
+keep	MotivatedByGoal	serve	1	0	1
+snow	MotivatedByGoal	location	1	0	1
+calculate	MotivatedByGoal	enter	1	0	1
+action	MotivatedByGoal	perform action	1	0	1
+aid	MotivatedByGoal	writing	1	0	1
+argument	MotivatedByGoal	election	1	0	1
+publish	MotivatedByGoal	medal	1	0	1
+company	MotivatedByGoal	comfort	1	0	1
+father	MotivatedByGoal	observation	1	0	1
+serve	MotivatedByGoal	win medal	1	0	1
+approach	MotivatedByGoal	tolerance	1	0	1
+editor	MotivatedByGoal	ship	1	0	1
+challenge	MotivatedByGoal	battle	1	0	1
+small	MotivatedByGoal	fleet	1	0	1
+suggest	MotivatedByGoal	adventure	1	0	1
+other form	MotivatedByGoal	action	1	0	1
+sell	MotivatedByGoal	aviation	1	0	1
+everything	MotivatedByGoal	perform	1	0	1
+study	MotivatedByGoal	visual art	1	0	1
+rest	MotivatedByGoal	trading	1	0	1
+win	MotivatedByGoal	voter	1	0	1
+acquire	MotivatedByGoal	score	1	0	1
+type	MotivatedByGoal	drink	1	0	1
+proof	MotivatedByGoal	space	1	0	1
+understand	MotivatedByGoal	audience	1	0	1
+diabetes	MotivatedByGoal	care	1	0	1
+move	MotivatedByGoal	exercise	1	1	0
+basketball	MotivatedByGoal	action	1	1	0
+marry	MotivatedByGoal	watch	1	0	1
+full album	MotivatedByGoal	eps	1	0	1
+prove	MotivatedByGoal	define	1	0	1
+instructor	MotivatedByGoal	writing	1	1	0
+think	MotivatedByGoal	articulate	1	0	1
+vote	MotivatedByGoal	consecutive year	1	0	1
+money	MotivatedByGoal	explain	1	1	0
+find	MotivatedByGoal	eat	1	0	1
+become	MotivatedByGoal	long distance	1	0	1
+duel	MotivatedByGoal	fly	1	0	1
+art	MotivatedByGoal	care	1	0	1
+translate	MotivatedByGoal	indicate	1	0	1
+global	MotivatedByGoal	care	1	0	1
+fact	MotivatedByGoal	stress	1	0	1
+leave	MotivatedByGoal	action	1	0	1
+translate	MotivatedByGoal	creation	1	1	0
+meet	MotivatedByGoal	rehearsal	1	0	1
+arm	MotivatedByGoal	search	1	0	1
+riding	MotivatedByGoal	skiing	1	0	1
+find	MotivatedByGoal	craft	1	0	1
+win	MotivatedByGoal	make trip	1	0	1
+weapon	MotivatedByGoal	challenge	1	0	1
+court	MotivatedByGoal	storey	1	0	1
+consider	MotivatedByGoal	capture	1	0	1
+deal	MotivatedByGoal	review	1	0	1
+voter	MotivatedByGoal	win	1	0	1
+deal	MotivatedByGoal	peace	1	0	1
+car	MotivatedByGoal	endurance	1	0	1
+type	MotivatedByGoal	expression	1	0	1
+study	MotivatedByGoal	identity	1	0	1
+tax	MotivatedByGoal	explain	1	0	1
+government	MotivatedByGoal	popular vote	1	0	1
+discuss	MotivatedByGoal	need	1	0	1
+religion	MotivatedByGoal	task	1	0	1
+meet	MotivatedByGoal	signal	1	0	1
+find	MotivatedByGoal	accelerate	1	0	1
+graduate	MotivatedByGoal	quality	1	0	1
+court	MotivatedByGoal	courtyard	1	1	0
+deal	MotivatedByGoal	consummate	1	0	1
+limit	MotivatedByGoal	challenge	1	0	1
+graduate	MotivatedByGoal	subject	1	0	1
+find	MotivatedByGoal	tell	1	1	0
+contract	MotivatedByGoal	learn	1	1	0
+purchase	MotivatedByGoal	life	1	0	1
+graduate	MotivatedByGoal	discover	1	0	1
+argue	MotivatedByGoal	distinguish	1	0	1
+court	MotivatedByGoal	goal	1	0	1
+meet	MotivatedByGoal	socialize	1	1	0
+court	MotivatedByGoal	sanskrit	1	0	1
+restaurant	AtLocation	popular destination	1	1	0
+independent	AtLocation	preparatory school	1	0	1
+plan	HasProperty	social service	1	1	0
+project	HasProperty	feasibility	1	1	0
+football	HasProperty	baseball	1	1	0
+process	HasProperty	compost	1	1	0
+press release	HasProperty	announce	1	1	0
+ocean	HasProperty	water	1	1	0
+wear shirt	HasProperty	wear	1	1	0
+firm	HasProperty	client	1	0	1
+cancer	HasProperty	cell	1	1	0
+plant	HasProperty	genus	1	1	0
+newsletter	HasProperty	publish	1	1	0
+land gear	HasProperty	aircraft	1	0	1
+standard	HasProperty	develop standard	1	0	1
+aircraft	HasProperty	land gear	1	1	0
+seed	HasProperty	flower	1	1	0
+health	HasProperty	improve service	1	1	0
+police	HasProperty	emergency service	1	1	0
+support	HasProperty	include support	1	1	0
+primate	HasProperty	human	1	1	0
+sport	HasProperty	local team	1	1	0
+election result	HasProperty	party	1	0	1
+election campaign	HasProperty	general	1	1	0
+by-election	HasProperty	candidate	1	1	0
+local election	HasProperty	vote	1	1	0
+management	HasProperty	implement system	1	1	0
+cell	HasProperty	pathway	1	1	0
+market	HasProperty	market share	1	1	0
+law	HasProperty	follow law	1	1	0
+hair	HasProperty	dark	1	1	0
+sex	HasProperty	transgender	1	0	1
+tantric	HasProperty	sex	1	1	0
+medical	HasProperty	health service	1	1	0
+scientist	HasProperty	computer	1	1	0
+reform	HasProperty	legal system	1	1	0
+sex	HasProperty	therapist	1	1	0
+produce report	HasProperty	report	1	1	0
+fish	HasProperty	species	1	1	0
+protein	HasProperty	interaction	1	1	0
+disease	HasProperty	prevention	1	0	1
+software	HasProperty	management	1	1	0
+automotive	HasProperty	application	1	0	1
+feasibility	HasProperty	project	1	1	0
+responsibility	HasProperty	other agency	1	1	0
+research	HasProperty	focus area	1	0	1
+chemistry	HasProperty	science	1	1	0
+majority	HasProperty	voter	1	1	0
+management	HasProperty	develop solution	1	1	0
+election result	HasProperty	candidate	1	0	1
+x	HasProperty	function	1	1	0
+genus	HasProperty	family	1	1	0
+water	HasProperty	mud	1	0	1
+coach	HasProperty	take team	1	0	1
+mate	HasProperty	male	1	1	0
+trouser	HasProperty	black	1	1	0
+presenter	HasProperty	radio	1	1	0
+sex	HasProperty	unnatural	1	0	1
+police force	HasProperty	police	1	1	0
+school school	HasProperty	junior	1	1	0
+print	HasProperty	use process	1	0	1
+high school	HasProperty	junior	1	0	1
+satellite	HasProperty	earth	1	1	0
+technology	HasProperty	expertise	1	1	0
+affect	HasProperty	affect life	1	0	1
+solar	HasProperty	system	1	1	0
+win majority	HasProperty	seat	1	1	0
+analysis	HasProperty	mathematical	1	1	0
+product	HasProperty	pharmaceutical	1	1	0
+security	HasProperty	audit	1	0	1
+sex	HasProperty	natal	1	1	0
+election	HasProperty	party	1	0	1
+international	HasProperty	local level	1	0	1
+basketball	HasProperty	professional team	1	0	1
+breast	HasProperty	woman	1	1	0
+datum	HasProperty	parameter	1	1	0
+genetics	HasProperty	human	1	1	0
+software	HasProperty	other system	1	1	0
+require	HasProperty	require time	1	1	0
+leaflet	HasProperty	leave	1	0	1
+anthology	HasProperty	poem	1	1	0
+process	HasProperty	information system	1	1	0
+aim	HasProperty	support activity	1	1	0
+item	HasProperty	food	1	1	0
+strategy	HasProperty	stakeholder	1	0	1
+include area	HasProperty	expand	1	0	1
+sex	HasProperty	courtship	1	1	0
+model	HasProperty	build model	1	1	0
+federal election	HasProperty	vote	1	1	0
+enable	HasProperty	learner	1	0	1
+phallic	HasProperty	sex	1	1	0
+yearbook	HasProperty	school	1	1	0
+pharmaceutical	HasProperty	product	1	1	0
+improve	HasProperty	develop strategy	1	1	0
+club	HasProperty	football	1	1	0
+over	HasProperty	captain	1	0	1
+first set	HasProperty	set	1	1	0
+player year	HasProperty	player	1	0	1
+opportunity	HasProperty	take full advantage	1	1	0
+water	HasProperty	ocean	1	1	0
+release report	HasProperty	report	1	1	0
+colour	HasProperty	scheme	1	0	1
+paper s	HasProperty	news	1	1	0
+system	HasProperty	large system	1	1	0
+college	HasProperty	football	1	0	1
+wing	HasProperty	flight	1	1	0
+cell	HasProperty	neuron	1	1	0
+tool	HasProperty	analysis	1	0	1
+management	HasProperty	database	1	0	1
+program	HasProperty	include program	1	1	0
+quality	HasProperty	management system	1	1	0
+foster	HasProperty	encourage	1	1	0
+food	HasProperty	item	1	1	0
+first volume	HasProperty	publish	1	1	0
+technology	HasProperty	focus development	1	1	0
+educate	HasProperty	study philosophy	1	1	0
+material	HasProperty	composite	1	1	0
+magazine	HasProperty	reader	1	1	0
+relationship	HasProperty	monogamous	1	0	1
+football	HasProperty	athletics	1	1	0
+construction	HasProperty	construction project	1	1	0
+system	HasProperty	autonomic	1	1	0
+processor	HasProperty	machine	1	1	0
+knowledge	HasProperty	learner	1	1	0
+vaccine	HasProperty	research	1	1	0
+spectroscopy	HasProperty	technique	1	1	0
+fruit	HasProperty	tree	1	1	0
+trouser	HasProperty	wear	1	1	0
+badminton	HasProperty	sport	1	0	1
+priest	HasProperty	study philosophy	1	1	0
+sex	HasProperty	toy	1	1	0
+plant	HasProperty	soil	1	1	0
+opposition party	HasProperty	party	1	1	0
+protein	HasProperty	structure	1	1	0
+still	HasProperty	image	1	1	0
+human form	HasProperty	animal	1	1	0
+flower	HasProperty	pale	1	1	0
+industry	HasProperty	consultancy	1	0	1
+helicopter	HasProperty	flight	1	1	0
+team	HasProperty	team member	1	1	0
+gas	HasProperty	energy	1	1	0
+application	HasProperty	information system	1	1	0
+disorder	HasProperty	disease	1	1	0
+sex	HasProperty	offender	1	0	1
+vehicle	HasProperty	emission	1	1	0
+periodical	HasProperty	publish	1	1	0
+pluralistic	AtLocation	approach	1	1	0
+editorial	HasProperty	paper	1	1	0
+fuel	HasProperty	renewable	1	1	0
+school	HasProperty	operate school	1	1	0
+skin	HasProperty	eye	1	0	1
+model	HasProperty	simulation	1	0	1
+sport	HasProperty	sport event	1	1	0
+coal	HasProperty	fuel	1	1	0
+school student	HasProperty	grade	1	1	0
+gang	HasProperty	criminal	1	1	0
+press release	HasProperty	news	1	1	0
+datum	HasProperty	management system	1	1	0
+pet	HasProperty	animal	1	1	0
+build engine	HasProperty	engine	1	1	0
+development	HasProperty	information technology	1	1	0
+strategy	HasProperty	management	1	1	0
+atlas	HasProperty	map	1	1	0
+geriatric	HasProperty	cancer	1	1	0
+massage	HasProperty	sex	1	1	0
+system	HasProperty	different system	1	1	0
+primary	HasProperty	health service	1	1	0
+resource	HasProperty	promote development	1	1	0
+distribution	HasProperty	logistic	1	1	0
+genome	HasProperty	analysis	1	1	0
+new town	HasProperty	town	1	1	0
+report	HasProperty	audit	1	1	0
+baseball team	HasProperty	professional	1	1	0
+trout	HasProperty	river	1	1	0
+mud	HasProperty	water	1	1	0
+hospital	HasProperty	medical service	1	1	0
+whale	HasProperty	sea	1	1	0
+generation	HasProperty	renewable	1	1	0
+feminism	HasProperty	theory	1	1	0
+hair	HasProperty	color	1	1	0
+mammal	HasProperty	animal	1	1	0
+botanist	HasProperty	specie	1	0	1
+jersey	HasProperty	wear	1	0	1
+health	HasProperty	holistic	1	1	0
+discipline	HasProperty	science	1	1	0
+flag	HasProperty	colour	1	1	0
+school student	HasProperty	high	1	1	0
+sex	HasProperty	lose virginity	1	1	0
+essay	HasProperty	storey	1	1	0
+orange	HasProperty	blue	1	0	1
+knowledge	HasProperty	competency	1	1	0
+scheme	HasProperty	classification	1	1	0
+open line	HasProperty	open	1	1	0
+spacecraft	HasProperty	space	1	1	0
+development	HasProperty	promote research	1	1	0
+management	HasProperty	enterprise	1	1	0
+blue	HasProperty	stripe	1	1	0
+quality	HasProperty	health service	1	1	0
+basketball	HasProperty	player	1	1	0
+function	HasProperty	theorem	1	0	1
+learn	HasProperty	learn skill	1	1	0
+publish series	HasProperty	paper	1	1	0
+business school	HasProperty	business	1	1	0
+specie	HasProperty	plant	1	0	1
+survive son	HasProperty	die	1	0	1
+genome	HasProperty	human	1	1	0
+network	HasProperty	build network	1	1	0
+colour	HasProperty	ribbon	1	1	0
+agency	HasProperty	federal	1	1	0
+industrial	HasProperty	waste	1	1	0
+sale	HasProperty	low price	1	1	0
+psychology	HasProperty	research	1	1	0
+eye	HasProperty	dark	1	0	1
+pamphlet	HasProperty	publish	1	1	0
+world	HasProperty	real world	1	1	0
+great player	HasProperty	player	1	1	0
+biotechnology	HasProperty	development	1	1	0
+code	HasProperty	developer	1	1	0
+second edition	HasProperty	book	1	1	0
+renewable	HasProperty	fuel	1	1	0
+sample	HasProperty	analysis	1	1	0
+cell	HasProperty	hydrogen	1	0	1
+council	HasProperty	council member	1	1	0
+missile	HasProperty	aircraft	1	1	0
+pale	HasProperty	color	1	1	0
+attend	HasProperty	study philosophy	1	0	1
+bulletin	HasProperty	news	1	1	0
+protein	HasProperty	use study	1	0	1
+database	HasProperty	application	1	0	1
+painter	HasProperty	paint	1	1	0
+tire	HasProperty	car	1	1	0
+life cycle	HasProperty	product	1	0	1
+patch	HasProperty	eye	1	0	1
+write subject	HasProperty	article	1	1	0
+school	HasProperty	work teacher	1	1	0
+stripe	HasProperty	green	1	1	0
+patient	HasProperty	medical service	1	1	0
+color	HasProperty	pale	1	1	0
+service	HasProperty	new service	1	1	0
+wear	HasProperty	hair	1	0	1
+campaign	HasProperty	awareness	1	1	0
+tea	HasProperty	green	1	1	0
+consultancy	HasProperty	service	1	1	0
+defeat election	HasProperty	vote	1	1	0
+project	HasProperty	development project	1	1	0
+patient	HasProperty	health service	1	1	0
+protocol	HasProperty	implement	1	0	1
+source	HasProperty	other source	1	1	0
+source	HasProperty	pollution	1	0	1
+health	HasProperty	improve quality life	1	1	0
+jean	HasProperty	wear	1	1	0
+stellar	HasProperty	star	1	1	0
+sound	HasProperty	create sound	1	1	0
+brown	HasProperty	colour	1	1	0
+basketball	HasProperty	athlete	1	1	0
+material	HasProperty	aluminium	1	1	0
+safety	HasProperty	ensure safety	1	1	0
+radio show	HasProperty	radio	1	1	0
+dress	HasProperty	wear	1	1	0
+improve	HasProperty	reduce time	1	0	1
+pastel	HasProperty	color	1	1	0
+wig	HasProperty	wear	1	0	1
+product	HasProperty	product line	1	1	0
+datum	HasProperty	provide user	1	1	0
+house	HasProperty	unit	1	1	0
+competitor	HasProperty	competition	1	1	0
+survey	HasProperty	conduct	1	1	0
+methodology	HasProperty	tool	1	0	1
+hardback	HasProperty	book	1	1	0
+service	HasProperty	ambulance	1	0	1
+student body	HasProperty	student	1	1	0
+political party	HasProperty	candidate	1	1	0
+target	HasProperty	over	1	0	1
+electronic	HasProperty	device	1	1	0
+ecology	HasProperty	environment	1	1	0
+chemistry	HasProperty	physical	1	0	1
+application	HasProperty	embed	1	0	1
+attendee	HasProperty	event	1	1	0
+climate	HasProperty	climate change	1	1	0
+ballot	HasProperty	candidate	1	1	0
+shirt	HasProperty	blue	1	1	0
+market	HasProperty	product line	1	1	0
+flower	HasProperty	leaf	1	1	0
+casino	HasProperty	table	1	1	0
+coal	HasProperty	industry	1	0	1
+material	HasProperty	high temperature	1	1	0
+potential	HasProperty	energy	1	1	0
+uniform	HasProperty	blue	1	1	0
+chemical	HasProperty	use process	1	0	1
+management	HasProperty	software	1	0	1
+oxide	HasProperty	material	1	1	0
+code	HasProperty	include information	1	1	0
+business	HasProperty	business school	1	0	1
+sport car	HasProperty	vehicle	1	1	0
+physician	HasProperty	medical	1	1	0
+ingredient	HasProperty	product	1	1	0
+stone	HasProperty	tool	1	1	0
+election	HasProperty	support candidate	1	1	0
+paper	HasProperty	print	1	1	0
+student	HasProperty	student body	1	1	0
+well	HasProperty	gas	1	0	1
+product	HasProperty	other manufacturer	1	1	0
+material	HasProperty	polymer	1	1	0
+propulsion	HasProperty	system	1	1	0
+methodology	HasProperty	analysis	1	1	0
+datum	HasProperty	visualization	1	0	1
+large project	HasProperty	project	1	1	0
+win election	HasProperty	elect	1	1	0
+application	HasProperty	aerospace	1	1	0
+adolescent	HasProperty	sex	1	1	0
+education	HasProperty	vocational	1	1	0
+may	HasProperty	combine	1	1	0
+enable	HasProperty	develop process	1	1	0
+version song	HasProperty	song	1	1	0
+fruit	HasProperty	dry	1	1	0
+transsexual	HasProperty	sexual	1	1	0
+enable	HasProperty	deliver service	1	1	0
+print press	HasProperty	paper	1	1	0
+station	HasProperty	through	1	0	1
+first language	HasProperty	language	1	1	0
+talk show	HasProperty	news	1	0	1
+football competition	HasProperty	football	1	1	0
+lime	HasProperty	green	1	1	0
+species	HasProperty	conservation	1	1	0
+business	HasProperty	information system	1	1	0
+baseball	HasProperty	player	1	1	0
+law	HasProperty	law firm	1	1	0
+organisation	HasProperty	good practice	1	1	0
+product	HasProperty	manufacture	1	1	0
+customer	HasProperty	build relationship	1	1	0
+colour	HasProperty	yellow	1	1	0
+specie	HasProperty	genus	1	1	0
+increase	HasProperty	increase level	1	1	0
+standard	HasProperty	compliance	1	1	0
+genus	HasProperty	specie	1	1	0
+election	HasProperty	ballot	1	1	0
+news report	HasProperty	news	1	1	0
+vehicle	HasProperty	new car	1	1	0
+chemistry	HasProperty	chemical	1	1	0
+government	HasProperty	central government	1	1	0
+coach	HasProperty	football	1	0	1
+goat	HasProperty	animal	1	1	0
+league	HasProperty	professional team	1	1	0
+tomato	HasProperty	plant	1	1	0
+scientist	HasProperty	climate change	1	0	1
+basketball	HasProperty	football	1	0	1
+management	HasProperty	sustainable	1	1	0
+water	HasProperty	drought	1	0	1
+quality	HasProperty	improve	1	1	0
+management	HasProperty	assurance	1	1	0
+education	AtLocation	bachelor degree	1	1	0
+several book	IsA	author	1	0	1
+economic development	AtLocation	policy	1	1	0
+promote awareness	AtLocation	promote	1	1	0
+build castle	AtLocation	castle	1	1	0
+hall	AtLocation	lounge	1	1	0
+public health	AtLocation	protection	1	1	0
+society	AtLocation	civil	1	1	0
+diplomacy	AtLocation	relation	1	1	0
+lawn	AtLocation	garden	1	1	0
+door	AtLocation	glass	1	0	1
+national security	AtLocation	secret	1	1	0
+seismic	AtLocation	datum	1	0	1
+bar	AtLocation	dine	1	1	0
+restaurant	AtLocation	store	1	1	0
+estuary	AtLocation	sea	1	1	0
+hotel	AtLocation	real estate	1	0	1
+beach	AtLocation	sea	1	1	0
+residence	AtLocation	campus	1	1	0
+morale	AtLocation	army	1	1	0
+bar	AtLocation	dine room	1	1	0
+cause flood	AtLocation	storm	1	1	0
+park	AtLocation	wildlife	1	1	0
+father	AtLocation	family business	1	0	1
+intertidal	AtLocation	zone	1	1	0
+abiotic	AtLocation	condition	1	0	1
+disclosure	AtLocation	file	1	0	1
+loss life	AtLocation	cause	1	0	1
+information technology	AtLocation	development	1	1	0
+search	IsA	issue warrant	1	0	1
+buy	AtLocation	offer sale	1	1	0
+depletion	AtLocation	resource	1	1	0
+pollution	AtLocation	resource	1	1	0
+master	AtLocation	receive bachelor degree	1	0	1
+society	AtLocation	secret	1	0	1
+easy	AtLocation	access	1	1	0
+diplomacy	AtLocation	international	1	1	0
+liquor	AtLocation	store	1	1	0
+law practice	AtLocation	firm	1	0	1
+economic policy	AtLocation	sector	1	1	0
+forge	AtLocation	document	1	0	1
+private	AtLocation	residence	1	1	0
+valley	AtLocation	panoramic	1	1	0
+diplomacy	AtLocation	foreign	1	1	0
+station	AtLocation	station build	1	1	0
+floor	AtLocation	rooftop	1	1	0
+floor	AtLocation	upstairs	1	1	0
+activist	AtLocation	protest	1	1	0
+tide	AtLocation	water	1	1	0
+hazard	AtLocation	fire	1	1	0
+slow-move	AtLocation	lake	1	1	0
+curtain	AtLocation	door	1	1	0
+ocean	AtLocation	sea	1	1	0
+downturn	AtLocation	economic	1	1	0
+access	AtLocation	easy	1	0	1
+cafe	AtLocation	visitor	1	0	1
+hall	AtLocation	library	1	1	0
+fern	IsA	m	1	0	1
+mankind	AtLocation	will	1	0	1
+dress	AtLocation	room	1	1	0
+lab	AtLocation	hall	1	1	0
+vibrant	AtLocation	community	1	1	0
+cooperation	AtLocation	exchange	1	1	0
+exploitation	AtLocation	mine	1	0	1
+other body	AtLocation	organisation	1	1	0
+nuclear	AtLocation	waste	1	1	0
+loss life	AtLocation	property	1	0	1
+influx	AtLocation	huge	1	0	1
+park	AtLocation	garden	1	1	0
+science	AtLocation	receive bachelor	1	1	0
+penal	AtLocation	colony	1	1	0
+ice age	AtLocation	sea	1	0	1
+corrosion	AtLocation	problem	1	1	0
+science	AtLocation	gymnasium	1	1	0
+convective	AtLocation	wave	1	0	1
+vegetable	AtLocation	garden	1	1	0
+water	AtLocation	fountain	1	1	0
+quality life	AtLocation	community	1	1	0
+theory	AtLocation	international relation	1	0	1
+commerce	AtLocation	trade	1	1	0
+fastest-grow	AtLocation	suburb	1	1	0
+english county	AtLocation	suburb	1	1	0
+australian team	AtLocation	suburb	1	1	0
+australian football	AtLocation	suburb	1	1	0
+capillary	AtLocation	wall	1	0	1
+raw material	AtLocation	industrial	1	1	0
+join	AtLocation	become member	1	1	0
+whale	AtLocation	sea	1	1	0
+institution	AtLocation	other university	1	1	0
+nuclear reactor	AtLocation	nuclear	1	1	0
+water level	AtLocation	lake	1	1	0
+geomagnetic	AtLocation	field	1	1	0
+law-abiding	AtLocation	citizen	1	1	0
+nurture	AtLocation	encourage	1	1	0
+cash	AtLocation	register	1	1	0
+economic development	AtLocation	health	1	1	0
+sell	AtLocation	good book	1	0	1
+institution	AtLocation	university	1	1	0
+low pressure	AtLocation	air	1	1	0
+anglo-norman	AtLocation	castle	1	1	0
+foreign policy	AtLocation	foreign	1	1	0
+fast-grow	AtLocation	suburb	1	1	0
+take stand	AtLocation	firm	1	1	0
+firm	AtLocation	law school	1	0	1
+geopolitical	AtLocation	strategy	1	1	0
+campus	AtLocation	residence	1	1	0
+furniture	AtLocation	glass	1	0	1
+information technology	AtLocation	technology	1	1	0
+shore	AtLocation	lake	1	1	0
+unsustainable	AtLocation	resource	1	1	0
+human activity	AtLocation	environment	1	1	0
+geochemical	AtLocation	earth	1	1	0
+summer	AtLocation	resort	1	0	1
+bus	AtLocation	car park	1	1	0
+protect environment	AtLocation	promote	1	1	0
+dock	AtLocation	ship	1	1	0
+quality life	AtLocation	aim	1	0	1
+opponent	AtLocation	throw ball	1	0	1
+develop feel	AtLocation	relationship	1	1	0
+integrable	AtLocation	respect	1	0	1
+social change	AtLocation	1960	1	1	0
+foliage	AtLocation	garden	1	1	0
+church	AtLocation	convent	1	1	0
+smoke	AtLocation	fire	1	1	0
+technical	AtLocation	technician	1	1	0
+financial crisis	AtLocation	russian	1	1	0
+financial crisis	AtLocation	asian	1	1	0
+capitalism	AtLocation	society	1	1	0
+fear	AtLocation	terror	1	1	0
+merseyside	AtLocation	suburb	1	0	1
+machine	AtLocation	machinery	1	1	0
+mutual	AtLocation	aid	1	0	1
+alkaline	AtLocation	lake	1	1	0
+them	AtLocation	restaurant	1	1	0
+salmon	AtLocation	river	1	1	0
+relatively shallow	AtLocation	lake	1	0	1
+20cm	AtLocation	size	1	1	0
+beaver	AtLocation	lake	1	0	1
+tin	AtLocation	box	1	1	0
+cocktail	AtLocation	restaurant	1	1	0
+inter-ethnic	AtLocation	communication	1	1	0
+pub	AtLocation	village	1	1	0
+strong wind	AtLocation	sea	1	1	0
+shop	AtLocation	cafe	1	1	0
+assimilation	AtLocation	society	1	1	0
+brackish	AtLocation	sea	1	0	1
+journalist	AtLocation	journalism	1	1	0
+philosophy	AtLocation	receive bachelor degree	1	0	1
+posh	AtLocation	hotel	1	0	1
+conducive	AtLocation	environment	1	1	0
+floor	AtLocation	lounge	1	1	0
+campus	AtLocation	university	1	1	0
+restaurant	AtLocation	shop	1	1	0
+estate	AtLocation	country house	1	1	0
+post	AtLocation	office	1	1	0
+construction	AtLocation	new campus	1	1	0
+alienation	AtLocation	society	1	1	0
+personnel	AtLocation	security	1	1	0
+fish	AtLocation	marina	1	1	0
+principle	AtLocation	human right	1	1	0
+industry	AtLocation	cottage	1	0	1
+climate change	AtLocation	risk	1	0	1
+ensure safety	AtLocation	security	1	1	0
+family business	AtLocation	father	1	0	1
+bedroom	AtLocation	window	1	0	1
+expansion	AtLocation	announce plan	1	1	0
+ventilation	AtLocation	door	1	1	0
+college	AtLocation	other university	1	1	0
+lowland	AtLocation	garden	1	1	0
+boar	AtLocation	animal	1	0	1
+societal	AtLocation	practice	1	0	1
+sell product	AtLocation	price	1	1	0
+deforestation	AtLocation	loss	1	0	1
+property	AtLocation	estate	1	1	0
+bus	AtLocation	train station	1	0	1
+kinematic	AtLocation	chain	1	0	1
+nuclear	AtLocation	bomb	1	1	0
+municipality	AtLocation	south-eastern	1	1	0
+fertilizer	AtLocation	industrial	1	1	0
+wildlife	AtLocation	protection	1	1	0
+respect	AtLocation	guarantee right	1	1	0
+motel	AtLocation	restaurant	1	0	1
+democratic	AtLocation	party	1	1	0
+civil right	AtLocation	right	1	1	0
+art	AtLocation	exhibition	1	1	0
+information technology	AtLocation	management	1	1	0
+hotel	AtLocation	restaurant	1	1	0
+tide	AtLocation	sea	1	1	0
+room	AtLocation	bedroom	1	1	0
+iconography	AtLocation	art	1	1	0
+raw material	AtLocation	supply	1	1	0
+hospital	AtLocation	nurse	1	0	1
+economy	AtLocation	industry	1	1	0
+angevin	AtLocation	castle	1	0	1
+wing	AtLocation	second floor	1	0	1
+campus	AtLocation	gymnasium	1	1	0
+governance	AtLocation	responsibility	1	1	0
+diary	IsA	letter	1	1	0
+student	AtLocation	dormitory	1	1	0
+biophysical	AtLocation	energy	1	1	0
+park	AtLocation	lot	1	1	0
+on-site	AtLocation	facility	1	1	0
+collegial	AtLocation	spirit	1	0	1
+library	AtLocation	lounge	1	1	0
+trout	AtLocation	lake	1	1	0
+famine	AtLocation	food	1	0	1
+tower	AtLocation	rooftop	1	0	1
+room	AtLocation	provide accommodation	1	1	0
+much-love	AtLocation	garden	1	1	0
+high standard	AtLocation	ensure	1	1	0
+corrosion	AtLocation	oil	1	1	0
+co-edit	IsA	book	1	1	0
+soil	AtLocation	plant	1	0	1
+tsunami	AtLocation	aid	1	0	1
+watershed	AtLocation	lake	1	1	0
+paint portrait	IsA	exhibit	1	1	0
+frost	AtLocation	spring	1	1	0
+football competition	IsA	australian	1	1	0
+small bird	AtLocation	family	1	0	1
+mankind	AtLocation	knowledge	1	1	0
+epistemological	AtLocation	mind	1	1	0
+world	AtLocation	large collection	1	0	1
+co-operation	AtLocation	agreement	1	1	0
+school	AtLocation	classroom	1	1	0
+hockey team	IsA	man s	1	1	0
+poem	IsA	patriotic	1	1	0
+shrubby	AtLocation	lake	1	0	1
+german	IsA	german government	1	1	0
+law	IsA	constitutional	1	1	0
+bird	IsA	paradise	1	0	1
+privatization	AtLocation	1990	1	1	0
+grow size	AtLocation	strength	1	0	1
+access	IsA	offer access	1	1	0
+shallow water	AtLocation	lake	1	1	0
+oldie	IsA	1980	1	1	0
+oldie	IsA	1970	1	1	0
+oldie	IsA	1960	1	1	0
+oldie	IsA	1950	1	1	0
+local economy	AtLocation	industry	1	1	0
+control movement	AtLocation	control	1	1	0
+economic crisis	AtLocation	asian	1	1	0
+economic crisis	AtLocation	1990	1	1	0
+economic crisis	AtLocation	1980	1	1	0
+glass	AtLocation	jewellery	1	1	0
+society	AtLocation	just	1	1	0
+lanky	IsA	frame	1	0	1
+essay	IsA	literature	1	1	0
+sci-fi	IsA	theme	1	1	0
+inter-ethnic	AtLocation	relation	1	1	0
+colonization	AtLocation	european	1	1	0
+environment	AtLocation	safe	1	1	0
+still	AtLocation	image	1	1	0
+co-writing	IsA	nominate	1	0	1
+artist	AtLocation	gallery	1	1	0
+share kiss	IsA	realize	1	0	1
+practice	IsA	respect right	1	0	1
+convective	AtLocation	pattern	1	0	1
+center	AtLocation	shop	1	0	1
+develop feel	AtLocation	admit	1	0	1
+take leave absence	IsA	pursue	1	0	1
+visit port	IsA	return	1	0	1
+calligraphy	IsA	japanese	1	1	0
+calligraphy	IsA	chinese	1	0	1
+perfume	IsA	item	1	1	0
+conduct train	IsA	crow	1	0	1
+house	AtLocation	house estate	1	1	0
+base true story	IsA	murder	1	0	1
+novel	IsA	child s book	1	1	0
+spend several month	IsA	camp	1	0	1
+coffee	AtLocation	shop	1	1	0
+co-edit	IsA	entitle	1	0	1
+volleyball	IsA	track	1	0	1
+several book	IsA	publish	1	1	0
+social justice	AtLocation	reform	1	1	0
+hegemonic	AtLocation	empire	1	1	0
+mineralogical	AtLocation	museum	1	1	0
+student	AtLocation	provide accommodation	1	1	0
+crustal	AtLocation	rock	1	1	0
+high-flying	IsA	fighter	1	1	0
+science	AtLocation	earn bachelor degree	1	1	0
+low-budget	IsA	movie	1	1	0
+goth	IsA	empire	1	1	0
+conservatism	AtLocation	opposition	1	1	0
+polo	IsA	basketball	1	0	1
+goth	IsA	tribe	1	1	0
+red-haired	IsA	boy	1	1	0
+publish after death	IsA	entitle	1	0	1
+develop skill	AtLocation	knowledge	1	1	0
+foreword	IsA	edition	1	1	0
+heron	AtLocation	lake	1	0	1
+office	AtLocation	classroom	1	1	0
+gonna	AtLocation	tell	1	1	0
+skill	IsA	prepare student	1	1	0
+grocery store	IsA	clothe	1	0	1
+ayurvedic	IsA	text	1	1	0
+shaggy	IsA	eye	1	1	0
+freighter	IsA	crow	1	1	0
+social change	AtLocation	society	1	1	0
+room	AtLocation	hotel	1	1	0
+a-side	IsA	cd	1	1	0
+twenty-second	IsA	studio	1	1	0
+town	AtLocation	outskirt	1	0	1
+corrosion	AtLocation	prevent	1	0	1
+window	AtLocation	floor	1	0	1
+name head coach	IsA	man s	1	0	1
+instrument	IsA	play instrument	1	1	0
+walk street	AtLocation	walk	1	1	0
+singer-songwriter	IsA	american	1	1	0
+ornithological	IsA	library	1	0	1
+collection short storey	IsA	collection	1	1	0
+sunday	IsA	direction	1	0	1
+medical	AtLocation	hospital	1	1	0
+collection storey	IsA	author	1	0	1
+german	IsA	german state	1	1	0
+ship	AtLocation	port	1	1	0
+epistemological	AtLocation	problem	1	1	0
+nymph	IsA	greek	1	1	0
+deterioration	AtLocation	situation	1	1	0
+reggae	IsA	1970	1	1	0
+mangrove	AtLocation	river	1	1	0
+law	AtLocation	earn degree	1	1	0
+many student	AtLocation	university	1	1	0
+unisex	IsA	clothe	1	1	0
+baggy	IsA	chain	1	0	1
+cheerleade	IsA	cross	1	0	1
+little expensive	IsA	alternative	1	0	1
+motel	AtLocation	stay	1	1	0
+wig	IsA	suit	1	0	1
+decentralize	AtLocation	network	1	1	0
+school build	AtLocation	school	1	1	0
+blood vessel	AtLocation	body	1	0	1
+moorish	AtLocation	castle	1	1	0
+new book	IsA	book	1	1	0
+trial	IsA	violate right	1	0	1
+art	AtLocation	dealer	1	0	1
+herb	IsA	meter	1	0	1
+coincide release	IsA	entitle	1	0	1
+lounge	AtLocation	hall	1	1	0
+anime series	IsA	fictional	1	1	0
+spanish	IsA	inquisition	1	1	0
+capital	AtLocation	metropolis	1	1	0
+war	AtLocation	prisoner war	1	1	0
+brownish	IsA	bill	1	0	1
+write poetry	IsA	poet	1	1	0
+hard band	IsA	australian	1	1	0
+port	AtLocation	ship	1	0	1
+abridge	IsA	translate	1	1	0
+situate	AtLocation	eastern part	1	1	0
+wiry	IsA	strength	1	0	1
+wreath	IsA	surround	1	0	1
+gown	IsA	black	1	1	0
+social life	AtLocation	society	1	1	0
+own store	IsA	clothe	1	0	1
+chair	AtLocation	table	1	1	0
+picaresque	IsA	society	1	1	0
+4ad	IsA	cd	1	1	0
+furniture	AtLocation	collection	1	1	0
+ameliorate	AtLocation	situation	1	0	1
+write volume	IsA	poetry	1	1	0
+song album	IsA	album	1	1	0
+erosion	AtLocation	prevent	1	0	1
+write short storey	IsA	storey	1	1	0
+crustal	AtLocation	extension	1	0	1
+opus	IsA	sing part	1	0	1
+off-beat	IsA	lyric	1	0	1
+low temperature	AtLocation	heat	1	1	0
+room	AtLocation	gym	1	1	0
+ready-to-wear	IsA	store	1	0	1
+woman s	IsA	right movement	1	1	0
+home-base	IsA	clothe	1	0	1
+fine	AtLocation	art	1	1	0
+vessel	AtLocation	cargo ship	1	1	0
+jewellery	IsA	watch	1	1	0
+room	AtLocation	classroom	1	1	0
+three-volume	IsA	translation	1	1	0
+hotel	AtLocation	leisure	1	1	0
+write commentary	IsA	text	1	1	0
+deciduous	IsA	m	1	1	0
+write poetry	IsA	lyric	1	1	0
+scientist	AtLocation	computer	1	1	0
+ready-to-wear	IsA	woman s	1	1	0
+write commentary	IsA	entitle	1	1	0
+facility	IsA	amenity	1	0	1
+accuse	IsA	show respect	1	0	1
+social life	AtLocation	aspect	1	0	1
+runoff	AtLocation	urban	1	0	1
+information technology	AtLocation	science	1	1	0
+facility	AtLocation	lab	1	1	0
+book s	IsA	introduction	1	0	1
+wreath	IsA	flag	1	0	1
+edge	AtLocation	south-eastern	1	1	0
+hotel	AtLocation	suite	1	0	1
+high education	AtLocation	university	1	1	0
+financial	IsA	disclosure	1	0	1
+gym	AtLocation	room	1	1	0
+law	AtLocation	law school	1	1	0
+flamboyant	IsA	clothe	1	0	1
+prime-time	IsA	strip	1	0	1
+custom-made	IsA	clothe	1	1	0
+support system	AtLocation	file	1	1	0
+robbery	AtLocation	police	1	1	0
+butterfly	AtLocation	garden	1	1	0
+wear costume	IsA	depict	1	0	1
+comedy series	IsA	tv	1	1	0
+congratulatory	IsA	poem	1	1	0
+economic crisis	AtLocation	economy	1	1	0
+room	AtLocation	include library	1	1	0
+vessel	AtLocation	boat	1	1	0
+influx	AtLocation	worker	1	0	1
+wrought-iron	AtLocation	garden	1	0	1
+existence	AtLocation	very	1	0	1
+first mission	IsA	crow	1	0	1
+german	IsA	prisoner war	1	1	0
+government policy	AtLocation	economy	1	1	0
+contribute article	IsA	review	1	1	0
+one-of-a-kind	IsA	item	1	1	0
+cognitive	AtLocation	skill	1	1	0
+two-volume	IsA	edition	1	1	0
+toy	IsA	clothe	1	0	1
+sanitary	AtLocation	facility	1	1	0
+8-track	IsA	cd	1	1	0
+fairy tale	IsA	russian	1	1	0
+ufo	IsA	encounter	1	1	0
+wood	AtLocation	fireplace	1	1	0
+room	AtLocation	hostel	1	1	0
+ship	AtLocation	container	1	1	0
+polychrome	IsA	wall	1	1	0
+mother	AtLocation	son s	1	0	1
+dinner	AtLocation	table	1	1	0
+macabre	IsA	theme	1	1	0
+estate	AtLocation	villa	1	1	0
+court-martial	IsA	trial	1	1	0
+high standard	AtLocation	quality	1	1	0
+rerelease	IsA	cd	1	1	0
+product	AtLocation	textile	1	1	0
+long-run	AtLocation	science	1	0	1
+library	AtLocation	museum	1	1	0
+salty	AtLocation	sea	1	1	0
+vase	IsA	greek	1	1	0
+varsity team	IsA	man s	1	1	0
+produce edition	IsA	edit	1	1	0
+sunday	IsA	air	1	0	1
+expand	AtLocation	include student	1	0	1
+border	AtLocation	municipality	1	0	1
+heavy band	IsA	american	1	1	0
+non-fiction	IsA	novel	1	1	0
+abandon ship	IsA	crow	1	0	1
+enter season	IsA	defend	1	0	1
+government policy	AtLocation	protest	1	0	1
+german	IsA	counterattack	1	1	0
+jewellery	AtLocation	store	1	1	0
+collegial	AtLocation	relation	1	1	0
+post	AtLocation	include office	1	1	0
+wear mask	IsA	clothe	1	1	0
+prosperity	AtLocation	peace	1	1	0
+western	AtLocation	eastern part	1	0	1
+pastel	IsA	flower	1	0	1
+residential	AtLocation	suburb	1	1	0
+bring child	AtLocation	parent	1	1	0
+write memoir	IsA	experience	1	1	0
+eco-friendly	IsA	clothe	1	1	0
+road	AtLocation	main route	1	1	0
+khaki	IsA	colour	1	1	0
+haired	IsA	woman	1	1	0
+jean	IsA	black	1	0	1
+trumpeter	IsA	american	1	1	0
+german	IsA	german army	1	1	0
+publish poem	IsA	newspaper	1	0	1
+neighborhood	AtLocation	waterfront	1	0	1
+woman s	IsA	participate sport	1	1	0
+write style	IsA	poetry	1	0	1
+glass	AtLocation	panel	1	1	0
+moist forest	AtLocation	garden	1	1	0
+legal system	AtLocation	reform	1	1	0
+edit book	IsA	publish	1	1	0
+shop	AtLocation	first floor	1	1	0
+material	IsA	make material	1	1	0
+brevet	IsA	captain	1	0	1
+nuclear weapon	AtLocation	bomb	1	1	0
+bookstore	IsA	book	1	1	0
+material	IsA	other material	1	1	0
+baseball team	IsA	man s	1	1	0
+boogie	IsA	board	1	0	1
+professionalism	AtLocation	standard	1	1	0
+unrest	AtLocation	political	1	1	0
+serve coach	IsA	volunteer	1	0	1
+surgical	IsA	technique	1	1	0
+pay taxi	IsA	tax	1	1	0
+attorney general	IsA	democratic	1	0	1
+nature	AtLocation	reserve	1	1	0
+post-industrial	AtLocation	society	1	1	0
+voluptuous	IsA	sex	1	1	0
+late album	IsA	vocal	1	1	0
+activity	AtLocation	offer wide range	1	1	0
+colonialism	AtLocation	19th century	1	1	0
+publication	IsA	write article	1	1	0
+humidity	AtLocation	air	1	1	0
+science-fiction	IsA	comic	1	1	0
+thermodynamics	AtLocation	second	1	0	1
+new law	AtLocation	reform	1	1	0
+volleyball	IsA	field	1	0	1
+maple	IsA	specie	1	1	0
+threat	AtLocation	terrorist	1	1	0
+sing version	IsA	cover	1	1	0
+feature article	IsA	page	1	1	0
+deforestation	AtLocation	threaten	1	1	0
+study	AtLocation	postgraduate	1	1	0
+20-minute	IsA	speech	1	1	0
+manga	IsA	japanese	1	1	0
+athletic team	IsA	man s	1	1	0
+finish degree	IsA	pursue	1	0	1
+fishery	AtLocation	industry	1	0	1
+crisis	AtLocation	economic	1	1	0
+college	AtLocation	campus	1	1	0
+twice-weekly	IsA	session	1	1	0
+assistant manager	IsA	hire	1	0	1
+perform ceremony	IsA	invite	1	0	1
+petite	IsA	height	1	1	0
+hold hear	IsA	approve	1	0	1
+player	AtLocation	player s	1	1	0
+revolution	AtLocation	industrial	1	1	0
+worn	IsA	clothe	1	1	0
+appear television show	IsA	reality	1	1	0
+congratulatory	IsA	occasion	1	1	0
+hardcover	IsA	page	1	1	0
+include article	IsA	publish	1	1	0
+increase awareness	AtLocation	improve	1	1	0
+mechanize	AtLocation	unit	1	1	0
+perform album	IsA	bass	1	1	0
+novella	IsA	'the	1	1	0
+call book	IsA	read	1	1	0
+appear compilation	IsA	cd	1	1	0
+privatise	AtLocation	rename	1	1	0
+occupational	AtLocation	worker	1	1	0
+climate change	AtLocation	environment	1	1	0
+aluminium	IsA	glass	1	0	1
+convince	IsA	take own hand	1	0	1
+write weekly column	IsA	paper	1	0	1
+write fiction	IsA	crime	1	0	1
+security	IsA	maintain order	1	0	1
+rainfall	AtLocation	average	1	1	0
+develop policy	AtLocation	management	1	1	0
+flame	AtLocation	fire	1	1	0
+hard band	IsA	american	1	1	0
+shop	AtLocation	next door	1	1	0
+door	AtLocation	unlock	1	1	0
+b-17	IsA	crow	1	0	1
+yearbook	IsA	magazine	1	1	0
+anthology	IsA	fiction	1	1	0
+front	AtLocation	door	1	1	0
+publish first novel	IsA	novel	1	1	0
+mastermind	IsA	bomb	1	0	1
+biweekly	IsA	affair	1	1	0
+firm s	IsA	management	1	1	0
+several book	IsA	write	1	1	0
+slum	AtLocation	suburb	1	1	0
+send ship	IsA	crow	1	0	1
+pollution	AtLocation	water	1	1	0
+bibliographical	IsA	author	1	1	0
+zen	IsA	tradition	1	1	0
+ability	AtLocation	body s	1	1	0
+self-publish	IsA	copy	1	1	0
+floral	IsA	garden	1	1	0
+practice	AtLocation	profession	1	1	0
+bracelet	IsA	gold	1	1	0
+preserve	AtLocation	heritage	1	1	0
+convention	IsA	violate right	1	0	1
+supply	AtLocation	depot	1	1	0
+betroth	IsA	arrange	1	0	1
+gruel	IsA	schedule	1	0	1
+wreath	IsA	green	1	0	1
+shop mall	IsA	suburb	1	1	0
+kangaroo	IsA	australian	1	1	0
+play last game	IsA	play game	1	1	0
+industrial area	AtLocation	commercial	1	1	0
+otter	IsA	sea	1	1	0
+write volume	IsA	edit	1	1	0
+firm s	IsA	practice	1	0	1
+service	IsA	include service	1	1	0
+communication	IsA	other equipment	1	0	1
+trade	AtLocation	maritime	1	1	0
+hotel	AtLocation	lobby	1	1	0
+natured	IsA	bite	1	0	1
+fight fire	AtLocation	fire	1	1	0
+facility	AtLocation	dine	1	0	1
+anthologize	IsA	poetry	1	1	0
+frictional	AtLocation	pressure	1	1	0
+confidential	AtLocation	information	1	1	0
+bubbly	IsA	girl	1	0	1
+put album	IsA	entitle	1	1	0
+2-disc	IsA	cd	1	1	0
+document	IsA	disclosure	1	0	1
+red-haired	IsA	eye	1	1	0
+publish several book	IsA	poetry	1	1	0
+cricket team	IsA	english	1	1	0
+coauthor	IsA	chapter	1	0	1
+hockey player	IsA	swedish	1	1	0
+underwear	IsA	brief	1	0	1
+three-volume	IsA	edition	1	1	0
+analysis	IsA	information system	1	0	1
+pop band	IsA	swedish	1	1	0
+outflow	AtLocation	lake	1	0	1
+gain national attention	IsA	medium	1	1	0
+antique	IsA	collection	1	1	0
+first film	IsA	film	1	1	0
+priest	IsA	absolve	1	1	0
+opus	IsA	include music	1	1	0
+10-minute	IsA	pressure	1	0	1
+sell item	IsA	clothe	1	0	1
+short story	IsA	fiction	1	1	0
+hardcover	IsA	collection	1	1	0
+egregious	IsA	freedom	1	0	1
+comic series	IsA	'the	1	1	0
+host tournament	IsA	woman s	1	1	0
+short story	IsA	storey	1	1	0
+sing duet	IsA	invite	1	0	1
+pay taxi	IsA	property	1	0	1
+seventh-day	IsA	witness	1	0	1
+exhibition	IsA	provide space	1	0	1
+publish collection	IsA	collection	1	1	0
+cocktail	IsA	mix	1	1	0
+serve coach	IsA	pitch	1	0	1
+internet	IsA	upload	1	1	0
+postcard	IsA	item	1	1	0
+fretless	IsA	metal	1	1	0
+philatelic	IsA	press	1	1	0
+make occasional appearance	IsA	tv	1	1	0
+short story	IsA	story	1	1	0
+form own band	IsA	bass	1	0	1
+monthly magazine	IsA	news	1	1	0
+10-minute	IsA	maximum	1	1	0
+professional wrestler	IsA	japanese	1	1	0
+professional wrestler	IsA	canadian	1	1	0
+reel-to-reel	IsA	format	1	0	1
+deny allegation	IsA	respond	1	1	0
+self-serve	IsA	politician	1	0	1
+accuse	IsA	issue warrant	1	0	1
+give lecture	IsA	entitle	1	0	1
+music station	IsA	christian	1	0	1
+music station	IsA	1970	1	1	0
+novella	IsA	short	1	1	0
+german	IsA	paratrooper	1	1	0
+full album	IsA	length	1	1	0
+send telegram	IsA	protest	1	0	1
+gown	IsA	clothe	1	1	0
+woman s	IsA	restroom	1	1	0
+independent label	IsA	cd	1	1	0
+surrealistic	IsA	lyric	1	1	0
+adopt style	IsA	clothe	1	1	0
+author	IsA	child s book	1	0	1
+handwritten	IsA	note	1	1	0
+publish series	IsA	article	1	1	0
+unfashionable	IsA	clothe	1	1	0
+publish biography	IsA	edit	1	1	0
+nectar	IsA	fee	1	0	1
+release summer	IsA	push	1	1	0
+equipment	IsA	include item	1	0	1
+internet	IsA	sexually explicit	1	0	1
+wreath	IsA	symbol	1	0	1
+king s	IsA	court	1	1	0
+host talk show	IsA	entitle	1	0	1
+anthology	IsA	volume	1	1	0
+jean	IsA	suit	1	1	0
+edit	IsA	write article	1	1	0
+investigative	IsA	report	1	1	0
+novella	IsA	author	1	1	0
+letter	IsA	write letter	1	0	1
+anthology	IsA	collection	1	1	0
+national	IsA	local level	1	0	1
+hit album	IsA	album	1	1	0
+appear television show	IsA	talk	1	1	0
+wig	IsA	wear	1	1	0
+manage editor	IsA	hire	1	0	1
+screenwriter	IsA	american	1	1	0
+singer-songwriter	IsA	irish	1	1	0
+publish volume	IsA	poetry	1	1	0
+sci-fi	IsA	convention	1	1	0
+trial	IsA	deny right	1	1	0
+foreword	IsA	publish	1	1	0
+release series	IsA	cd	1	1	0
+player s	MotivatedByGoal	player	1	0	1
+interior	SymbolOf	window	1	0	1
+fundamental	MotivatedByGoal	freedom	1	0	1
+championship	MotivatedByGoal	win championship title	1	1	0
